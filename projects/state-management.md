@@ -1,9 +1,9 @@
 # State Management
 
-| name       | github                                            | doc                                                                 |
-|:-----------|:--------------------------------------------------|:--------------------------------------------------------------------|
-| typescript | [Github](https://github.com/Microsoft/TypeScript) | [EN](http://www.typescriptlang.org/) - [CN](https://www.tslang.cn/) |
-| mobx       | [Github](https://github.com/mobxjs/mobx)          | [EN](https://palantir.github.io/tslint/)                            |
-| ts-node    | [Github](https://github.com/TypeStrong/ts-node)   | [EN](https://palantir.github.io/tslint/)                            |
+| name  | github                                     | doc                                                                     |
+|:------|:-------------------------------------------|:------------------------------------------------------------------------|
+| redux | [Github](https://github.com/reactjs/redux) | [English](https://github.com/reactjs/redux) - [简体中文](http://www.redux.org.cn/) |
+| mobx  | [Github](https://github.com/mobxjs/mobx)   | [English](https://mobx.js.org/) - [简体中文](http://cn.mobx.js.org/)               |
+| vuex  | [Github](https://github.com/vuejs/vuex)    | [English](https://vuex.vuejs.org/en/) - [简体中文](https://vuex.vuejs.org/zh-cn/)  |
 
 
