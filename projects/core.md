@@ -16,7 +16,7 @@
 
 | name       | repository                                          | doc                                                       | log    |
 |:-----------|:----------------------------------------------------|:----------------------------------------------------------|:-------|
-| element    | [](https://github.com/ElemeFE/element)              | [简体中文](http://element.eleme.io/)                        | PC     |
+| element    | [Github](https://github.com/ElemeFE/element)        | [简体中文](http://element.eleme.io/)                        | PC     |
 | iview      | [Github](https://github.com/iview/iview)            | [简体中文](https://www.iviewui.com/docs/)                   | PC     |
 | vux        | [Github](https://github.com/airyland/vux)           | [简体中文](https://vux.li/#/)                               | Mobile |
 | mint-ui    | [Github](https://github.com/ElemeFE/mint-ui)        | [简体中文](http://mint-ui.github.io/docs/#!/)               | Mobile |
