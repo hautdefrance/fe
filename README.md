@@ -7,3 +7,4 @@
 - [**Typescript**](projects/typescript.md)
 - [**Node.js**](projects/nodejs.md)
 - [**Reactive Programming**](projects/reactive-programming.md)
+- [**data-visualization**](projects/data-visualization.md)
