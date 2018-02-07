@@ -1,10 +1,9 @@
 # awesome-front-end
 
-## Projects
-
-- [**Core**](projects/core.md)
-- [**State Management**](projects/state-management.md)
-- [**Typescript**](projects/typescript.md)
-- [**Node.js**](projects/nodejs.md)
-- [**Reactive Programming**](projects/reactive-programming.md)
-- [**Data Visualization**](projects/data-visualization.md)
+- [**Core**](src/core.md)
+- [**State Management**](src/state-management.md)
+- [**Typescript**](src/typescript.md)
+- [**Node.js**](src/nodejs.md)
+- [**Reactive Programming**](src/reactive-programming.md)
+- [**Data Visualization**](src/data-visualization.md)
+- [**Blogs**](src/blogs.md)
