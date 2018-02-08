@@ -2,13 +2,14 @@
 
 ## Front-End Frameworks
 
-| avator                                                          | name              | blog         |
-|:----------------------------------------------------------------|:------------------|:-------------|
-| ![](https://github.com/ruanyf.png){:width="100px"} | 阮一峰(ruanyifeng) | [Home][1]    |
-|                                                                 | react             | [Github][4]  |
-|                                                                 | angular           | [Github][7]  |
-|                                                                 | preact            | [Github][10] |
+| name              | github       | blog      |
+|:------------------|:-------------|:----------|
+| 阮一峰(ruanyf)     | [Github][1]  | [Home][2] |
+| 张鑫旭(zhangxinxu) | [Github][3]  | [Home][4] |
 
+[1]: https://github.com/zhangxinxu
+[2]: http://www.ruanyifeng.com/blog/
 
-[1]: http://www.ruanyifeng.com/blog/
+[3]: https://github.com/zhangxinxu
+[4]: http://www.zhangxinxu.com/wordpress/
 

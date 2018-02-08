@@ -7,3 +7,4 @@
 - [**Reactive Programming**](src/reactive-programming.md)
 - [**Data Visualization**](src/data-visualization.md)
 - [**Blogs**](src/blogs.md)
+- [**Continuous Integration**](src/ci.md)
