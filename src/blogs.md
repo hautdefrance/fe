@@ -1,6 +1,4 @@
-# Core
-
-## Front-End Frameworks
+# Front-End Frameworks
 
 | name              | github       | blog      |
 |:------------------|:-------------|:----------|
