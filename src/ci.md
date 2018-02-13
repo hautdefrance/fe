@@ -2,7 +2,7 @@
 
 ## Core
 
-- [**jenkins**](https://jenkins.io/)
+- [**jenkins**](https://jenkins.io/) · [Documentation](https://jenkins.io/doc/)
 - [**circleci**](https://circleci.com/) · [Documentation](https://circleci.com/docs/)
 - [**travis-ci**](https://github.com/travis-ci/travis-ci) · [Documentation](https://docs.travis-ci.com/)
 
