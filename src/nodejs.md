@@ -40,6 +40,7 @@
 - [**commander.js**](https://github.com/tj/commander.js)
 - [**yargs**](https://github.com/yargs/yargs)
 - [**shelljs**](http://documentup.com/shelljs/shelljs)
+- [**colors.js**](https://github.com/marak/colors.js/)
 
 
 ## Process Manager （进程管理器）
@@ -52,6 +53,18 @@
 These projects are generally used in the development environment.
 
 - [**nodemon**](https://github.com/remy/nodemon) · [config file sample](https://github.com/remy/nodemon/blob/master/doc/sample-nodemon.md) · [node.js API](https://github.com/remy/nodemon/blob/master/doc/requireable.md)
+
+
+## SQL (数据库)
+
+- [mysql.js](https://github.com/mysqljs/mysql)
+- [mongo](https://github.com/mongodb/mongo)
+- [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
+
+
+## Cache (缓存)
+
+- [redis](https://github.com/antirez/redis)
 
 
 [1]: https://github.com/koajs/koa
