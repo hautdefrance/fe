@@ -1,10 +1,10 @@
 # awesome-front-end
 
-- [**Core**](src/core.md)
-- [**State Management**](src/state-management.md)
+- [**Core(核心)**](src/core.md)
+- [**State Management（状态管理）**](src/state-management.md)
 - [**Typescript**](src/typescript.md)
 - [**Node.js**](src/nodejs.md)
-- [**Reactive Programming**](src/reactive-programming.md)
-- [**Data Visualization**](src/data-visualization.md)
-- [**Blogs**](src/blogs.md)
-- [**Continuous Integration**](src/ci.md)
+- [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
+- [**Data Visualization（数据可视化）**](src/data-visualization.md)
+- [**Blogs（博文）**](src/blogs.md)
+- [**Continuous Integration（持续集成）**](src/ci.md)
