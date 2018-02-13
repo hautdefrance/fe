@@ -24,7 +24,7 @@ _**This is a constantly updating project that collects fragments that a awesome 
 ## _Vol.3 Miscellaneous_
 
 - [**Tool（工具篇）**](src/tool.md)
-- [**Elite（杰出人物篇）**](src/elite.md)
+- [**Elite（人物篇）**](src/elite.md)
 - [**Technical Community（技术社区）**](src/community.md)
 - [**Continuous Integration（持续集成）**](src/ci.md)
 - [**IDE（集成开发环境）**](src/ide.md)
