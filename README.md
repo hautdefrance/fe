@@ -1,5 +1,7 @@
 # awesome-front-end
 
+_**This is a constantly updating project that collects fragments that a awesome front-end developer is most likely to touch.**_
+
 ## VOL.1 Basis
 
 - [**IDE（集成开发环境）**](src/ide.md)
