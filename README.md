@@ -9,4 +9,4 @@
 - [**Continuous Integration（持续集成）**](src/ci.md)
 - [**Blogs（博文）**](src/blogs.md)
 - [**Compilers（编译器）**](src/compilers.md)
-- [**Mobile（移动开发）**](src/mobile.md)
+- [**Mobile Development（移动开发）**](src/mobile.md)

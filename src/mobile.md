@@ -1,4 +1,4 @@
-# Mobile
+# Mobile Development（移动开发）
 
 JavaScript is so versatile that it can also be used to build mobile applications, meaning that you can share components between the web and the mobile platforms.
 
