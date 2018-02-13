@@ -1,11 +1,13 @@
 # Node.js
 
+
 ## Web Develop
 
-- [**koa**][1]      | [Documentation][2] | [文档][3]
-- [**express**][4]  | [Documentation][5] | [文档][6]
-- [**egg**][7]      | [Documentation][8] | [文档][9]
-- [**thinkjs**][10] | [Documentation][11]| [文档][12]
+- [**koa**][1]      · [Documentation][2]  · [文档][3]
+- [**express**][4]  · [Documentation][5]  · [文档][6]
+- [**egg**][7]      · [Documentation][8]  · [文档][9]
+- [**thinkjs**][10] · [Documentation][11] · [文档][12]
+
 
 ## Build Tool
 
@@ -23,14 +25,13 @@
 - [**mocha**](https://github.com/mochajs/mocha)
 - [**jasmine**](https://github.com/jasmine/jasmine)
 
+
 ## Command-line Tool
 
 - [**Inquirer.js**](https://github.com/sboudrias/Inquirer.js)
 - [**cac**](https://github.com/cacjs/cac)
 - [**commander.js**](https://github.com/tj/commander.js)
 - [**yargs**](https://github.com/yargs/yargs)
-
-
 
 
 [1]: https://github.com/koajs/koa
