@@ -12,17 +12,7 @@
 
 ### Vue
 
-| name       | repository   | documentation | log    |
-|:-----------|:-------------|:--------------|:-------|
-| element    | [Github][17] | [简体中文][18]  | PC     |
-| iview      | [Github][19] | [简体中文][20]  | PC     |
-| vux        | [Github][21] | [简体中文][22]  | Mobile |
-| mint-ui    | [Github][23] | [简体中文][24]  | Mobile |
-| vue-beauty | [Github][25] | [简体中文][26]  | PC     |
-| radon-ui   | [Github][27] | [简体中文][28]  | PC     |
-| vue-carbon | [Github][29] | [简体中文][30]  | Mobile |
-| vue-strap  | [Github][31] | [English][32] | PC     |
-| vue-antd   | [Github][33] | [简体中文][34]  | PC     |
+
 
 
 ### React
