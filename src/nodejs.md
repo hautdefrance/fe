@@ -1,11 +1,12 @@
 # Node.js
 
-- [Registry](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/)
+- [Registry](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
 ## Package manager （包管理器）
 
 - [npm](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
 - [yarn](https://github.com/yarnpkg/yarn) · [Documentation](https://yarnpkg.com/en/docs)
+- [cnpm](https://github.com/cnpm/cnpm)· [Documentation](http://npm.taobao.org/)
 
 ## Web Develop Frameworks（Web开发框架）
 
