@@ -24,11 +24,11 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 ## _Vol.3 Miscellaneous_
 
 - [**Tool（工具篇）**](src/tool.md)
-- [**Elite（人物篇）**](src/elite.md)
-- [**Technical Community（技术社区）**](src/community.md)
-- [**Continuous Integration（持续集成）**](src/ci.md)
-- [**IDE（集成开发环境）**](src/ide.md)
-- [**Risting Stars**](src/ristingstars.md)
+- [**People（人物篇）**](src/people.md)
+- [**Community（社区篇）**](src/community.md)
+- [**CI（持续集成）**](src/ci.md)
+- [**IDE（开发环境篇）**](src/ide.md)
+- [**JavaScript Rising Stars（年度新星篇）**](src/ristingstars.md)
 
 ## _vol.4 Design_
 

@@ -1,4 +1,4 @@
-# Elite（人物）
+# People（人物）
 
 > The names are not listed in order. (排名不分先后。)
 

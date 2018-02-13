@@ -1,4 +1,4 @@
-# Technical Community（技术社区）
+# Community（社区篇）
 
 - [MDN](https://developer.mozilla.org)
 - [MDN（中文）](https://developer.mozilla.org/zh-CN/)
