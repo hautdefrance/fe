@@ -1,8 +1,10 @@
-# awesome-front-end
+# Awesome Front-end
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ulivz/awesome-front-end)
 
 _**This is a constantly updating project that collects fragments that a awesome front-end developer is most likely to touch. 🍻**_
 
-## _vol.1 Miscellaneous_
+## _Vol.1 Miscellaneous_
 
 - [**IDE（集成开发环境）**](src/ide.md)
 - [**Continuous Integration（持续集成）**](src/ci.md)
@@ -10,7 +12,7 @@ _**This is a constantly updating project that collects fragments that a awesome 
 - [**Technical Community（技术社区）**](src/community.md)
 - [**Risting Stars**](src/ristingstars.md)
 
-## _vol.2 Front-end_
+## _Vol.2 Front-end_
 
 - [**Core（核心）**](src/core.md)
 - [**CSS**](src/css.md)
@@ -21,7 +23,7 @@ _**This is a constantly updating project that collects fragments that a awesome 
 - [**Mobile Development（移动开发）**](src/mobile.md)
 - [**Comilers（编译器）**](src/compilers.md)
 
-## _vol.3 Back-end_
+## _Vsol.3 Back-end_
 
 - [**Node.js**](src/nodejs.md)
 - [**SQL**](src/sql.md)
