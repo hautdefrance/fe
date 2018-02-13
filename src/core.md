@@ -2,7 +2,7 @@
 
 ## Front-End Frameworks
 
-| name    | repository   | doc                          |
+| name    | repository   | documentation                |
 |:--------|:-------------|:-----------------------------|
 | vue     | [Github][1]  | [English][2]  - [简体中文][3]  |
 | react   | [Github][4]  | [English][5]  - [简体中文][6]  |
@@ -11,11 +11,11 @@
 | riot    | [Github][38] | [English][39]                |
 | svelte  | [Github][40] | [English][41]                |
 | inferno | [Github][42] | [English][43]                |
-| anu     | [Github][44] | [简体中文][45]                |
+| anu     | [Github][44] | [简体中文][45]                 |
 
 ## Animation Library
 
-| name        | repository   | doc           |
+| name        | repository   | documentation |
 |:------------|:-------------|:--------------|
 | animate.css | [Github][15] | [English][16] |
 | popmotion   | [Github][13] | [English][14] |
@@ -27,22 +27,22 @@
 
 ### Vue
 
-| name       | repository    | doc           | log    |
-|:-----------|:--------------|:--------------|:-------|
-| element    | [Github][17]  | [简体中文][18]  | PC     |
-| iview      | [Github][19]  | [简体中文][20]  | PC     |
-| vux        | [Github][21]  | [简体中文][22]  | Mobile |
-| mint-ui    | [Github][23]  | [简体中文][24]  | Mobile |
-| vue-beauty | [Github][25]  | [简体中文][26]  | PC     |
-| radon-ui   | [Github][27]  | [简体中文][28]  | PC     |
-| vue-carbon | [Github][29]  | [简体中文][30]  | Mobile |
-| vue-strap  | [Github][31]  | [English][32] | PC     |
-| vue-antd   | [Github][33]  | [简体中文][34]  | PC     |
+| name       | repository   | documentation | log    |
+|:-----------|:-------------|:--------------|:-------|
+| element    | [Github][17] | [简体中文][18]  | PC     |
+| iview      | [Github][19] | [简体中文][20]  | PC     |
+| vux        | [Github][21] | [简体中文][22]  | Mobile |
+| mint-ui    | [Github][23] | [简体中文][24]  | Mobile |
+| vue-beauty | [Github][25] | [简体中文][26]  | PC     |
+| radon-ui   | [Github][27] | [简体中文][28]  | PC     |
+| vue-carbon | [Github][29] | [简体中文][30]  | Mobile |
+| vue-strap  | [Github][31] | [English][32] | PC     |
+| vue-antd   | [Github][33] | [简体中文][34]  | PC     |
 
 
 ### React
 
-| name       | repository   | doc                           | log |
+| name       | repository   | documentation                 | log |
 |:-----------|:-------------|:------------------------------|:----|
 | ant-design | [Github][35] | [Engilish][36] - [简体中文][37] | PC  |
 
