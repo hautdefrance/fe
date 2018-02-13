@@ -2,7 +2,7 @@
 
 _**This is a constantly updating project that collects fragments that a awesome front-end developer is most likely to touch. 🍻**_
 
-## _vol.1 Basis_
+## _vol.1 Miscellaneous_
 
 - [**IDE（集成开发环境）**](src/ide.md)
 - [**Continuous Integration（持续集成）**](src/ci.md)
