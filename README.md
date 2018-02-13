@@ -4,15 +4,7 @@
 
 _**This is a constantly updating project that collects fragments that a awesome front-end developer is most likely to touch. 🍻**_
 
-## _Vol.1 Miscellaneous_
-
-- [**IDE（集成开发环境）**](src/ide.md)
-- [**Continuous Integration（持续集成）**](src/ci.md)
-- [**Tool（工具篇）**](src/tool.md)
-- [**Technical Community（技术社区）**](src/community.md)
-- [**Risting Stars**](src/ristingstars.md)
-
-## _Vol.2 Front-end_
+## _Vol.1 Front-end_
 
 - [**Core（核心）**](src/core.md)
 - [**CSS**](src/css.md)
@@ -23,16 +15,21 @@ _**This is a constantly updating project that collects fragments that a awesome 
 - [**Mobile Development（移动开发）**](src/mobile.md)
 - [**Comilers（编译器）**](src/compilers.md)
 
-## _Vsol.3 Back-end_
+## _Vol.2 Back-end_
 
 - [**Node.js**](src/nodejs.md)
 - [**SQL**](src/sql.md)
 - [**http**](src/http.md)
 
-## _vol.4 Writings_
+## _Vol.3 Miscellaneous_
 
-- [**Blogs（博文）**](src/blogs.md)
+- [**Tool（工具篇）**](src/tool.md)
+- [**Elite（杰出人物篇）**](src/elite.md)
+- [**Technical Community（技术社区）**](src/community.md)
+- [**Continuous Integration（持续集成）**](src/ci.md)
+- [**IDE（集成开发环境）**](src/ide.md)
+- [**Risting Stars**](src/ristingstars.md)
 
-## _vol.5 Design_
+## _vol.4 Design_
 
 - [**Visual Design（视觉设计）**](src/design.md)
