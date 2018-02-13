@@ -40,6 +40,13 @@ There is still no consensus about the best way to style React components.
 
 ## Animation （动画）
 
-- [animate.css](https://github.com/daneden/animate.css) · [Documentation(https://daneden.github.io/animate.css/)
+- [animate.css](https://github.com/daneden/animate.css) · [Documentation](https://daneden.github.io/animate.css/)
 - [popmotion](https://github.com/Popmotion/popmotion) · [Documentation](https://popmotion.io/)
+
+
+## Practices （实践）
+
+- [BEM](https://getbem.com/) · [概念篇](https://www.w3cplus.com/css/oocss-concept)
+- [oocss](http://oocss.org/)
+- [smacss](https://smacss.com/)
 

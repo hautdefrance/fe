@@ -1,6 +1,6 @@
 # JavaScript
 
-[Documentation](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+[Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
 ## Front-End Frameworks
 
