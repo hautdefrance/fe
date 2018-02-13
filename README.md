@@ -13,6 +13,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Data Visualization（数据可视化）**](src/data-visualization.md)
 - [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
 - [**Mobile Development（移动开发）**](src/mobile.md)
+- [**Desktop Development（桌面应用开发）**](src/desktop.md)
 - [**Comilers（编译器）**](src/compilers.md)
 
 ## _Vol.2 Back-end_
