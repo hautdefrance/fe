@@ -11,15 +11,15 @@
 
 ## UI Frameworks
 
-- [**element**](https://github.com/ElemeFE/element) · [Documentation](http://element.eleme.io/#/en-US) · [文档](http://element.eleme.io/#/zh-CN) · **Desktop**
-- [**iview**](https://github.com/iview/iview) · [Documentation](https://www.iviewui.com/)  · **Desktop**
-- [**vux**](https://github.com/airyland/vux) · [Documentation](https://vux.li/#/)  · **Mobile**
-- [**mint-ui**](https://github.com/ElemeFE/mint-ui) · [Documentation](http://mint-ui.github.io/docs/#!/) · **Desktop**
-- [**vue-beauty**](https://github.com/FE-Driver/vue-beauty) · [Documentation](https://fe-driver.github.io/vue-beauty/) · **Desktop**
-- [**radon-ui**](https://github.com/luojilab/radon-ui) · [Documentation](https://luojilab.github.io/radon-ui/0.5.0/) · **Desktop**
-- [**vue-carbon**](https://github.com/myronliu347/vue-carbon) · [Documentation](https://myronliu347.github.io/vue-carbon/) · **Mobile   **
-- [**vue-strap**](https://github.com/yuche/vue-strap) · [Documentation](http://yuche.github.io/vue-strap/) · **Desktop**
-- [**vue-antd**](https://github.com/okoala/vue-antd) · [Documentation](http://okoala.github.io/vue-antd/#!/components) · **Desktop**
+- [**element**](https://github.com/ElemeFE/element) · [Documentation](http://element.eleme.io/#/en-US) · [文档](http://element.eleme.io/#/zh-CN) · `Desktop`
+- [**iview**](https://github.com/iview/iview) · [Documentation](https://www.iviewui.com/)  · `Desktop`
+- [**vux**](https://github.com/airyland/vux) · [Documentation](https://vux.li/#/)  · `Mobile`
+- [**mint-ui**](https://github.com/ElemeFE/mint-ui) · [Documentation](http://mint-ui.github.io/docs/#!/) · `Desktop`
+- [**vue-beauty**](https://github.com/FE-Driver/vue-beauty) · [Documentation](https://fe-driver.github.io/vue-beauty/) · `Desktop`
+- [**radon-ui**](https://github.com/luojilab/radon-ui) · [Documentation](https://luojilab.github.io/radon-ui/0.5.0/) · `Desktop`
+- [**vue-carbon**](https://github.com/myronliu347/vue-carbon) · [Documentation](https://myronliu347.github.io/vue-carbon/) · `Mobile`
+- [**vue-strap**](https://github.com/yuche/vue-strap) · [Documentation](http://yuche.github.io/vue-strap/) · `Desktop`
+- [**vue-antd**](https://github.com/okoala/vue-antd) · [Documentation](http://okoala.github.io/vue-antd/#!/components) · `Desktop`
 
 ## Vue Boilerplates
 
