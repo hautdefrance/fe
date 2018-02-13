@@ -1,4 +1,6 @@
-# Core
+# JavaScript
+
+[Documentation](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
 ## Front-End Frameworks
 
@@ -13,12 +15,7 @@
 | inferno | [Github][42] | [English][43]                |
 | anu     | [Github][44] | [简体中文][45]                 |
 
-## Animation Library
 
-| name        | repository   | documentation |
-|:------------|:-------------|:--------------|
-| animate.css | [Github][15] | [English][16] |
-| popmotion   | [Github][13] | [English][14] |
 
 
 ## UI Frameworks
