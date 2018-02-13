@@ -8,7 +8,7 @@ _**This is a constantly updating project that collects fragments that a awesome 
 - [**Continuous Integration（持续集成）**](src/ci.md)
 - [**Tool（工具篇）**](src/tool.md)
 - [**Technical Community（技术社区）**](src/community.md)
-- [**Risting Start**](src/ristingstars.md)
+- [**Risting Stars**](src/ristingstars.md)
 
 ## _vol.2 Front-end_
 
