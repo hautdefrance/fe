@@ -1,4 +1,4 @@
-# 静态网站
+# Static Sties（静态网站）
 
 - [**hexo**](https://github.com/hexojs/hexo) · [Documentation](https://hexo.io/) · [文档](https://hexo.io/zh-cn/)
 - [**jekyll**](https://github.com/hexojs/hexo) · [Documentation](https://github.com/jekyll/jekyll) · [文档](https://www.jekyll.com.cn/)

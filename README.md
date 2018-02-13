@@ -8,8 +8,8 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 
 - [**Core（核心）**](src/core.md)
 - [**CSS**](src/css.md)
-- [**State Management（状态管理）**](src/state-management.md)
 - [**Typescript**](src/typescript.md)
+- [**State Management（状态管理）**](src/state-management.md)
 - [**Data Visualization（数据可视化）**](src/data-visualization.md)
 - [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
 - [**Mobile Development（移动开发）**](src/mobile.md)
@@ -30,8 +30,8 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Community（社区篇）**](src/community.md)
 - [**CI（持续集成）**](src/ci.md)
 - [**IDE（开发环境篇）**](src/ide.md)
-- [**JavaScript Rising Stars（年度新星篇）**](src/ristingstars.md)
+- [**JavaScript Rising Stars**](src/ristingstars.md)
 
-## _vol.4 Design_
+## _Vol.4 Design_
 
 - [**Visual Design（视觉设计）**](src/design.md)
