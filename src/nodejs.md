@@ -32,6 +32,7 @@
 - [**cac**](https://github.com/cacjs/cac)
 - [**commander.js**](https://github.com/tj/commander.js)
 - [**yargs**](https://github.com/yargs/yargs)
+- [**shelljs**](http://documentup.com/shelljs/shelljs)
 
 
 ## Process Manager （进程管理器）
