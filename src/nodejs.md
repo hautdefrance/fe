@@ -67,6 +67,18 @@ These projects are generally used in the development environment.
 - [redis](https://github.com/antirez/redis)
 - [node-lru-cache](https://github.com/isaacs/node-lru-cache)
 
+## HTTP
+
+- [request](https://github.com/request/request)
+- [request-promise](https://github.com/request/request-promise)
+- [request-promise-native](https://github.com/request/request-promise-native)
+
+## HTTP Proxy
+
+- [node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
+- [express-http-proxy](https://github.com/villadora/express-http-proxy)
+
 
 [1]: https://github.com/koajs/koa
 [2]: http://koajs.com/
