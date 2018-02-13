@@ -31,10 +31,12 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Tool（工具篇）**](src/tool.md)
 - [**People（人物篇）**](src/people.md)
 - [**Community（社区篇）**](src/community.md)
-- [**CI（持续集成）**](src/ci.md)
+- [**CI（持续集成篇）**](src/ci.md)
 - [**IDE（开发环境篇）**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 
+<!--
 ## _Vol.4 Design_
 
 - [**Visual Design（视觉设计）**](src/design.md)
+-->
