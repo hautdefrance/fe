@@ -15,6 +15,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Mobile Development（移动开发）**](src/mobile.md)
 - [**Desktop Development（桌面应用开发）**](src/desktop.md)
 - [**Comilers（编译器）**](src/compilers.md)
+- [**Static Sties（静态网站）**](src/static-sites.md)
 
 ## _Vol.2 Back-end_
 
