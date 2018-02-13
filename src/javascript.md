@@ -2,21 +2,6 @@
 
 [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-## Front-End Frameworks
-
-| name    | repository   | documentation                |
-|:--------|:-------------|:-----------------------------|
-| vue     | [Github][1]  | [English][2]  - [简体中文][3]  |
-| react   | [Github][4]  | [English][5]  - [简体中文][6]  |
-| angular | [Github][7]  | [English][8]  - [简体中文][9]  |
-| preact  | [Github][10] | [English][11] - [简体中文][12] |
-| riot    | [Github][38] | [English][39]                |
-| svelte  | [Github][40] | [English][41]                |
-| inferno | [Github][42] | [English][43]                |
-| anu     | [Github][44] | [简体中文][45]                 |
-
-
-
 
 ## UI Frameworks
 
@@ -56,41 +41,6 @@
 - https://kangax.github.io/compat-table/es6/
 - http://node.green/
 
-
-<!-- vue -->
-
-[1]: https://github.com/vuejs/vue
-[2]: https://vuejs.org/
-[3]: https://cn.vuejs.org/index.html
-
-<!-- react -->
-
-[4]: https://github.com/facebook/react
-[5]: https://reactjs.org/
-[6]: https://doc.react-china.org/
-
-<!-- angular -->
-
-[7]: https://github.com/angular/angular
-[8]: https://angular.io/
-[9]: https://angular.cn/
-
-<!-- preact -->
-
-[10]: https://github.com/developit/preact
-[11]: https://preactjs.com/
-[12]: https://angular.cn/
-
-<!-- popmotion -->
-
-[13]: https://github.com/popmotion/popmotion
-[14]: https://popmotion.io/
-
-<!-- animation -->
-
-[15]: https://github.com/daneden/animate.css
-[16]: https://daneden.github.io/animate.css/
-
 <!-- vue.js UI -->
 
 [17]: https://github.com/ElemeFE/element
@@ -118,25 +68,7 @@
 [36]: https://ant.design
 [37]: https://ant.design/index-cn
 
-<!-- riot -->
 
-[38]: https://github.com/riot/riot
-[39]: http://riotjs.com/
-
-<!-- svelte -->
-
-[40]: https://github.com/sveltejs/svelte
-[41]: https://svelte.technology/
-
-<!-- svelte -->
-
-[42]: https://github.com/infernojs/inferno
-[43]: https://infernojs.org/
-
-<!-- anu -->
-
-[44]: https://github.com/RubyLouvre/anu
-[45]: https://rubylouvre.github.io/anu/
 
 
 [46]: https://github.com/mui-org/material-ui
