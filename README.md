@@ -41,3 +41,9 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 
 - [**Visual Design（视觉设计）**](src/design.md)
 -->
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [ulivz](https://github.com/ulivz) has waived all copyright and related or neighboring rights to this work.
