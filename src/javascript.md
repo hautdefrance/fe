@@ -10,6 +10,13 @@
 - [**Semantic-UI**](https://github.com/Semantic-Org/Semantic-UI)
 
 
+## Online JavaScript Debugging
+
+- [**codepen**](https://codepen.io/)
+- [**jsbin**](http://jsbin.com/)
+- [**codepan**](https://github.com/egoist/codepan)
+
+
 ## Websites
 
 - https://stackoverflow.com/
