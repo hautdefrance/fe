@@ -6,20 +6,20 @@
 
 ##  EcmaScript 6
 
-- [es6-features](https://github.com/rse/es6-features) | [Playground](http://es6-features.org/)
-- [es6features](https://github.com/lukehoban/es6features)
-- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-- [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+- [**es6-features**](https://github.com/rse/es6-features) | [Playground](http://es6-features.org/)
+- [**es6features**](https://github.com/lukehoban/es6features)
+- [**ECMAScript 6 compatibility table**](http://kangax.github.io/compat-table/es6/)
+- [**ECMAScript 6 入门**](http://es6.ruanyifeng.com/)
 
 ## Templating Engines
 
-- [mustache.js](https://github.com/janl/mustache.js)
-- [handlebars.js](https://github.com/wycats/handlebars.js/)
-- [doT](https://github.com/olado/doT)
-- [Pug](https://github.com/pugjs/pug)
-- [EJS](https://github.com/mde/ejs)
-- [marko](https://github.com/marko-js/marko)
-- [swig](http://paularmstrong.github.io/swig/)
+- [**mustache.js**](https://github.com/janl/mustache.js)
+- [**handlebars.js**](https://github.com/wycats/handlebars.js/)
+- [**doT**](https://github.com/olado/doT)
+- [**Pug**](https://github.com/pugjs/pug)
+- [**EJS**](https://github.com/mde/ejs)
+- [**marko**](https://github.com/marko-js/marko)
+- [**swig**](http://paularmstrong.github.io/swig/)
 
 
 ## UI Frameworks
