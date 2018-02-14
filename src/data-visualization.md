@@ -4,7 +4,7 @@ Data visualization tools for the web.
 
 - [**metrics-graphics**](https://github.com/mozilla/metrics-graphics)
 - [**d3**](https://github.com/d3/d3) | [Documentation](https://d3js.org/)
-- [**three.js**](https://github.com/mrdoob/three.js) | [Documentation](https://d3js.org/)：`3D library.`
+- [**three.js**](https://github.com/mrdoob/three.js) | [Documentation](https://d3js.org/)：`3D library`
 - [**Chart.js**](https://github.com/chartjs/Chart.js)  | [Documentation](http://www.chartjs.org/)
 - [**svg.js**](https://github.com/wout/svg.js) | [Documentation](http://svgjs.com/)
 
