@@ -1,13 +1,16 @@
 # Vue
 
+[Github](https://github.com/vuejs/vue) | [Documentation](https://vuejs.org/) | [中文文档](https://cn.vuejs.org/)
+
+
 ## Ecosphere
 
-- [**vue**](https://github.com/vuejs/vue) · [Documentation](https://vuejs.org/) · [文档](https://cn.vuejs.org/)
 - [**vuex**](https://github.com/vuejs/vuex) · [Documentation](https://vuex.vuejs.org/en/) · [文档](https://vuex.vuejs.org/zh-cn/)
 - [**vue-cli**](https://github.com/vuejs/vue-cli) · [Documentation](https://github.com/vuejs/vue-cli/blob/dev/docs/README.mds)
 - [**vue-router**](https://github.com/vuejs/vue-router) · [Documentation](https://router.vuejs.org/en/) · [文档](https://router.vuejs.org/zh-cn/)
 - [**vue-class-component**](https://github.com/vuejs/vue-class-component)
 - [**awesome-vue**](https://github.com/vuejs/awesome-vue)
+
 
 ## UI Frameworks
 
@@ -20,6 +23,7 @@
 - [**vue-carbon**](https://github.com/myronliu347/vue-carbon) · [Documentation](https://myronliu347.github.io/vue-carbon/) · `Mobile`
 - [**vue-strap**](https://github.com/yuche/vue-strap) · [Documentation](http://yuche.github.io/vue-strap/) · `Desktop`
 - [**vue-antd**](https://github.com/okoala/vue-antd) · [Documentation](http://okoala.github.io/vue-antd/#!/components) · `Desktop`
+
 
 ## Vue Boilerplates
 
