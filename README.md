@@ -13,6 +13,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
   - [**react**](src/react.md)
 - [**Comilers（编译器）**](src/compilers.md)
   - [**Typescript**](src/typescript.md)
+  - [**Babel**](src/babel.md)
 - [**State Management（状态管理）**](src/state-management.md)
 - [**Data Visualization（数据可视化）**](src/data-visualization.md)
 - [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
