@@ -2,7 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Please uphold the principle of `quality first`.
+- Please uphold the principle of `Quality First`.
 - Unlike other awesome lists, this project hopes to try not to add description, while keeping the list clean.
 - If it's just a toy-level item, do not add it.
 - If there is a useless project, Welcome open a PR to delete it.
