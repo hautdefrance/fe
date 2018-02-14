@@ -2,8 +2,9 @@
 
 [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
+> All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
-##
+
 
 ## UI Frameworks
 

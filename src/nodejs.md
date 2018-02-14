@@ -19,7 +19,6 @@
 ## Build Tool （构建工具）
 
 - [**gulp**](https://github.com/gulpjs/gulp)
-- [**browserify**](https://github.com/browserify/browserify)
 - [**grunt**](https://github.com/gruntjs/grunt)
 
 
@@ -27,6 +26,7 @@
 
 - [**rollup**](https://github.com/rollup/rollup)
 - [**webpack**](https://github.com/webpack/webpack)
+- [**browserify**](https://github.com/browserify/browserify)
 - [**parcel**](https://github.com/parcel-bundler/parcel)
 - [**poi**](https://github.com/egoist/poi)
 - [**bili**](https://github.com/egoist/bili)
@@ -40,7 +40,14 @@
 - [**jasmine**](https://github.com/jasmine/jasmine)
 
 
-## Scaffolding Tool
+## QA Tools (质量保证工具)
+
+* [prettier](https://github.com/prettier/prettier) | [Documentation](https://prettier.io/) : `Prettier is an opinionated code formatter`
+* [eslint](https://github.com/eslint/eslint) | [Documentation](https://eslint.org/)
+* [JSLint](https://github.com/douglascrockford/JSLint) | [Documentation](https://eslint.org/)
+
+
+## Scaffolding Tool （脚手架工具）
 
 - [**sao**](https://github.com/saojs/sao)
 - [**vue-cli**](https://github.com/vuejs/vue-cli)
