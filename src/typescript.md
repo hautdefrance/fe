@@ -1,6 +1,6 @@
 # TypeScript
 
-- [**Registry**](https://github.com/Microsoft/TypeScript) | [Documentation](http://www.typescriptlang.org/) | [文档](https://www.tslang.cn/) | [Playground](http://www.typescriptlang.org/play/index.html)
+- [Registry](https://github.com/Microsoft/TypeScript) | [Documentation](http://www.typescriptlang.org/) | [文档](https://www.tslang.cn/) | [Playground](http://www.typescriptlang.org/play/index.html)
 
 
 ## Runner

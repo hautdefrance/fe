@@ -11,7 +11,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Frameworks**](src/frameworks.md)
   - [**vue**](src/vue.md)
   - [**react**](src/react.md)
-- [**Comilers（编译器）**](src/compilers.md)
+- [**Comilers**](src/compilers.md)
   - [**Typescript**](src/typescript.md)
   - [**Babel**](src/babel.md)
 - [**State Management（状态管理）**](src/state-management.md)
