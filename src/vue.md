@@ -34,7 +34,7 @@
 - [pwa](https://github.com/vuejs-templates/pwa)
 - [simple](https://github.com/vuejs-templates/simple)
 
-## 3rd party
+## TypeScript
 
 - [vue-typescript-template-ui](https://github.com/ulivz/vue-typescript-template-ui)
 - [vue-typescript-template](https://github.com/ulivz/vue-typescript-template)
