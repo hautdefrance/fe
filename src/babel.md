@@ -18,4 +18,9 @@
 - [**babel-preset-stage-3**](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) | [Documentation](https://babeljs.io/docs/plugins/preset-stage-3/)
 
 
-<!-- Batch Bold RegExp: -\s\[([^\]\[]*)\] -->
+<!-- Batch Bold RegExp:
+
+-\s\[([^\]\[]*)\]
+- [**$1**]
+
+-->

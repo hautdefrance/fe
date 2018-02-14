@@ -5,6 +5,16 @@
 > All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
 
+## Templating Engines
+
+- [mustache.js](https://github.com/janl/mustache.js)
+- [handlebars.js](https://github.com/wycats/handlebars.js/)
+- [doT](https://github.com/olado/doT)
+- [Pug](https://github.com/pugjs/pug)
+- [EJS](https://github.com/mde/ejs)
+- [marko](https://github.com/marko-js/marko)
+- [swig](http://paularmstrong.github.io/swig/)
+
 
 ## UI Frameworks
 
