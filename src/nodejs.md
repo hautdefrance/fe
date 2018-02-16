@@ -25,7 +25,7 @@
 
 ## ORM
 
-- [sequelize](https://github.com/sequelize/sequelize)
+- [**sequelize**](https://github.com/sequelize/sequelize)
 
 ## Build Tool （构建）
 
@@ -54,9 +54,9 @@
 
 ## QA Tools (质量保证)
 
-* [prettier](https://github.com/prettier/prettier) | [Documentation](https://prettier.io/) : `Prettier is an opinionated code formatter`
-* [eslint](https://github.com/eslint/eslint) | [Documentation](https://eslint.org/)
-* [JSLint](https://github.com/douglascrockford/JSLint) | [Documentation](https://eslint.org/)
+- [**prettier**](https://github.com/prettier/prettier) | [Documentation](https://prettier.io/) : `Prettier is an opinionated code formatter`
+- [**eslint**](https://github.com/eslint/eslint) | [Documentation](https://eslint.org/)
+- [**JSLint**](https://github.com/douglascrockford/JSLint) | [Documentation](https://eslint.org/)
 
 
 ## Scaffolding Tool （脚手架）
@@ -114,8 +114,13 @@ These projects are generally used in the development environment.
 
 ## Worth Reading
 
-- [《Workshop - 对Express中间件进行单元测试》](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
-- [《Node.js debugging with Chrome DevTools》](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
+- [**《Workshop - 对Express中间件进行单元测试》**](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
+- [**《Node.js debugging with Chrome DevTools》**](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
+
+
+## Team
+
+- [**AlloyTeam**](https://github.com/AlloyTeam)
 
 
 [1]: https://github.com/koajs/koa

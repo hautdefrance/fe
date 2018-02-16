@@ -9,6 +9,7 @@
 - [**vue-cli**](https://github.com/vuejs/vue-cli) · [Documentation](https://github.com/vuejs/vue-cli/blob/dev/docs/README.mds)
 - [**vue-router**](https://github.com/vuejs/vue-router) · [Documentation](https://router.vuejs.org/en/) · [文档](https://router.vuejs.org/zh-cn/)
 - [**vue-class-component**](https://github.com/vuejs/vue-class-component)
+- [**vue-resource**](https://github.com/pagekit/vue-resource)
 - [**awesome-vue**](https://github.com/vuejs/awesome-vue)
 
 
