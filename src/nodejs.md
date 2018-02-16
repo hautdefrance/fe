@@ -114,7 +114,7 @@ These projects are generally used in the development environment.
 ## Worth Reading
 
 - [《Workshop - 对Express中间件进行单元测试》](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
-- [《Node.js debugging with Chrome DevTools 》](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
+- [《Node.js debugging with Chrome DevTools》](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
 
 
 [1]: https://github.com/koajs/koa
