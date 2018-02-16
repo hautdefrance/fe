@@ -1,12 +1,19 @@
 # Node.js
 
-- [Registry](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
+- [**Registry**](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
-## Package manager （包管理器）
+## Package Manager （包管理器）
 
-- [npm](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
-- [yarn](https://github.com/yarnpkg/yarn) · [Documentation](https://yarnpkg.com/en/docs)
-- [cnpm](https://github.com/cnpm/cnpm)· [Documentation](http://npm.taobao.org/)
+- [**npm**](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
+- [**yarn**](https://github.com/yarnpkg/yarn) · [Documentation](https://yarnpkg.com/en/docs)
+- [**cnpm**](https://github.com/cnpm/cnpm)· [Documentation](http://npm.taobao.org/)
+
+
+## Version Manager
+
+- [**nvm**](https://github.com/creationix/nvm)
+- [**n**](https://github.com/tj/n)
+
 
 ## Web Develop Frameworks（Web开发框架）
 
@@ -77,27 +84,27 @@ These projects are generally used in the development environment.
 
 ## SQL (数据库)
 
-- [mysql.js](https://github.com/mysqljs/mysql)
-- [mongo](https://github.com/mongodb/mongo)
-- [node-mongodb-native](https://github.com/mongodb/node-mongodb-native)
+- [**mysql.js**](https://github.com/mysqljs/mysql)
+- [**mongo**](https://github.com/mongodb/mongo)
+- [**node-mongodb-native**](https://github.com/mongodb/node-mongodb-native)
 
 
 ## Cache (缓存)
 
-- [redis](https://github.com/antirez/redis)
-- [node-lru-cache](https://github.com/isaacs/node-lru-cache)
+- [**redis**](https://github.com/antirez/redis)
+- [**node-lru-cache**](https://github.com/isaacs/node-lru-cache)
 
 ## HTTP
 
-- [request](https://github.com/request/request)
-- [request-promise](https://github.com/request/request-promise)
-- [request-promise-native](https://github.com/request/request-promise-native)
+- [**request**](https://github.com/request/request)
+- [**request-promise**](https://github.com/request/request-promise)
+- [**request-promise-native**](https://github.com/request/request-promise-native)
 
 ## HTTP Proxy
 
-- [node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
-- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)
-- [express-http-proxy](https://github.com/villadora/express-http-proxy)
+- [**node-http-proxy**](https://github.com/nodejitsu/node-http-proxy)
+- [**http-proxy-middleware**](https://github.com/chimurai/http-proxy-middleware)
+- [**express-http-proxy**](https://github.com/villadora/express-http-proxy)
 
 
 [1]: https://github.com/koajs/koa
