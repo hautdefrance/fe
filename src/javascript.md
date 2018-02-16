@@ -24,24 +24,38 @@
 - [**marko**](https://github.com/marko-js/marko)
 - [**swig**](http://paularmstrong.github.io/swig/)
 
-## Utilities
+## RegExp
 
-### Files
+- [**regexr**](https://regexr.com/)
+- [**regexper**](https://regexper.com/#%2F%7B%7B(%5B%5E%7D%5D%2B)%3F%7D%7D%2Fg)
+- [**ES6 正则的扩展**](http://es6.ruanyifeng.com/#docs/regex)
+- [**正则表达式30分钟入门教程**](http://www.jb51.net/tools/zhengze.html)
+
+
+## Files
 *Libraries for working with files.*
 
-* [Papa Parse](https://github.com/mholt/PapaParse) | [Documentation](https://www.papaparse.com/): `CSV parser`
-* [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
-* [diff2html](https://github.com/rtfpessoa/diff2html) | [Documentation](https://diff2html.xyz/)
-* [jsPDF](https://github.com/MrRio/jsPDF) | [Documentation](https://parall.ax/products/jspdf)
+- [**Papa Parse**](https://github.com/mholt/PapaParse) | [Documentation](https://www.papaparse.com/): `CSV parser`
+- [**jBinary**](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+- [**diff2html**](https://github.com/rtfpessoa/diff2html) | [Documentation](https://diff2html.xyz/)
+- [**jsPDF**](https://github.com/MrRio/jsPDF) | [Documentation](https://parall.ax/products/jspdf)
 
 
-### Functional Programming
+## Functional Programming
 
-* [underscore](https://github.com/jashkenas/underscore) | [Documentation](http://underscorejs.org/)
-* [lodash](https://github.com/lodash/lodash) | [Documentation](https://lodash.com/docs/)
-* [Sugar](https://github.com/andrewplummer/Sugar) | [Documentation](https://sugarjs.com/docs/)
-* [lazy.js](https://github.com/dtao/lazy.js) |  [Documentation](http://danieltao.com/lazy.js/docs/)
-* [ramda](https://github.com/CrossEye/ramda) | [Documentation](http://ramdajs.com/) | [文档](http://ramda.cn/docs/)
+- [**underscore**](https://github.com/jashkenas/underscore) | [Documentation](http://underscorejs.org/)
+- [**lodash**](https://github.com/lodash/lodash) | [Documentation](https://lodash.com/docs/)
+- [**Sugar**](https://github.com/andrewplummer/Sugar) | [Documentation](https://sugarjs.com/docs/)
+- [**lazy.js**](https://github.com/dtao/lazy.js) |  [Documentation](http://danieltao.com/lazy.js/docs/)
+- [**ramda**](https://github.com/CrossEye/ramda) | [Documentation](http://ramdajs.com/) | [文档](http://ramda.cn/docs/)
+
+
+## Data Structure
+*Data structure libraries to build a more sophisticated application.*
+
+- [**immutable-js**](https://github.com/facebook/immutable-js) | [Documentation](https://github.com/facebook/immutable-js)
+- [**buckets**](https://github.com/mauriciosantos/Buckets-JS) | [Documentation](http://mauriciosantos.github.io/Buckets-JS/)
+- [**hashmap**](https://github.com/flesler/hashmap)
 
 
 ## UI Frameworks
