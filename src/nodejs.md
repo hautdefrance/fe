@@ -2,14 +2,14 @@
 
 - [**Registry**](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
-## Package Manager （包管理器）
+## Package Manager （包管理）
 
 - [**npm**](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
 - [**yarn**](https://github.com/yarnpkg/yarn) · [Documentation](https://yarnpkg.com/en/docs)
 - [**cnpm**](https://github.com/cnpm/cnpm)· [Documentation](http://npm.taobao.org/)
 
 
-## Version Manager
+## Version Manager （版本管理）
 
 - [**nvm**](https://github.com/creationix/nvm)
 - [**n**](https://github.com/tj/n)
@@ -23,13 +23,17 @@
 - [**thinkjs**][10] · [Documentation][11] · [文档][12]
 
 
-## Build Tool （构建工具）
+## ORM
+
+- [sequelize](https://github.com/sequelize/sequelize)
+
+## Build Tool （构建）
 
 - [**gulp**](https://github.com/gulpjs/gulp)
 - [**grunt**](https://github.com/gruntjs/grunt)
 
 
-## Bundler (打包工具)
+## Bundler (打包)
 
 - [**rollup**](https://github.com/rollup/rollup)
 - [**webpack**](https://github.com/webpack/webpack)
@@ -39,7 +43,7 @@
 - [**bili**](https://github.com/egoist/bili)
 
 
-## Test Tool （测试工具）
+## Test Tool （测试）
 
 - [**ava**](https://github.com/avajs/ava)
 - [**jest**](https://github.com/facebook/jest)
@@ -47,20 +51,20 @@
 - [**jasmine**](https://github.com/jasmine/jasmine)
 
 
-## QA Tools (质量保证工具)
+## QA Tools (质量保证)
 
 * [prettier](https://github.com/prettier/prettier) | [Documentation](https://prettier.io/) : `Prettier is an opinionated code formatter`
 * [eslint](https://github.com/eslint/eslint) | [Documentation](https://eslint.org/)
 * [JSLint](https://github.com/douglascrockford/JSLint) | [Documentation](https://eslint.org/)
 
 
-## Scaffolding Tool （脚手架工具）
+## Scaffolding Tool （脚手架）
 
 - [**sao**](https://github.com/saojs/sao)
 - [**vue-cli**](https://github.com/vuejs/vue-cli)
 
 
-## Command-line Tool （命令行工具）
+## Command-line Tool （命令行）
 
 - [**Inquirer.js**](https://github.com/sboudrias/Inquirer.js)
 - [**cac**](https://github.com/cacjs/cac)
@@ -70,7 +74,7 @@
 - [**colors.js**](https://github.com/marak/colors.js/)
 
 
-## Process Manager （进程管理器）
+## Process Manager （进程管理）
 
 - [**pm2**](https://github.com/Unitech/PM2/) · [Documentation](http://pm2.keymetrics.io/) · [文档](https://wohugb.gitbooks.io/pm2)
 
@@ -105,6 +109,12 @@ These projects are generally used in the development environment.
 - [**node-http-proxy**](https://github.com/nodejitsu/node-http-proxy)
 - [**http-proxy-middleware**](https://github.com/chimurai/http-proxy-middleware)
 - [**express-http-proxy**](https://github.com/villadora/express-http-proxy)
+
+
+## Worth Reading
+
+- [《Workshop - 对Express中间件进行单元测试》](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
+- [《Node.js debugging with Chrome DevTools 》](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
 
 
 [1]: https://github.com/koajs/koa

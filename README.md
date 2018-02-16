@@ -35,6 +35,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**CI（持续集成篇）**](src/ci.md)
 - [**IDE（开发环境篇）**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
+- [**Other Awesome Lists**](src/other-awesome-lists.md)
 
 <!--
 ## _Vol.4 Design_
