@@ -5,13 +5,17 @@
 > All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
 
-##  EcmaScript 6
+## EcmaScript 6
 
 - [**es6-features**](https://github.com/rse/es6-features) | [Playground](http://es6-features.org/)
 - [**es6features**](https://github.com/lukehoban/es6features)
 - [**ECMAScript 6 compatibility table**](http://kangax.github.io/compat-table/es6/)
 - [**ECMAScript 6 入门**](http://es6.ruanyifeng.com/)
 
+
+## EcmaScript 6 Polyfills
+
+- [**es6-promise**](https://github.com/stefanpenner/es6-promise)
 
 ## Templating Engines
 
@@ -31,6 +35,10 @@
 - [**ES6 正则的扩展**](http://es6.ruanyifeng.com/#docs/regex)
 - [**正则表达式30分钟入门教程**](http://www.jb51.net/tools/zhengze.html)
 
+
+## Worth Reading
+
+- [**《JavaScript半知半解》**](https://www.kancloud.cn/dennis/tgjavascript/241800)
 
 ## Files
 *Libraries for working with files.*
