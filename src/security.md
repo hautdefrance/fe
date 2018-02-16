@@ -8,6 +8,9 @@
 - [**oauth2orize**](https://github.com/jaredhanson/oauth2orize)
 - [**node-oauth**](https://github.com/ciaranj/node-oauth)
 - [**node-oauth2-server**](https://github.com/oauthjs/node-oauth2-server)
+- [**DOMPurify**](https://github.com/cure53/DOMPurify)
+- [**js-xss**](https://github.com/leizongmin/js-xss)
+- [**xss-filters**](https://github.com/yahoo/xss-filters)
 
 
 # Worth Reading

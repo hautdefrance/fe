@@ -17,6 +17,7 @@
 
 - [**es6-promise**](https://github.com/stefanpenner/es6-promise)
 
+
 ## Templating Engines
 
 - [**mustache.js**](https://github.com/janl/mustache.js)
@@ -32,8 +33,76 @@
 
 - [**regexr**](https://regexr.com/)
 - [**regexper**](https://regexper.com/#%2F%7B%7B(%5B%5E%7D%5D%2B)%3F%7D%7D%2Fg)
+- [**RegEx101**](https://regex101.com/#javascript)
 - [**ES6 正则的扩展**](http://es6.ruanyifeng.com/#docs/regex)
 - [**正则表达式30分钟入门教程**](http://www.jb51.net/tools/zhengze.html)
+
+
+
+## Date
+*Date Libraries.*
+
+- [**moment**](https://github.com/moment/moment)
+- [**moment-timezone**](https://github.com/moment/moment-timezone)
+- [**timeago.js**](https://github.com/hustcc/timeago.js)
+
+
+## String
+
+- [**string.js**](https://github.com/jprichardson/string.js)
+- [**URI.js**](https://github.com/medialize/URI.js)
+
+
+## Number
+
+- [**Numeral-js**](https://github.com/adamwdraper/Numeral-js)
+- [**money.js**](https://github.com/josscrowcroft/money.js)
+
+
+## Storage
+
+- [**store.js**](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
+- [**localForage**](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [**jStorage**](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
+- [**cross-storage**](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
+- [**basket.js**](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
+- [**bag.js**](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
+- [**basil.js**](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer.
+- [**jquery-cookie**](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+- [**js-cookie**](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [**Cookies**](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
+- [**DB.js**](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
+- [**lawnchair.js**](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+- [**sql.js**](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+
+
+## Color
+
+- [**randomColor**](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
+- [**chroma.js**](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+- [**color**](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+- [**colors**](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+- [**PleaseJS**](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
+- [**TinyColor**](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+- [**Vibrant.js**](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+
+
+## I18n And L10n
+*Localization (l10n) and internationalization (i18n) JavaScript libraries.*
+
+- [**i18next**](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
+- [**polyglot**](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
+- [**babelfish**](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+
+
+
+## Routing
+
+- [**director**](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
+- [**page.js**](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (~1200 bytes).
+- [**pathjs**](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
+- [**crossroads**](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
+- [**davis.js**](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 
 ## Worth Reading
@@ -66,6 +135,12 @@
 - [**hashmap**](https://github.com/flesler/hashmap)
 
 
+## Voice Command
+
+- [**annyang**](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+- [**voix.js**](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+
+
 ## Scroll
 
 - [**better-scroll**](https://github.com/ustbhuangyi/better-scroll)
@@ -91,3 +166,84 @@
 - [**jsbin**](http://jsbin.com/)
 - [**codepan**](https://github.com/egoist/codepan)
 
+## Documentation
+
+- [**DevDocs**](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
+- [**dexy**](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
+- [**docco**](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+- [**styledocco**](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
+- [**Ronn**](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+- [**dox**](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+- [**jsdox**](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+- [**ESDoc**](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
+- [**YUIDoc**](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+- [**coddoc**](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+- [**sphinx**](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+- [**Using JSDoc**](http://usejsdoc.org/)
+- [**Beautiful docs**](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
+- [**documentation.js**](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+- [**jsduck**](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
+
+## Machine Learning
+
+- [**ConvNetJS**](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+- [**DN2A**](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
+- [**Brain.js**](https://github.com/harthur/brain) - Neural networks in JavaScript.
+- [**Mind.js**](https://github.com/stevenmiller888/mind) - A flexible neural network library.
+- [**Synaptic.js**](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
+- [**deeplearn.js**](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
+
+
+## Benchmark
+
+- [**benchmark.js**](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+- [**matcha**](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+
+
+## Code highlighting
+
+- [**Highlight.js**](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter.
+- [**PrismJS**](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+
+
+## Loading Status
+*Libraries for indicate load status.*
+
+- [**Mprogress.js**](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
+- [**NProgress**](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
+- [**Spin.js**](https://github.com/fgnass/spin.js) - A spinning activity indicator.
+- [**progress.js**](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
+- [**progressbar.js**](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
+- [**pace**](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
+- [**topbar**](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+- [**nanobar**](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
+- [**PageLoadingEffects**](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+- [**SpinKit**](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
+- [**Ladda**](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
+- [**css-loaders**](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+
+Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
+
+
+## Sliders
+
+- [**Swiper**](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+- [**slick**](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
+- [**slidesJs**](http://www.slidesjs.com) - Is a ressponsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
+- [**FlexSlider**](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
+- [**unslider**](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
+- [**sly**](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
+- [**vegas**](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
+- [**Sequence**](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
+- [**reveal.js**](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+- [**impress.js**](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+- [**bespoke.js**](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
+- [**Strut**](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
+- [**PhotoSwipe**](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+- [**jcSlider**](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+- [**basic-jquery-slider**](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
+- [**jQuery.adaptive-slider**](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+- [**slidr**](https://github.com/bchanx/slidr) - add some slide effects.
+- [**Flickity**](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
+- [**Glide.js**](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+- [**jQuery.adaptive-slider**](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
