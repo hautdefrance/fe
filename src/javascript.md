@@ -5,6 +5,12 @@
 > All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
 
+## Code Style
+
+- [**airbnb/javascript**](https://github.com/airbnb/javascript)
+- [**standard/standard**](https://github.com/standard/standard)
+
+
 ## EcmaScript 6
 
 - [**es6-features**](https://github.com/rse/es6-features) | [Playground](http://es6-features.org/)
@@ -16,6 +22,7 @@
 ## EcmaScript 6 Polyfills
 
 - [**es6-promise**](https://github.com/stefanpenner/es6-promise)
+- [**fetch**](https://github.com/github/fetch)
 
 
 ## Templating Engines
@@ -69,7 +76,7 @@
 ## I18n And L10n
 
 - [**i18next**](https://github.com/i18next/i18next) | [Documentation](https://www.i18next.com/)
-- [**polyglot**](https://github.com/airbnb/polyglot.js) | [Homepage](http://i18next.com/) | `From [airbnb](https://github.com/airbnb)`
+- [**polyglot**](https://github.com/airbnb/polyglot.js) | [Website](http://i18next.com/) | `From [airbnb](https://github.com/airbnb)`
 
 
 ## Routing
@@ -83,10 +90,12 @@
 
 ## Worth Reading
 
+- [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | [Website](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
+- [**modern-js-cheatsheet**](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [**《JavaScript半知半解》**](https://www.kancloud.cn/dennis/tgjavascript/241800)
 
+
 ## Files
-*Libraries for working with files.*
 
 - [**Papa Parse**](https://github.com/mholt/PapaParse) | [Documentation](https://www.papaparse.com/): `CSV parser`
 - [**jBinary**](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
