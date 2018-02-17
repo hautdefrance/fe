@@ -20,14 +20,13 @@
 
 ## Templating Engines
 
-- [**mustache.js**](https://github.com/janl/mustache.js)
-- [**handlebars.js**](https://github.com/wycats/handlebars.js/)
-- [**handlebars-helpers**](https://github.com/helpers/handlebars-helpers)
-- [**doT**](https://github.com/olado/doT)
-- [**Pug**](https://github.com/pugjs/pug)
-- [**EJS**](https://github.com/mde/ejs)
-- [**marko**](https://github.com/marko-js/marko)
-- [**swig**](http://paularmstrong.github.io/swig/)
+- [**mustache.js**](https://github.com/janl/mustache.js) | [Documentation](http://mustache.github.io/)
+- [**handlebars.js**](https://github.com/wycats/handlebars.js/)  | [Documentation](http://handlebarsjs.com/)
+- [**handlebars-helpers**](https://github.com/helpers/handlebars-helpers) | [Documentation](http://assemble.io/helpers/)
+- [**doT**](https://github.com/olado/doT) | [Documentation](http://olado.github.io/doT/)
+- [**Pug**](https://github.com/pugjs/pug) | [Documentation](https://pugjs.org/api/getting-started.html)
+- [**EJS**](https://github.com/mde/ejs) | [Documentation](http://ejs.co/)
+- [**marko**](https://github.com/marko-js/marko) | [Documentation](https://markojs.com/)
 
 ## RegExp
 
@@ -37,14 +36,12 @@
 - [**ES6 正则的扩展**](http://es6.ruanyifeng.com/#docs/regex)
 - [**正则表达式30分钟入门教程**](http://www.jb51.net/tools/zhengze.html)
 
-
-
 ## Date
 *Date Libraries.*
 
-- [**moment**](https://github.com/moment/moment)
-- [**moment-timezone**](https://github.com/moment/moment-timezone)
-- [**timeago.js**](https://github.com/hustcc/timeago.js)
+- [**moment**](https://github.com/moment/moment) | [Documentation](http://momentjs.com/) | [文档](http://momentjs.cn/)
+- [**moment-timezone**](https://github.com/moment/moment-timezone) | [Documentation](http://momentjs.com/timezone/) | [文档](http://momentjs.cn/timezone/)
+- [**timeago.js**](https://github.com/hustcc/timeago.js) | [Documentation](http://timeago.org/)
 
 
 ## String
