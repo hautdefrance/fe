@@ -58,32 +58,18 @@
 
 ## Storage
 
-- [**store.js**](https://github.com/marcuswestin/store.js)
 - [**localForage**](https://github.com/mozilla/localForage) | [Documentation](https://localforage.github.io/localForage/)
-- [**js-cookie**](https://github.com/js-cookie/js-cookie)
-- [**Cookies**](https://github.com/ScottHamper/Cookies)
 - [**DB.js**](https://github.com/aaronpowell/db.js/) | [Documentation](https://github.com/aaronpowell/db.js)
-- [**sql.js**](https://github.com/kripken/sql.js) | [Demo](http://kripken.github.io/sql.js/GUI/)
-
-
-## Color
-
-- [**randomColor**](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-- [**chroma.js**](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-- [**color**](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
-- [**colors**](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
-- [**PleaseJS**](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
-- [**TinyColor**](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-- [**Vibrant.js**](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+- [**sql.js**](https://github.com/kripken/sql.js) | [Playground](http://kripken.github.io/sql.js/GUI/)
+- [**store.js**](https://github.com/marcuswestin/store.js)
+- [**Cookies**](https://github.com/ScottHamper/Cookies)
+- [**js-cookie**](https://github.com/js-cookie/js-cookie)
 
 
 ## I18n And L10n
-*Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
-- [**i18next**](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
-- [**polyglot**](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
-- [**babelfish**](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
-
+- [**i18next**](https://github.com/i18next/i18next) | [Documentation](https://www.i18next.com/)
+- [**polyglot**](https://github.com/airbnb/polyglot.js) | [Homepage](http://i18next.com/) | `From [airbnb](https://github.com/airbnb)`
 
 
 ## Routing
