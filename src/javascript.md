@@ -57,16 +57,15 @@
 - [**regexr**](https://regexr.com/)
 - [**regexper**](https://regexper.com/#%2F%7B%7B(%5B%5E%7D%5D%2B)%3F%7D%7D%2Fg)
 - [**RegEx101**](https://regex101.com/#javascript)
+- [**30分钟入门**](http://www.jb51.net/tools/zhengze.html)
 - [**ES6 正则的扩展**](http://es6.ruanyifeng.com/#docs/regex)
-- [**正则表达式30分钟入门教程**](http://www.jb51.net/tools/zhengze.html)
+
 
 ## Date
 
 - [**moment**](https://github.com/moment/moment) | [Documentation](http://momentjs.com/) | [文档](http://momentjs.cn/)
 - [**moment-timezone**](https://github.com/moment/moment-timezone) | [Documentation](http://momentjs.com/timezone/) | [文档](http://momentjs.cn/timezone/)
 - [**timeago.js**](https://github.com/hustcc/timeago.js) | [Documentation](http://timeago.org/)
-
-
 
 
 ## Number

@@ -19,13 +19,16 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
 - [**Mobile Development（移动开发）**](src/mobile.md)
 - [**Desktop Development（桌面开发）**](src/desktop.md)
+- [**Markdown**](src/markdown.md)
 - [**Static Sites（静态网站）**](src/static-sites.md)
+
 
 ## _Vol.2 Back-end_
 
 - [**Node.js**](src/nodejs.md)
 - [**SQL**](src/sql.md)
 - [**http**](src/http.md)
+
 
 ## _Vol.3 Miscellaneous_
 
@@ -37,16 +40,17 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
 
+
 ## _Vol.4 Articles_
 
 - [**English**](src/articles-en_US.md)
 - [**中文**](src/articles-zh_CN.md)
 
-<!--
-## _Vol.4 Design_
 
-- [**Visual Design（视觉设计）**](src/design.md)
--->
+## _Vol.5 Visual Sense_
+
+- [**Visual Sense**](src/visual-sense.md)
+
 
 # Contributing
 
