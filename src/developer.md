@@ -1,6 +1,6 @@
-# People（人物）
+# Developer（人物）
 
-> The names are not listed in order. (排名不分先后。)
+> The names are not listed in order.
 
 - [**TJ Holowaychuk**](https://github.com/tj) · [Website](http://tjholowaychuk.com/)
 - [**尤雨溪（yyx990803）**](https://github.com/yyx990803) · [Website](http://evanyou.me/)

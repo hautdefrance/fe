@@ -46,6 +46,12 @@
 - [**ECMAScript 6 入门**](http://es6.ruanyifeng.com/)
 
 
+## String
+
+- [**string.js**](https://github.com/jprichardson/string.js) | [Documentation](http://stringjs.com/)
+- [**URI.js**](https://github.com/medialize/URI.js) | [Documentation](http://medialize.github.io/URI.js/)
+- [camelcase](https://github.com/sindresorhus/camelcase)
+
 ## RegExp
 
 - [**regexr**](https://regexr.com/)
@@ -61,10 +67,6 @@
 - [**timeago.js**](https://github.com/hustcc/timeago.js) | [Documentation](http://timeago.org/)
 
 
-## String
-
-- [**string.js**](https://github.com/jprichardson/string.js) | [Documentation](http://stringjs.com/)
-- [**URI.js**](https://github.com/medialize/URI.js) | [Documentation](http://medialize.github.io/URI.js/)
 
 
 ## Number
