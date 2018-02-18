@@ -1,6 +1,6 @@
-# Visual Sense (视觉)
+# Vision（关于视觉的一切）
 
-> Discuss everything related to `Visual Sense`, such as: design, svg, image, color, design tools, etc.
+> Discuss everything related to `Vision`, such as: design, svg, image, color, design tools, etc.
 
 ## SVG & Icon
 
@@ -42,18 +42,3 @@
 
 - [**Website**](https://affinity.serif.com/zh-cn/designer/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-《思维导图》
-
-https://www.processon.com/

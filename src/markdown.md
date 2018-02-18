@@ -7,4 +7,4 @@
 
 ## Theme
 
-- [**github-markdown-cs**](https://github.com/sindresorhus/github-markdown-css)
+- [**github-markdown-css**](https://github.com/sindresorhus/github-markdown-css)

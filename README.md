@@ -4,7 +4,7 @@
 
 _**A continuous updating list that collects fragments that a awesome FED is most likely to "fetch". 🍻**_
 
-## _Vol.1 Front-end_
+## _Vol.1_
 
 - [**JavaScript**](src/javascript.md)
 - [**CSS**](src/css.md)
@@ -23,7 +23,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Static Sites（静态网站）**](src/static-sites.md)
 
 
-## _Vol.2 Back-end_
+## _Vol.2 Server Side_
 
 - [**Node.js**](src/nodejs.md)
 - [**SQL**](src/sql.md)
@@ -41,15 +41,15 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
 
 
+## _Vol.5 Vision_
+
+- [**Vision**](src/vision.md)
+
+
 ## _Vol.4 Articles_
 
 - [**English**](src/articles-en_US.md)
 - [**中文**](src/articles-zh_CN.md)
-
-
-## _Vol.5 Visual Sense_
-
-- [**Visual Sense**](src/visual-sense.md)
 
 
 # Contributing
