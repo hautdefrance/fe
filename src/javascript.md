@@ -157,33 +157,30 @@
 - [**documentation.js**](https://github.com/documentationjs/documentation) | [Documentation](http://documentation.js.org)
 - [**esdoc**](https://github.com/esdoc/esdoc)
 - [**dox**](https://github.com/tj/dox)
-- [**Beautiful docs**](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 
 
 ## Machine Learning
 
-- [**ConvNetJS**](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
-- [**DN2A**](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
-- [**Brain.js**](https://github.com/harthur/brain) - Neural networks in JavaScript.
-- [**Mind.js**](https://github.com/stevenmiller888/mind) - A flexible neural network library.
-- [**Synaptic.js**](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
-- [**deeplearn.js**](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
+- [**ConvNetJS**](https://github.com/karpathy/convnetjs)
+- [**DN2A**](https://github.com/dn2a/dn2a-javascript) | [Website](http://www.dn2a.org/)
+- [**Mind.js**](https://github.com/stevenmiller888/mind) | [Website](http://stevenmiller888.github.io/mindjs.net/)
+- [**Synaptic.js**](https://github.com/cazala/synaptic) | [Website](http://caza.la/synaptic/) | [文档](https://github.com/cazala/synaptic/blob/master/README_Zh-CN.md)
+- [**deeplearn.js**](https://github.com/PAIR-code/deeplearnjs) | [Website](https://deeplearnjs.org/)
 
 
 ## Benchmark
 
-- [**benchmark.js**](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-- [**matcha**](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+- [**benchmark.js**](https://github.com/bestiejs/benchmark.js) | [Website](https://benchmarkjs.com/)
+- [**matcha**](https://github.com/logicalparadox/matcha)
 
 
 ## Code highlighting
 
-- [**Highlight.js**](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter.
-- [**PrismJS**](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [**Highlight.js**](https://github.com/isagalaev/highlight.js) | [Website](https://highlightjs.org/)
+- [**PrismJS**](https://github.com/PrismJS/prism) | [Website](http://prismjs.com/)
 
 
 ## Loading Status
-*Libraries for indicate load status.*
 
 - [**Mprogress.js**](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 - [**NProgress**](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
