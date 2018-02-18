@@ -17,8 +17,8 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**State Management（状态管理）**](src/state-management.md)
 - [**Data Visualization（数据可视化）**](src/data-visualization.md)
 - [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
-- [**Mobile Development（移动开发）**](src/mobile.md)
-- [**Desktop Development（桌面开发）**](src/desktop.md)
+- [**Mobile Applications（移动应用）**](src/mobile.md)
+- [**Desktop Applications（桌面应用）**](src/desktop.md)
 - [**Markdown**](src/markdown.md)
 - [**Static Sites（静态网站）**](src/static-sites.md)
 
