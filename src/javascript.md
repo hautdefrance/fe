@@ -1,36 +1,35 @@
 # JavaScript
 
-[Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+  [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) · [文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-> All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
+  > All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
-
-* [Code Style](#code-style)
-* [EcmaScript 6](#ecmascript-6)
-* [EcmaScript 6 Polyfills](#ecmascript-6-polyfills)
-* [RegExp](#regexp)
-* [Date](#date)
-* [String](#string)
-* [Number](#number)
-* [Storage](#storage)
-* [I18n And L10n](#i18n-and-l10n)
-* [Routing](#routing)
-* [Files](#files)
-* [Functional Programming](#functional-programming)
-* [Data Structure](#data-structure)
-* [Voice Command](#voice-command)
-* [Templating Engines](#templating-engines)
-* [V-DOM](#v-dom)
-* [UI Frameworks](#ui-frameworks)
-* [Online JavaScript Debugging](#online-javascript-debugging)
-* [Documentation](#documentation)
-* [Machine Learning](#machine-learning)
-* [Benchmark](#benchmark)
-* [Code highlighting](#code-highlighting)
-* [Loading Status](#loading-status)
-* [Scroll](#scroll)
-* [Sliders](#sliders)
-* [Worth Reading](#worth-reading)
+  * [Code Style](#code-style)
+  * [EcmaScript 6](#ecmascript-6)
+  * [RegExp](#regexp)
+  * [Date](#date)
+  * [String](#string)
+  * [Number](#number)
+  * [Storage](#storage)
+  * [I18n And L10n](#i18n-and-l10n)
+  * [Routing](#routing)
+  * [Files](#files)
+  * [Functional Programming](#functional-programming)
+  * [Data Structure](#data-structure)
+  * [Templating Engines](#templating-engines)
+  * [V-DOM](#v-dom)
+  * [UI Frameworks](#ui-frameworks)
+  * [Online JavaScript Debugging](#online-javascript-debugging)
+  * [Documentation](#documentation)
+  * [Machine Learning](#machine-learning)
+  * [Benchmark](#benchmark)
+  * [Code highlighting](#code-highlighting)
+  * [Loading Status](#loading-status)
+  * [Scroll](#scroll)
+  * [Sliders](#sliders)
+  * [Polyfills](#polyfills)
+  * [Worth Reading](#worth-reading)
+  * [Miscellaneous](#miscellaneous)
 
 
 ## Code Style
@@ -45,12 +44,6 @@
 - [**es6features**](https://github.com/lukehoban/es6features)
 - [**ECMAScript 6 compatibility table**](http://kangax.github.io/compat-table/es6/)
 - [**ECMAScript 6 入门**](http://es6.ruanyifeng.com/)
-
-
-## EcmaScript 6 Polyfills
-
-- [**es6-promise**](https://github.com/stefanpenner/es6-promise)
-- [**fetch**](https://github.com/github/fetch)
 
 
 ## RegExp
@@ -127,12 +120,6 @@
 - [**immutable-js**](https://github.com/facebook/immutable-js) | [Documentation](https://github.com/facebook/immutable-js)
 - [**buckets**](https://github.com/mauriciosantos/Buckets-JS) | [Documentation](http://mauriciosantos.github.io/Buckets-JS/)
 - [**hashmap**](https://github.com/flesler/hashmap)
-
-
-## Voice Command
-
-- [**annyang**](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-- [**voix.js**](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 
 ## Templating Engines
@@ -225,8 +212,21 @@
 - [**Glide.js**](https://github.com/jedrzejchalubek/glidejs) | [Website](http://glide.jedrzejchalubek.com/)
 
 
+## Polyfills
+
+- [**es6-promise**](https://github.com/stefanpenner/es6-promise)
+- [**object-assign**](https://github.com/sindresorhus/object-assign)
+- [**fetch**](https://github.com/github/fetch)
+
+
 ## Worth Reading
 
 - [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | [Website](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
 - [**modern-js-cheatsheet**](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [**《JavaScript半知半解》**](https://www.kancloud.cn/dennis/tgjavascript/241800)
+
+
+## Miscellaneous
+
+- [**annyang**](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+- [**voix.js**](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
