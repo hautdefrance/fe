@@ -39,8 +39,8 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 
 ## _Vol.4 Articles_
 
-- [**English**](src/tool.md)
-- [**中文**](src/developer.md)
+- [**English**](src/articles-en_US.md)
+- [**中文**](src/articles-zh_CN.md)
 
 <!--
 ## _Vol.4 Design_
