@@ -3,7 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - _**Quality and Practicality First**_.
-- Unlike other awesome lists, this project hopes to try not to add description to keep the list clean. In general, the title of a chapter already reflects the purpose of the library, unless it is a project located under _**miscellaneous**_.
+- Unlike other awesome lists, this project hopes to try not to add description，which will keep the list clean. In general, the title of a chapter already reflects the purpose of the library, unless it is a project located under _**miscellaneous**_.
 - If it's just a toy-level item, do not add it.
 - If there is a useless project, Welcome open a PR to delete it.
 - Search previous suggestions before making a new one, as yours may be a duplicate.

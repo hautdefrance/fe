@@ -14,12 +14,12 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Comilers**](src/compilers.md)
   - [**Typescript**](src/typescript.md)
   - [**Babel**](src/babel.md)
-- [**State Management**](src/state-management.md)
-- [**Data Visualization**](src/data-visualization.md)
-- [**Reactive Programming**](src/reactive-programming.md)
-- [**Mobile Development**](src/mobile.md)
-- [**Desktop Development**](src/desktop.md)
-- [**Static Sites**](src/static-sites.md)
+- [**State Management（状态管理）**](src/state-management.md)
+- [**Data Visualization（数据可视化）**](src/data-visualization.md)
+- [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
+- [**Mobile Development（移动开发）**](src/mobile.md)
+- [**Desktop Development（桌面开发）**](src/desktop.md)
+- [**Static Sites（静态网站）**](src/static-sites.md)
 
 ## _Vol.2 Back-end_
 
@@ -29,24 +29,24 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 
 ## _Vol.3 Miscellaneous_
 
-- [**Tool**](src/tool.md)
-- [**Developer**](src/developer.md)
-- [**Community**](src/community.md)
-- [**CI**](src/ci.md)
+- [**Tool（工具篇）**](src/tool.md)
+- [**Developer（人物篇）**](src/developer.md)
+- [**Community（社区篇）**](src/community.md)
+- [**CI（持续集成篇）**](src/ci.md)
 - [**IDE**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
+
+## _Vol.4 Articles_
+
+- [**English**](src/tool.md)
+- [**中文**](src/developer.md)
 
 <!--
 ## _Vol.4 Design_
 
 - [**Visual Design（视觉设计）**](src/design.md)
 -->
-
-
-#
-
-
 
 # Contributing
 

@@ -16,5 +16,3 @@
 - [**babel-preset-stage-1**](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1) | [Documentation](https://babeljs.io/docs/plugins/preset-stage-1/)
 - [**babel-preset-stage-2**](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) | [Documentation](https://babeljs.io/docs/plugins/preset-stage-2/)
 - [**babel-preset-stage-3**](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) | [Documentation](https://babeljs.io/docs/plugins/preset-stage-3/)
-
-

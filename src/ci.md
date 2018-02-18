@@ -1,6 +1,6 @@
 # Continuous Integration（持续集成）
 
-## Core
+## Ecosystem
 
 - [**jenkins**](https://jenkins.io/) · [Documentation](https://jenkins.io/doc/)
 - [**circleci**](https://circleci.com/) · [Documentation](https://circleci.com/docs/)
