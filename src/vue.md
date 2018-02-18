@@ -35,6 +35,10 @@
 - [pwa](https://github.com/vuejs-templates/pwa)
 - [simple](https://github.com/vuejs-templates/simple)
 
+## Vuex
+
+- [webpack-simple-vuex](https://github.com/ulivz/webpack-simple-vuex)
+
 ## TypeScript
 
 - [vue-typescript-template-ui](https://github.com/ulivz/vue-typescript-template-ui)
