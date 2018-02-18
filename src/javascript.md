@@ -5,6 +5,34 @@
 > All node.js related projects have been migrated to [nodejs](nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
 
+* [Code Style](#code-style)
+* [EcmaScript 6](#ecmascript-6)
+* [EcmaScript 6 Polyfills](#ecmascript-6-polyfills)
+* [RegExp](#regexp)
+* [Date](#date)
+* [String](#string)
+* [Number](#number)
+* [Storage](#storage)
+* [I18n And L10n](#i18n-and-l10n)
+* [Routing](#routing)
+* [Files](#files)
+* [Functional Programming](#functional-programming)
+* [Data Structure](#data-structure)
+* [Voice Command](#voice-command)
+* [Templating Engines](#templating-engines)
+* [V-DOM](#v-dom)
+* [UI Frameworks](#ui-frameworks)
+* [Online JavaScript Debugging](#online-javascript-debugging)
+* [Documentation](#documentation)
+* [Machine Learning](#machine-learning)
+* [Benchmark](#benchmark)
+* [Code highlighting](#code-highlighting)
+* [Loading Status](#loading-status)
+* [Scroll](#scroll)
+* [Sliders](#sliders)
+* [Worth Reading](#worth-reading)
+
+
 ## Code Style
 
 - [**airbnb/javascript**](https://github.com/airbnb/javascript)
@@ -24,16 +52,6 @@
 - [**es6-promise**](https://github.com/stefanpenner/es6-promise)
 - [**fetch**](https://github.com/github/fetch)
 
-
-## Templating Engines
-
-- [**mustache.js**](https://github.com/janl/mustache.js) | [Documentation](http://mustache.github.io/)
-- [**handlebars.js**](https://github.com/wycats/handlebars.js/)  | [Documentation](http://handlebarsjs.com/)
-- [**handlebars-helpers**](https://github.com/helpers/handlebars-helpers) | [Documentation](http://assemble.io/helpers/)
-- [**doT**](https://github.com/olado/doT) | [Documentation](http://olado.github.io/doT/)
-- [**Pug**](https://github.com/pugjs/pug) | [Documentation](https://pugjs.org/api/getting-started.html)
-- [**EJS**](https://github.com/mde/ejs) | [Documentation](http://ejs.co/)
-- [**marko**](https://github.com/marko-js/marko) | [Documentation](https://markojs.com/)
 
 ## RegExp
 
@@ -87,13 +105,6 @@
 - [**davis.js**](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 
-## Worth Reading
-
-- [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | [Website](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
-- [**modern-js-cheatsheet**](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [**《JavaScript半知半解》**](https://www.kancloud.cn/dennis/tgjavascript/241800)
-
-
 ## Files
 
 - [**Papa Parse**](https://github.com/mholt/PapaParse) | [Documentation](https://www.papaparse.com/): `CSV parser`
@@ -124,9 +135,15 @@
 - [**voix.js**](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 
-## Scroll
+## Templating Engines
 
-- [**better-scroll**](https://github.com/ustbhuangyi/better-scroll)
+- [**mustache.js**](https://github.com/janl/mustache.js) | [Documentation](http://mustache.github.io/)
+- [**handlebars.js**](https://github.com/wycats/handlebars.js/)  | [Documentation](http://handlebarsjs.com/)
+- [**handlebars-helpers**](https://github.com/helpers/handlebars-helpers) | [Documentation](http://assemble.io/helpers/)
+- [**doT**](https://github.com/olado/doT) | [Documentation](http://olado.github.io/doT/)
+- [**Pug**](https://github.com/pugjs/pug) | [Documentation](https://pugjs.org/api/getting-started.html)
+- [**EJS**](https://github.com/mde/ejs) | [Documentation](http://ejs.co/)
+- [**marko**](https://github.com/marko-js/marko) | [Documentation](https://markojs.com/)
 
 
 ## V-DOM
@@ -135,8 +152,6 @@
 
 
 ## UI Frameworks
-
-### Vanilla Javascript
 
 - [**bootstrap**](https://github.com/twbs/bootstrap)
 - [**Semantic-UI**](https://github.com/Semantic-Org/Semantic-UI)
@@ -193,6 +208,11 @@
 > Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/) and [CSSLoad](http://cssload.net/).
 
 
+## Scroll
+
+- [**better-scroll**](https://github.com/ustbhuangyi/better-scroll)
+
+
 ## Sliders
 
 - [**Swiper**](https://github.com/nolimits4web/Swiper) | [Documentation](http://idangero.us/swiper/) | [文档](http://www.swiper.com.cn/)
@@ -203,3 +223,10 @@
 - [**PhotoSwipe**](https://github.com/dimsemenov/PhotoSwipe) | [Website](http://photoswipe.com/)
 - [**jcSlider**](https://github.com/JoanClaret/jcSlider) | [Website](http://joanclaret.github.io/jcSlider/)
 - [**Glide.js**](https://github.com/jedrzejchalubek/glidejs) | [Website](http://glide.jedrzejchalubek.com/)
+
+
+## Worth Reading
+
+- [**You-Dont-Know-JS**](https://github.com/getify/You-Dont-Know-JS) | [Website](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
+- [**modern-js-cheatsheet**](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [**《JavaScript半知半解》**](https://www.kancloud.cn/dennis/tgjavascript/241800)
