@@ -12,7 +12,7 @@
 - **gulp-load-plugins** | [Github](https://github.com/jackfranklin/gulp-load-plugins)
 
 
-### _Sequence_
+### _Sequence Control_
 
 - **run-sequence** | [Github](https://github.com/OverZealous/run-sequence)
 
