@@ -1,4 +1,4 @@
-# _IDE & Editors （开发环境篇）_
+# _IDE & Editors_
 
 ## _Open source_
 

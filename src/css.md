@@ -5,7 +5,7 @@
 - **postcss** | [Github](https://github.com/postcss/postcss) · [Documentation](https://github.com/postcss/postcss) · [Plugins](https://github.com/postcss/postcss/blob/master/docs/plugins.md)
 
 
-## _Preprocessor (预处理器)_
+## _Preprocessor_
 
 - **sass** | [Github](https://github.com/sass/sass) | [Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) | [文档](https://www.sass.hk/docs/)
 - **node-sass** | [Github](https://github.com/sass/node-sass)
@@ -25,7 +25,7 @@ There is still no consensus about the best way to style React components.
 - **styled-jsx** | [Github](https://github.com/zeit/styled-jsx)
 
 
-## _Online tool（在线工具）_
+## _Online tool_
 
 - **caniuse** | [Github](http://caniuse.com/) | `CSS compatibility query`
 - **css3maker** | [Github](http://www.css3maker.com/) | `CSS online drawing tool`
@@ -33,18 +33,18 @@ There is still no consensus about the best way to style React components.
 - **css-triangle-generator** | [Github](http://apps.eky.hk/css-triangle-generator/) | `CSS triangle generator`
 
 
-## _Parallax scrolling（视察滚动）_
+## _Parallax scrolling_
 
 - **skrollr** | [Github](https://github.com/Prinzhorn/skrollr)
 
 
-## _Animation （动画）_
+## _Animation_
 
 - **animate.css** | [Github](https://github.com/daneden/animate.css) | [Documentation](https://daneden.github.io/animate.css/)
 - **popmotion** | [Github](https://github.com/Popmotion/popmotion) | [Documentation](https://popmotion.io/)
 
 
-## _Practices （实践）_
+## _Practices_
 
 - **BEM** | [Github](https://getbem.com/) · [概念篇](https://www.w3cplus.com/css/oocss-concept)
 - **oocss** | [Github](http://oocss.org/)

@@ -24,20 +24,20 @@
 - **colors.js** | [Github](https://github.com/marak/colors.js/)
 
 
-## _Package Manager （包管理）_
+## _Package Manager_
 
 - **npm** | [Github](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
 - **yarn** | [Github](https://github.com/yarnpkg/yarn) · [Documentation](https://yarnpkg.com/en/docs)
 - **cnpm** | [Github](https://github.com/cnpm/cnpm)· [Documentation](http://npm.taobao.org/)
 
 
-## _Version Manager （版本管理）_
+## _Version Manager_
 
 - **nvm** | [Github](https://github.com/creationix/nvm)
 - **n** | [Github](https://github.com/tj/n)
 
 
-## _Web Develop Frameworks（Web开发框架）_
+## _Web Develop Frameworks_
 
 - **koa** | [Github][1]      · [Documentation][2]  · [文档][3]
 - **express** | [Github][4]  · [Documentation][5]  · [文档][6]
@@ -49,7 +49,7 @@
 
 - **sequelize** | [Github](https://github.com/sequelize/sequelize)
 
-## _Build Tool （构建）_
+## _Build Tool_
 
 - **gulp** | [Github](https://github.com/gulpjs/gulp)
 - **use-gulp** | [Github](https://github.com/Platform-CUF/use-gulp)
@@ -66,7 +66,7 @@
 - **bili** | [Github](https://github.com/egoist/bili)
 
 
-## _Test Tool （测试）_
+## _Test Tool_
 
 - **ava** | [Github](https://github.com/avajs/ava)
 - **jest** | [Github](https://github.com/facebook/jest)
@@ -81,13 +81,13 @@
 - **JSLint** | [Github](https://github.com/douglascrockford/JSLint) | [Documentation](https://eslint.org/)
 
 
-## _Scaffolding Tool （脚手架）_
+## _Scaffolding Tool_
 
 - **sao** | [Github](https://github.com/saojs/sao)
 - **vue-cli** | [Github](https://github.com/vuejs/vue-cli)
 
 
-## _Command-line Tool （命令行）_
+## _Command-line Tool_
 
 - **Inquirer.js** | [Github](https://github.com/sboudrias/Inquirer.js)
 - **cac** | [Github](https://github.com/cacjs/cac)
@@ -96,12 +96,12 @@
 - **shelljs** | [Github](http://documentup.com/shelljs/shelljs)
 
 
-## _Process Manager （进程管理）_
+## _Process Manager_
 
 - **pm2** | [Github](https://github.com/Unitech/PM2/) · [Documentation](http://pm2.keymetrics.io/) · [文档](https://wohugb.gitbooks.io/pm2)
 
 
-## _Development tool （开发工具）_
+## _Development tool_
 
 These projects are generally used in the development environment.
 

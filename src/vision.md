@@ -1,4 +1,4 @@
-# _Vision（关于视觉的一切）_
+# _Vision_
 
 > Discuss everything related to `Vision`, such as: design, svg, image, color, design tools, etc.
 

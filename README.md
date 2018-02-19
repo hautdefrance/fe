@@ -14,13 +14,13 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Comilers**](src/compilers.md)
   - [**Typescript**](src/typescript.md)
   - [**Babel**](src/babel.md)
-- [**State Management（状态管理）**](src/state-management.md)
-- [**Data Visualization（数据可视化）**](src/data-visualization.md)
-- [**Reactive Programming（响应式编程）**](src/reactive-programming.md)
-- [**Mobile Applications（移动应用）**](src/mobile.md)
-- [**Desktop Applications（桌面应用）**](src/desktop.md)
+- [**State Management**](src/state-management.md)
+- [**Data Visualization**](src/data-visualization.md)
+- [**Reactive Programming**](src/reactive-programming.md)
+- [**Mobile Applications**](src/mobile.md)
+- [**Desktop Applications**](src/desktop.md)
 - [**Markdown**](src/markdown.md)
-- [**Static Sites（静态网站）**](src/static-sites.md)
+- [**Static Sites**](src/static-sites.md)
 
 
 ## _Vol.2 Server Side_
@@ -32,9 +32,9 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 
 ## _Vol.3 Miscellaneous_
 
-- [**Tool（工具篇）**](src/tool.md)
-- [**Community（社区篇）**](src/community.md)
-- [**CI（持续集成篇）**](src/ci.md)
+- [**Tool**](src/tool.md)
+- [**Community**](src/community.md)
+- [**CI**](src/ci.md)
 - [**IDE**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
