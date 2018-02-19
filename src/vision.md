@@ -2,16 +2,25 @@
 
 > Discuss everything related to `Vision`, such as: design, svg, image, color, design tools, etc.
 
-## _SVG & Icon_
+## _Icon_
 
-- **iconfont** | [Github](http://www.iconfont.cn/)
-- **icomoon** | [Github](https://icomoon.io/app/#/select)
-- **SVG Online Editor** | [Github](http://editor.method.ac/#move_front)
+- **iconfont** | [Website](http://www.iconfont.cn/)
+- **icomoon** | [Website](https://icomoon.io/app/#/select)
+
+
+## _Font_
+
+- **Google Font** | [Website](https://fonts.google.com/)
+
+
+## _SVG_
+
+- **SVG Online Editor** | [Website](http://editor.method.ac/#move_front)
 
 
 ## _Image Compression_
 
-- [tinypng](https://tinypng.com)
+- **tinypng** | [Website](https://tinypng.com)
 
 ## _Color_
 
@@ -21,6 +30,7 @@
 - **colors** | [Github](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - **TinyColor** | [Github](https://github.com/bgrins/TinyColor) | [Website](http://bgrins.github.io/TinyColor/)
 - **Vibrant.js** | [Github](https://github.com/jariz/vibrant.js/) | [Website](https://github.com/jariz/vibrant.js)
+- **Color Picker** | [Website](https://htmlcolorcodes.com/)
 
 
 ## _Softwares_
@@ -29,16 +39,16 @@
 
 ### _Illustrator_
 
-- **Website** | [Github](https://www.adobe.com/products/illustrator.html)
-- **从Illustrator导文件到Web** | [Github](https://www.w3cplus.com/svg/svg-files-from-illustrator-to-the-web.html)
+- **Official Website** | [Website](https://www.adobe.com/products/illustrator.html)
+- **从Illustrator导文件到Web** | [Website](https://www.w3cplus.com/svg/svg-files-from-illustrator-to-the-web.html)
 
 
 ### _Sketch_
 
-- **Website** | [Github](https://www.sketchapp.com/)
+- **Official Website** | [Website](https://www.sketchapp.com/)
 
 
 ### _Affinity Designer_
 
-- **Website** | [Github](https://affinity.serif.com/zh-cn/designer/)
+- **Official Website** | [Website](https://affinity.serif.com/zh-cn/designer/)
 
