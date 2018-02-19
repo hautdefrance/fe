@@ -50,22 +50,6 @@
 - **sequelize** | [Github](https://github.com/sequelize/sequelize)
 
 
-## _Build Tool_
-
-- **gulp** | [Github](https://github.com/gulpjs/gulp) | [_**More**_](gulp.md)
-- **grunt** | [Github](https://github.com/gruntjs/grunt)
-
-
-## _Bundler (打包)_
-
-- **rollup** | [Github](https://github.com/rollup/rollup)
-- **webpack** | [Github](https://github.com/webpack/webpack)
-- **browserify** | [Github](https://github.com/browserify/browserify)
-- **parcel** | [Github](https://github.com/parcel-bundler/parcel)
-- **poi** | [Github](https://github.com/egoist/poi)
-- **bili** | [Github](https://github.com/egoist/bili)
-
-
 ## _Test Tool_
 
 - **ava** | [Github](https://github.com/avajs/ava)
@@ -74,7 +58,7 @@
 - **jasmine** | [Github](https://github.com/jasmine/jasmine)
 
 
-## _QA Tools (质量保证)_
+## _QA Tools_
 
 - **prettier** | [Github](https://github.com/prettier/prettier) | [Documentation](https://prettier.io/) : `Prettier is an opinionated code formatter`
 - **eslint** | [Github](https://github.com/eslint/eslint) | [Documentation](https://eslint.org/)
@@ -108,23 +92,25 @@ These projects are generally used in the development environment.
 - **nodemon** | [Github](https://github.com/remy/nodemon) · [config file sample](https://github.com/remy/nodemon/blob/master/doc/sample-nodemon.md) · [node.js API](https://github.com/remy/nodemon/blob/master/doc/requireable.md)
 
 
-## _SQL (数据库)_
+## _SQL_
 
 - **mysql.js** | [Github](https://github.com/mysqljs/mysql)
 - **mongo** | [Github](https://github.com/mongodb/mongo)
 - **node-mongodb-native** | [Github](https://github.com/mongodb/node-mongodb-native)
 
 
-## _Cache (缓存)_
+## _Cache_
 
 - **redis** | [Github](https://github.com/antirez/redis)
 - **node-lru-cache** | [Github](https://github.com/isaacs/node-lru-cache)
+
 
 ## _HTTP_
 
 - **request** | [Github](https://github.com/request/request)
 - **request-promise** | [Github](https://github.com/request/request-promise)
 - **request-promise-native** | [Github](https://github.com/request/request-promise-native)
+
 
 ## _HTTP Proxy_
 

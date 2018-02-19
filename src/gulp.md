@@ -5,29 +5,29 @@
 > gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something.
 
 
-## Ecosystem
+## _Ecosystem_
 
-### Gulp Extension
+### _Gulp Extension_
 
 - **gulp-load-plugins** | [Github](https://github.com/jackfranklin/gulp-load-plugins)
 
 
-### Sequence
+### _Sequence_
 
 - **run-sequence** | [Github](https://github.com/OverZealous/run-sequence)
 
 
-### Tansform Stream
+### _Tansform Stream_
 
 - **gulp-concat** | [Github](https://github.com/gulp-community/gulp-concat)
 
 
-### Pipe Helpers
+### _Pipe Helpers_
 
 - **gulp-plumber** | [Github](https://github.com/floatdrop/gulp-plumber)
 
 
-### Tutorial
+### _Tutorial_
 
 - **use-gulp** | [Github](https://github.com/Platform-CUF/use-gulp)
 
