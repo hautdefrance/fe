@@ -49,10 +49,10 @@
 
 - **sequelize** | [Github](https://github.com/sequelize/sequelize)
 
+
 ## _Build Tool_
 
-- **gulp** | [Github](https://github.com/gulpjs/gulp)
-- **use-gulp** | [Github](https://github.com/Platform-CUF/use-gulp)
+- **gulp** | [Github](https://github.com/gulpjs/gulp) | [_**More**_](gulp.md)
 - **grunt** | [Github](https://github.com/gruntjs/grunt)
 
 
