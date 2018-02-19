@@ -2,9 +2,9 @@
 
 ## Parser
 
-- [**marked**](https://github.com/chjj/marked)
+- **marked** | [Github](https://github.com/chjj/marked)
 
 
 ## Theme
 
-- [**github-markdown-css**](https://github.com/sindresorhus/github-markdown-css)
+- **github-markdown-css** | [Github](https://github.com/sindresorhus/github-markdown-css)
