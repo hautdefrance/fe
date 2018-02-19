@@ -23,14 +23,14 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Static Sites**](src/static-sites.md)
 
 
-## _Vol.2 Server Side_
+## _Vol.2_
 
 - [**Node.js**](src/nodejs.md)
 - [**SQL**](src/sql.md)
-- [**http**](src/http.md)
+<!-- - [**http**](src/http.md) -->
 
 
-## _Vol.3 Miscellaneous_
+## _Vol.3_
 
 - [**Tool**](src/tool.md)
 - [**Community**](src/community.md)
@@ -40,15 +40,15 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
 
 
-## _Vol.5 Vision_
+## _Vol.4_
 
 - [**Vision**](src/vision.md)
 
 
-## _Vol.4 Articles_
+## _Vol.5_
 
-- [**English**](src/articles-en_US.md)
-- [**中文**](src/articles-zh_CN.md)
+- [**Articles**](src/articles-en_US.md)
+- [**Articles（中文）**](src/articles-zh_CN.md)
 
 
 # _Contributing_

@@ -223,7 +223,6 @@
 
 - **You-Dont-Know-JS** | [Github](https://github.com/getify/You-Dont-Know-JS) | [Website](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
 - **modern-js-cheatsheet** | [Github](https://github.com/mbeaudru/modern-js-cheatsheet)
-- **JavaScript半知半解** | [Website](https://www.kancloud.cn/dennis/tgjavascript/241800)
 
 
 ## _Miscellaneous_
