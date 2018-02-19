@@ -1,4 +1,4 @@
-# Awesome Front-end
+# _Awesome Front-end_
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ulivz/awesome-front-end)
 
@@ -51,12 +51,12 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**中文**](src/articles-zh_CN.md)
 
 
-# Contributing
+# _Contributing_
 
 Contributions welcome! Read the [**Contribution Guidelines**](./.github/CONTRIBUTING.md) first.
 
 
-# License
+# _License_
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
