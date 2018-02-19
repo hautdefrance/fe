@@ -1,4 +1,4 @@
-# Vue
+# _Vue_
 
 [Github](https://github.com/vuejs/vue) | [Documentation](https://vuejs.org/) | [中文文档](https://cn.vuejs.org/)
 

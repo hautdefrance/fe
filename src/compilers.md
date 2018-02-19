@@ -1,4 +1,4 @@
-# Compilers
+# _Compilers_
 
 Here we talk about languages that compile to regular JavaScript code.
 

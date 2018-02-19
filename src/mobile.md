@@ -1,4 +1,4 @@
-# Mobile Applications（移动应用）
+# _Mobile Applications（移动应用）_
 
 JavaScript is so versatile that it can also be used to build mobile applications, meaning that you can share components between the web and the mobile platforms.
 

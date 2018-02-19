@@ -1,4 +1,4 @@
-# Data Visualization
+# _Data Visualization_
 
 Data visualization tools for the web.
 

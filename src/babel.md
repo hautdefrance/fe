@@ -1,4 +1,4 @@
-# Babel
+# _Babel_
 
 - **Registry** | [Github](https://github.com/babel/babel) | [Documentation](https://babeljs.io/) | [文档](https://babeljs.cn/) | [Playground](https://babeljs.io/repl/)
 

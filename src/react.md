@@ -1,4 +1,4 @@
-# React
+# _React_
 
 [Github](https://github.com/facebook/react) | [Documentation](https://reactjs.org/) | [中文文档](https://doc.react-china.org/)
 

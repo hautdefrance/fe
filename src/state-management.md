@@ -1,4 +1,4 @@
-# State Management
+# _State Management_
 
 - **redux** | [Github](https://github.com/reactjs/redux) | [Documentation](https://github.com/reactjs/redux) | [文档](http://www.redux.org.cn/)
 - **mobx** | [Github](https://github.com/mobxjs/mobx) | [Documentation](https://mobx.js.org/) | [文档](http://cn.mobx.js.org/)

@@ -1,4 +1,4 @@
-# Continuous Integration（持续集成）
+# _Continuous Integration_
 
 ## _Ecosystem_
 

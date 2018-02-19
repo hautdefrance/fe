@@ -1,4 +1,4 @@
-# Static Sites（静态网站）
+# _Static Sites（静态网站）_
 
 - **hexo** | [Github](https://github.com/hexojs/hexo) · [Documentation](https://hexo.io/) · [文档](https://hexo.io/zh-cn/)
 - **jekyll** | [Github](https://github.com/hexojs/hexo) · [Documentation](https://github.com/jekyll/jekyll) · [文档](https://www.jekyll.com.cn/)

@@ -1,4 +1,4 @@
-# Other Awesome Lists
+# _Other Awesome Lists_
 
 - **sotayamashita/awesome-css** | [Github](https://github.com/sotayamashita/awesome-css)
 - **emijrp/awesome-awesome** | [Github](https://github.com/emijrp/awesome-awesome)
