@@ -50,7 +50,7 @@
 
 - [**string.js**](https://github.com/jprichardson/string.js) | [Documentation](http://stringjs.com/)
 - [**URI.js**](https://github.com/medialize/URI.js) | [Documentation](http://medialize.github.io/URI.js/)
-- [camelcase](https://github.com/sindresorhus/camelcase)
+- [**camelcase**](https://github.com/sindresorhus/camelcase)
 
 ## RegExp
 
@@ -87,22 +87,20 @@
 ## I18n And L10n
 
 - [**i18next**](https://github.com/i18next/i18next) | [Documentation](https://www.i18next.com/)
-- [**polyglot**](https://github.com/airbnb/polyglot.js) | [Website](http://i18next.com/) | `From [airbnb](https://github.com/airbnb)`
+- [**polyglot**](https://github.com/airbnb/polyglot.js) | [Website](http://i18next.com/) | From [airbnb](https://github.com/airbnb)
 
 
 ## Routing
 
-- [**director**](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
-- [**page.js**](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (~1200 bytes).
-- [**pathjs**](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
-- [**crossroads**](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
-- [**davis.js**](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
+- [**path-to-regexp**](https://github.com/pillarjs/path-to-regexp)
+- [**director**](https://github.com/flatiron/director)
+- [**page.js**](https://github.com/visionmedia/page.js) | [Documentation](http://visionmedia.github.io/page.js/) | `~1200 bytes`
 
 
 ## Files
 
 - [**Papa Parse**](https://github.com/mholt/PapaParse) | [Documentation](https://www.papaparse.com/): `CSV parser`
-- [**jBinary**](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+- [**jBinary**](https://github.com/jDataView/jBinary) | [Documentation](https://github.com/jDataView/jBinary/wiki) | `Binary files`
 - [**diff2html**](https://github.com/rtfpessoa/diff2html) | [Documentation](https://diff2html.xyz/)
 - [**jsPDF**](https://github.com/MrRio/jsPDF) | [Documentation](https://parall.ax/products/jspdf)
 
