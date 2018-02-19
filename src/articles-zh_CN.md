@@ -10,6 +10,7 @@
 
 - **Node.js 性能调优之内存篇(一)——gcore+llnode** | [Github](https://zhuanlan.zhihu.com/p/27270056)
 - **stream-handbook（中文版）** | [Github](https://github.com/jabez128/stream-handbook)
+- **《Workshop - 对Express中间件进行单元测试》** | [Github](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
 
 
 ## _专栏_

@@ -2,6 +2,27 @@
 
 - **Registry** | [Github](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
+## File System
+
+- **fs-extra** | [Github](https://github.com/jprichardson/node-fs-extra)
+
+
+## Stream
+
+- **stream-handbook** | [Github](https://github.com/substack/stream-handbook)
+- **through2** | [Github](https://github.com/rvagg/through2)
+- **event-stream** | [Github](https://github.com/dominictarr/event-stream)
+- **map-stream** | [Github](https://github.com/dominictarr/map-stream)
+- **readable-stream** | [Github](https://github.com/nodejs/readable-stream)
+- **glob-stream** | [Github](https://github.com/gulpjs/glob-stream)
+
+
+## Log & Colors
+
+- **frontail** | [Github](https://github.com/mthenw/frontail)
+- **winston** | [Github](https://github.com/winstonjs/winston)
+- **colors.js** | [Github](https://github.com/marak/colors.js/)
+
 
 ## _Package Manager （包管理）_
 
@@ -73,7 +94,6 @@
 - **commander.js** | [Github](https://github.com/tj/commander.js)
 - **yargs** | [Github](https://github.com/yargs/yargs)
 - **shelljs** | [Github](http://documentup.com/shelljs/shelljs)
-- **colors.js** | [Github](https://github.com/marak/colors.js/)
 
 
 ## _Process Manager （进程管理）_
@@ -113,10 +133,8 @@ These projects are generally used in the development environment.
 - **express-http-proxy** | [Github](https://github.com/villadora/express-http-proxy)
 
 
-## _Worth Reading_
+## _Practice_
 
-- **《Workshop - 对Express中间件进行单元测试》** | [Github](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
-- **《Node.js debugging with Chrome DevTools》** | [Github](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
 - **nodebestpractices** | [Github](https://github.com/i0natan/nodebestpractices)
 
 
