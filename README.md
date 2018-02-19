@@ -33,7 +33,6 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 ## _Vol.3 Miscellaneous_
 
 - [**Tool（工具篇）**](src/tool.md)
-- [**Developer（人物篇）**](src/developer.md)
 - [**Community（社区篇）**](src/community.md)
 - [**CI（持续集成篇）**](src/ci.md)
 - [**IDE**](src/ide.md)

@@ -2,6 +2,7 @@
 
 - [**Registry**](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
+
 ## Package Manager （包管理）
 
 - [**npm**](https://github.com/npm/npm) · [Documentation](https://docs.npmjs.com/)
@@ -123,11 +124,6 @@ These projects are generally used in the development environment.
 
 - [**unpkg**](https://github.com/unpkg/unpkg)
 - [**jsdelivr**](https://github.com/jsdelivr/jsdelivr)
-
-
-## Team
-
-- [**AlloyTeam**](https://github.com/AlloyTeam)
 
 
 [1]: https://github.com/koajs/koa
