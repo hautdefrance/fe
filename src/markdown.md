@@ -1,10 +1,10 @@
 # Markdown
 
-## Parser
+## _Parser_
 
 - **marked** | [Github](https://github.com/chjj/marked)
 
 
-## Theme
+## _Theme_
 
 - **github-markdown-css** | [Github](https://github.com/sindresorhus/github-markdown-css)

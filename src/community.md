@@ -1,6 +1,6 @@
 # Community（社区篇）
 
-## Awesome Websites
+## _Awesome Websites_
 
 - stackoverflow | [Github](https://stackoverflow.com)
 - MDN | [Github](https://developer.mozilla.org)
@@ -9,7 +9,7 @@
 - segmentfault | [Github](https://segmentfault.com/)
 
 
-## Awesome Developers
+## _Awesome Developers_
 
 > The names are not listed in order.
 
@@ -21,7 +21,7 @@
 - 阮一峰 (ruanyf) | [Github](https://github.com/ruanyf) · [Website](http://www.ruanyifeng.com/blog/)
 
 
-## Awesome Teams
+## _Awesome Teams_
 
 - AlloyTeam | [Github](https://github.com/AlloyTeam)
 - AOTU Labs | [Github](https://github.com/o2team)

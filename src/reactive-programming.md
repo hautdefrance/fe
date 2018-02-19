@@ -5,7 +5,7 @@
 - **bacon.js** | [Github](https://github.com/baconjs/bacon.js) | [Documentation](https://baconjs.github.io/)
 
 
-## Worth Reading
+## _Worth Reading_
 
 - **《学习 RxJS 操作符》** | [Github](https://rxjs-cn.github.io/learn-rxjs-operators/)
 - **《RxJS 5 基本原理》** | [Github](https://rxjs-cn.github.io/rxjs5-ultimate-cn/)

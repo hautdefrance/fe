@@ -8,12 +8,12 @@ Data visualization tools for the web.
 - **Chart.js** | [Github](https://github.com/chartjs/Chart.js)  | [Documentation](http://www.chartjs.org/)
 - **svg.js** | [Github](https://github.com/wout/svg.js) | [Documentation](http://svgjs.com/)
 
-## Timeline
+## _Timeline_
 
 - **TimelineJS v3** | [Github](https://github.com/NUKnightLab/TimelineJS3) | [Documentation](http://timeline.knightlab.com/)
 - **timesheet.js** | [Github](https://github.com/sbstjn/timesheet.js) | [Documentation](https://sbstjn.com/timesheet.js/)
 
-## Spreadsheet
+## _Spreadsheet_
 
 - **HANDSONTABLE** | [Github](https://github.com/handsontable/handsontable) | [Documentation](https://docs.handsontable.com/pro/1.15.1/tutorial-introduction.html)
 

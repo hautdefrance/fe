@@ -3,7 +3,7 @@
 - **Registry** | [Github](https://github.com/Microsoft/TypeScript) | [Documentation](http://www.typescriptlang.org/) | [文档](https://www.tslang.cn/) | [Playground](http://www.typescriptlang.org/play/index.html)
 
 
-## Ecosphere
+## _Ecosphere_
 
 - **TypeSearch** | [Github](https://github.com/Microsoft/TypeSearch) | [Homepage](https://microsoft.github.io/TypeSearch/)
 - **ts-node** | [Github](https://github.com/TypeStrong/ts-node)
@@ -13,6 +13,6 @@
 - **DefinitelyTyped** | [Github](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 
-## Worth Reading
+## _Worth Reading_
 
 - **Typescript Handbook（中文版）** | [Github](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
