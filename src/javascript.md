@@ -124,7 +124,7 @@
 ## _Templating Engines_
 
 - **mustache.js** | [Github](https://github.com/janl/mustache.js) | [Documentation](http://mustache.github.io/)
-- **handlebars.js** | [Github](https://github.com/wycats/handlebars.js/)  | [Documentation](http://handlebarsjs.com/)
+- **handlebars.js** | [Github](https://github.com/wycats/handlebars.js/)  | [Documentation](http://handlebarsjs.com/) | [文档](http://keenwon.com/992.html)
 - **handlebars-helpers** | [Github](https://github.com/helpers/handlebars-helpers) | [Documentation](http://assemble.io/helpers/)
 - **doT** | [Github](https://github.com/olado/doT) | [Documentation](http://olado.github.io/doT/)
 - **Pug** | [Github](https://github.com/pugjs/pug) | [Documentation](https://pugjs.org/api/getting-started.html)
