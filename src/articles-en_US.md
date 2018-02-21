@@ -5,6 +5,7 @@
 - [Best Practices for Using Promises in JS](https://60devs.com/best-practices-for-using-promises-in-js.html)
 - [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/)
 
+
 ## _CSS_
 
 - [CSS Arrows and Shapes Without Markup](https://yuiblog.com/blog/2010/11/22/css-quick-tip-css-arrows-and-shapes-without-markup/)
@@ -13,6 +14,12 @@
 ## _Node.js_
 
 - [Node.js debugging with Chrome DevTools](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
+
+
+## _Protocol_
+
+- [http2](https://hpbn.co/http2/)
+
 
 ## _Miscellaneous_
 

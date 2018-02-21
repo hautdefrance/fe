@@ -122,6 +122,11 @@ These projects are generally used in the development environment.
 - **express-http-proxy** | [Github](https://github.com/villadora/express-http-proxy)
 
 
+## GraghQL
+
+- **graphql-js** | [Github](https://github.com/graphql/graphql-js) | [Website](http://graphql.org/) | [网址](http://graphql.cn/)
+
+
 ## _Practice_
 
 - **nodebestpractices** | [Github](https://github.com/i0natan/nodebestpractices)

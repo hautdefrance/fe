@@ -2,4 +2,4 @@
 
 ## _Loader_
 
-## _Plugins_
+## _Plugin_
