@@ -80,16 +80,19 @@
 - **shelljs** | [Github](http://documentup.com/shelljs/shelljs)
 
 
-## _Process Manager_
-
-- **pm2** | [Github](https://github.com/Unitech/PM2/) · [Documentation](http://pm2.keymetrics.io/) · [文档](https://wohugb.gitbooks.io/pm2)
-
-
 ## _Development tool_
 
 These projects are generally used in the development environment.
 
 - **nodemon** | [Github](https://github.com/remy/nodemon) · [config file sample](https://github.com/remy/nodemon/blob/master/doc/sample-nodemon.md) · [node.js API](https://github.com/remy/nodemon/blob/master/doc/requireable.md)
+- **live-server** | [Github](https://github.com/tapio/live-server)
+
+
+# Process Management
+
+- **pm2** | [Github](https://github.com/Unitech/PM2/) · [Documentation](http://pm2.keymetrics.io/) · [文档](https://wohugb.gitbooks.io/pm2)
+- **forever** | [Github](https://github.com/foreverjs/forever/)
+- **cluster** | [Github](https://github.com/meteorhacks/cluster)
 
 
 ## _SQL_
