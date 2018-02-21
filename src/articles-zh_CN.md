@@ -6,11 +6,21 @@
 - [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/)
 
 
+## _Vue_
+
+- [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
+
+
 ## _Node.js_
 
 - [Node.js 性能调优之内存篇(一)——gcore+llnode](https://zhuanlan.zhihu.com/p/27270056)
 - [stream-handbook（中文版）](https://github.com/jabez128/stream-handbook)
 - [Workshop - 对Express中间件进行单元测试](http://blog.leapoahead.com/2015/09/09/unittesting-express-middlewares/)
+
+
+## _Code Guide_
+
+- [AlloyTeam Code Guide](http://alloyteam.github.io/CodeGuide/)
 
 
 ## _专栏_
