@@ -16,14 +16,14 @@
 
 - [深入浅出CSS布局](http://layout.imweb.io/)
 - [你应该知道的一些事情——CSS权重](https://www.w3cplus.com/css/css-specificity-things-you-should-know.html)
-- [实现一个类 Vue 的 MVVM 框架](https://www.qianduan.net/high-performance-css3-animations/)
+- [高性能 CSS3 动画](https://www.qianduan.net/high-performance-css3-animations/)
 
 
 ## _Frameworks_
 
 - [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 - [React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
-- [React Fiber是什么？](https://gmiam.com/post/evo.html)
+- [实现一个类 Vue 的 MVVM 框架](https://gmiam.com/post/evo.html)
 
 ## _PWA_
 
@@ -59,4 +59,5 @@
 
 ## _其他_
 
+- [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [Rust 程序设计语言（第一版）简体中文版](https://kaisery.gitbooks.io/rust-book-chinese/content/)
