@@ -2,11 +2,12 @@
 
 ## _Awesome Websites_
 
-- stackoverflow | [Github](https://stackoverflow.com)
-- MDN | [Github](https://developer.mozilla.org)
-- MDN（中文） | [Github](https://developer.mozilla.org/zh-CN/)
-- 掘金 | [Github](https://juejin.im/welcome)
-- segmentfault | [Github](https://segmentfault.com/)
+- [stackoverflow](https://stackoverflow.com)
+- [MDN](https://developer.mozilla.org)
+- [MDN（中文）](https://developer.mozilla.org/zh-CN/)
+- [掘金](https://juejin.im/welcome)
+- [segmentfault](https://segmentfault.com/)
+- [w3cplus](https://www.w3cplus.com/)
 
 
 ## _Awesome Developers_
@@ -26,5 +27,5 @@
 - AlloyTeam | [Github](https://github.com/AlloyTeam)
 - AOTU Labs | [Github](https://github.com/o2team)
 - DDFE | [Github](https://github.com/DDFE)
-- aliued | [Github](http://www.aliued.cn/)
-- ISUX | [Github](https://isux.tencent.com/)
+- aliued | [Website](http://www.aliued.cn/)
+- ISUX | [Website](https://isux.tencent.com/)
