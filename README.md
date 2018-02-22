@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ulivz/awesome-front-end)
 
-_**A continuous updating list that collects fragments that a awesome FED is most likely to "fetch". 🍻**_
+_**A continuous updating list that a awesome FED is most likely to "fetch". 🍻**_
 
 ## _Vol.1_
 
@@ -11,7 +11,7 @@ _**A continuous updating list that collects fragments that a awesome FED is most
 - [**Frameworks**](src/frameworks.md)
   - [**vue**](src/vue.md)
   - [**react**](src/react.md)
-- [**Comilers**](src/compilers.md)
+- [**Compilers**](src/compilers.md)
   - [**Typescript**](src/typescript.md)
   - [**Babel**](src/babel.md)
 - [**State Management**](src/state-management.md)
