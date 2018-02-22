@@ -1,16 +1,16 @@
 # _CSS_
 
-## _CSS transpiler_
-
-- **postcss** | [Github](https://github.com/postcss/postcss) · [Documentation](https://github.com/postcss/postcss) · [Plugins](https://github.com/postcss/postcss/blob/master/docs/plugins.md)
-
-
 ## _Preprocessor_
 
 - **sass** | [Github](https://github.com/sass/sass) | [Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) | [文档](https://www.sass.hk/docs/)
 - **node-sass** | [Github](https://github.com/sass/node-sass)
 - **less** | [Github](https://github.com/less/less.js) | [Documentation](http://lesscss.org/)
 - **stylus** | [Github](https://github.com/stylus/stylus) | [Documentation](http://stylus-lang.com/)
+
+
+## _Postcss_
+
+- **postcss** | [Github](https://github.com/postcss/postcss) · [Documentation](https://github.com/postcss/postcss) · [Plugins](https://github.com/postcss/postcss/blob/master/docs/plugins.md)
 
 
 ## _CSS in JavaScript_
@@ -44,7 +44,7 @@ There is still no consensus about the best way to style React components.
 - **popmotion** | [Github](https://github.com/Popmotion/popmotion) | [Documentation](https://popmotion.io/)
 
 
-## _Practices_
+## _Practice_
 
 - **BEM** | [Github](https://getbem.com/) · [概念篇](https://www.w3cplus.com/css/oocss-concept)
 - **oocss** | [Github](http://oocss.org/)
