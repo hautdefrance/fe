@@ -8,3 +8,5 @@
 - **riot** | [Github](https://github.com/riot/riot) · [Documentation]( http://riotjs.com/)
 - **inferno** | [Github](https://github.com/infernojs/inferno) · [Documentation](https://infernojs.org/)
 - **anu** | [Github](https://rubylouvre.github.io/anu/) · [简体中文](https://infernojs.org/)
+- **You-Dont-Need-jQuery** | [Github](https://github.com/nefe/You-Dont-Need-jQuery)
+
