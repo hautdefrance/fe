@@ -132,6 +132,12 @@ These projects are generally used in the development environment.
 - **nodebestpractices** | [Github](https://github.com/i0natan/nodebestpractices)
 
 
+## _Headless Chrome_
+
+- **puppeteer** | [Github](https://github.com/GoogleChrome/puppeteer)
+- **phantomjs** | [Github](https://github.com/ariya/phantomjs)
+
+
 ## _CDN_
 
 - **unpkg** | [Github](https://github.com/unpkg/unpkg)
