@@ -103,6 +103,7 @@
 - **jBinary** | [Github](https://github.com/jDataView/jBinary) | [Documentation](https://github.com/jDataView/jBinary/wiki) | `Binary files`
 - **diff2html** | [Github](https://github.com/rtfpessoa/diff2html) | [Documentation](https://diff2html.xyz/)
 - **jsPDF** | [Github](https://github.com/MrRio/jsPDF) | [Documentation](https://parall.ax/products/jspdf)
+- **pdf.js** | [Github](https://github.com/mozilla/pdf.js)
 
 
 ## _Functional Programming_
@@ -177,7 +178,7 @@
 
 ## _Code highlighting_
 
-- **Highlight.js** | [Github](https://github.com/isagalaev/highlight.js) | [Website](https://highlightjs.org/)
+- **Highlight.js** | [Github](https://github.com/isagalaev/highlight.js) | [Documentation](http://highlightjs.readthedocs.io/en/latest/index.html)
 - **PrismJS** | [Github](https://github.com/PrismJS/prism) | [Website](http://prismjs.com/)
 
 

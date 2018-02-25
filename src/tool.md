@@ -3,8 +3,14 @@
 
 ## _Flowcharts_
 
-- **draw.io** | [Github](https://www.draw.io/)
-- **processon** | [Github](https://www.processon.com/)
+- [**draw.io**](https://www.draw.io/)
+- [**processon**](https://www.processon.com/)
+
+
+## Keyboard
+
+- [**keycode**](http://keycode.info/)
+- [**javascript-keycodes**](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
 
 
 ## _Miscellaneous_
