@@ -2,7 +2,7 @@
 
 ## _Knowledge Hierarchy_
 
-- [**Selectors**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+- [**Selectors**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) | [手记](css/selectors.md)
 - [**Styling Text**](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
 - [**Styling Boxes**](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
 - [**Layout**](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
