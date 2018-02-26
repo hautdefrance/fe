@@ -58,7 +58,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 
 ## _Vol.6_
 
-- [**Java**](src/articles-en_US.md)
+- [**Java**](src/java.md)
 
 
 # _Contributing_
