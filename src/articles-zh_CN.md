@@ -24,6 +24,8 @@
 - [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
 - [React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
 - [实现一个类 Vue 的 MVVM 框架](https://gmiam.com/post/evo.html)
+- [Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24)
+
 
 ## _PWA_
 
