@@ -1,6 +1,6 @@
-# UTILS
+# Utils
 
-
+This file provides some useful regular expressions for more enjoyable project maintenance 🛠.
 
 ## Batch Bold
 

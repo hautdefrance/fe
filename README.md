@@ -64,7 +64,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 
 # _Contributing_
 
-Contributions welcome! Read the [**Contribution Guidelines**](./.github/CONTRIBUTING.md) first.
+Contributions welcome! Read the [**Contribution Guidelines**](.github/CONTRIBUTING.md) first. and there are some [Utils](.github/UTILS.md) for you.
 
 
 # _License_
