@@ -40,6 +40,11 @@
 - [浅析Node.js的Event Loop](https://github.com/yzfdjzwl/blog/blob/master/node/event-loop.md)
 - [使用PM2 Deploy部署基于Git版本管理的网站应用](https://www.toobug.net/article/using_pm2_deploy.html)
 
+### _Event Loop_
+
+- [Event Loop的规范和实现](https://zhuanlan.zhihu.com/p/33087629)
+- [理解事件循环二 (`macrotask`和`microtask`) ](https://github.com/ccforward/cc/issues/48)
+
 
 ## _Code Guide_
 
