@@ -1,5 +1,7 @@
 # CSS 选择器
 
+## 概览
+
 - ID选择器：`#id`
 - 类选择器：`.class`
 - 元素选择器：`element`
@@ -29,4 +31,17 @@
   - `::before`
   - `::selection`
   - 全部请参见[这里](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+## 案例
+
+### nth-child(n)的生效条件
+
+```css
+p:nth-child(2){ ... }
+```
+
+生效条件：
+
+- `P`是一个子元素
+- `p`是父元素的第`2`个子元素
 
