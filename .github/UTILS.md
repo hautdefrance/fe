@@ -1,25 +1,27 @@
 # UTILS
 
+
+
 ## Batch Bold
 
-- `Description`: This regular expression will **bold** all the linked items.
-- `Source`:
+- **Description**: This regular expression will **bold** all the link text.
+- **Source**:
 
   ```
   -\s\[([^\]\[\*]*)\]
   - [**$1**]
   ```
 
-- `Example`:
+- **Example**:
 
-  - `Input`:
+  - Input:
 
   ```markdown
   - [a](...)
   - [b](...)
   ```
 
-  - `Output`:
+  - Output:
 
   ```markdown
   - [**a**](...)
@@ -29,42 +31,44 @@
 
 ## Batch Transform
 
-- `Description`: This regular expression will transform all the linked items to the awesome style.
-- `Source`:
+- **Description**: This regular expression will transform all the link item to the awesome style.
+- **Source**:
 
   ```
   -\s\[(\*\*)?([^\]\[]*)(\*\*)?\]
   - **$2** | [Github]
   ```
 
-- `Example`:
+- **Example**:
 
-  - `Input`:
+  - Input:
 
   ```markdown
   - [a](...)
+  - [**b**](...) | ...
   ```
 
-  - `Output`:
+  - Output:
 
   ```markdown
-  - **a** | [Github](https://github.com/Tencent/tmt-workflow)
+  - **a** | [Github](...)
+  - **b** | [Github](...) | ...
   ```
 
 
 ## Batch Italic
 
-- `Description`: This regular expression will **italic** all the non-H1 header texts.
-- `Source`:
+- **Description**: This regular expression will **italic** all the non-H1 header texts.
+- **Source**:
 
   ```
   (#{2,}\s)(.*)
   $1_$2_
   ```
 
-- `Example`:
+- **Example**:
 
-  - `Input`:
+  - Input:
 
   ```markdown
   # a
@@ -72,7 +76,7 @@
   ### c
   ```
 
-  - `Output`:
+  - Output:
 
   ```markdown
   # a
