@@ -39,6 +39,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 - [**Tool**](src/tool.md)
 - [**Community**](src/community.md)
 - [**CI**](src/ci.md)
+- [**Work Flow**](src/ci.md)
 - [**IDE**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
