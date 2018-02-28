@@ -52,3 +52,7 @@
 
 - **Official Website** | [Website](https://affinity.serif.com/zh-cn/designer/)
 
+
+### _vectr_
+
+- **Official Website** | [Website](http://vectr.com/)
