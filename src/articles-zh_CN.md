@@ -25,7 +25,7 @@
 - [React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
 - [实现一个类 Vue 的 MVVM 框架](https://gmiam.com/post/evo.html)
 - [Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24)
-
+- [深入响应式原理](https://cn.vuejs.org/v2/guide/reactivity.html) | [英文原文](https://vuejs.org/v2/guide/reactivity.html)
 
 ## _PWA_
 
