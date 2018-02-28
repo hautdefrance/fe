@@ -40,7 +40,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 - [**Community**](src/community.md)
 - [**CI**](src/ci.md)
 - [**Work Flow**](src/work-flow.md)
-- [**IDE**](src/ide.md)
+- [**IDE & Editors**](src/ide.md)
 - [**JavaScript Rising Stars**](src/ristingstars.md)
 - [**Other Awesome Lists**](src/other-awesome-lists.md)
 

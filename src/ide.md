@@ -1,6 +1,7 @@
 # _IDE & Editors_
 
 ## _IDE_
+
 ### _Open source_
 
 - **vscode** | [Github](https://github.com/Microsoft/vscode) | [Documentation](https://code.visualstudio.com/docs) | [文档](https://jeasonstudio.gitbooks.io/vscode-cn-doc/content/)
