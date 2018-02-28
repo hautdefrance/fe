@@ -20,6 +20,7 @@
 
 - **codemirror** | [Github](https://github.com/codemirror/CodeMirror) | [Documentation](http://codemirror.net/)
 - **ace** | [Github](https://github.com/ajaxorg/ace) | [Documentation](https://ace.c9.io/)
+- **draft-js** | [Github](https://github.com/facebook/draft-js) | [Documentation](https://draftjs.org/)
 
 
 ## _Programmable Rich Text_
