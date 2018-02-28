@@ -15,13 +15,15 @@
 - **webstorm** | [Github](https://www.jetbrains.com/webstorm) | [theme](http://www.riaway.com/theme.php)
 
 
-## _Programmable Rich Text_
-
-- **prosemirror** | [Github](https://www.indiegogo.com/projects/prosemirror)
-- **slate** | [Github](https://github.com/ianstormtaylor/slate)
-
-
 ## _Programmable Editor_
 
-- **codemirror** | [Github](https://github.com/codemirror/CodeMirror)
+- **codemirror** | [Github](https://github.com/codemirror/CodeMirror) | [Documentation](http://codemirror.net/)
 - **ace** | [Github](https://github.com/ajaxorg/ace) | [Documentation](https://ace.c9.io/)
+
+
+## _Programmable Rich Text_
+
+- **prosemirror** | [Github](https://github.com/ProseMirror/prosemirror) | [Documentation](http://prosemirror.net/)
+- **slate** | [Github](https://github.com/ianstormtaylor/slate) | [Documentation](http://slatejs.org/)
+
+
