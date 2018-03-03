@@ -18,6 +18,7 @@
   * [Data Structure](#data-structure)
   * [Templating Engines](#templating-engines)
   * [V-DOM](#v-dom)
+  * [Canvas](#canvas)
   * [UI Frameworks](#ui-frameworks)
   * [Online JavaScript Debugging](#online-javascript-debugging)
   * [Documentation](#documentation)
@@ -136,6 +137,11 @@
 ## _V-DOM_
 
 - **snabbdom** | [Github](https://github.com/snabbdom/snabbdom)
+
+
+## _Canvas_
+
+- **dom-to-image** | [Github](https://github.com/tsayen/dom-to-image)
 
 
 ## _UI Frameworks_
