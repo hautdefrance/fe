@@ -27,6 +27,7 @@
   * [Code highlighting](#code-highlighting)
   * [Loading Status](#loading-status)
   * [Scroll](#scroll)
+  * [Clipboard](#clipboard)
   * [Sliders](#sliders)
   * [Polyfills](#polyfills)
   * [Worth Reading](#worth-reading)
@@ -205,6 +206,11 @@
 
 - **iscroll** | [Github](https://github.com/cubiq/iscroll) | [Website](http://iscrolljs.com/)
 - **better-scroll** | [Github](https://github.com/ustbhuangyi/better-scroll)
+
+
+## _Clipboard_
+
+- **clipboard** | [Github](https://github.com/zenorocha/clipboard.js)
 
 
 ## _Sliders_
