@@ -41,6 +41,7 @@
 - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 - [浅析Node.js的Event Loop](https://github.com/yzfdjzwl/blog/blob/master/node/event-loop.md)
 - [使用PM2 Deploy部署基于Git版本管理的网站应用](https://www.toobug.net/article/using_pm2_deploy.html)
+- [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 
 ### _Event Loop_
 
@@ -67,4 +68,7 @@
 ## _其他_
 
 - [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 - [Rust 程序设计语言（第一版）简体中文版](https://kaisery.gitbooks.io/rust-book-chinese/content/)
+
+
