@@ -29,6 +29,7 @@
   * [Scroll](#scroll)
   * [Clipboard](#clipboard)
   * [Sliders](#sliders)
+  * [Lazyload](#lazyload)
   * [Polyfills](#polyfills)
   * [Worth Reading](#worth-reading)
   * [Miscellaneous](#miscellaneous)
@@ -223,6 +224,12 @@
 - **PhotoSwipe** | [Github](https://github.com/dimsemenov/PhotoSwipe) | [Website](http://photoswipe.com/)
 - **jcSlider** | [Github](https://github.com/JoanClaret/jcSlider) | [Website](http://joanclaret.github.io/jcSlider/)
 - **Glide.js** | [Github](https://github.com/jedrzejchalubek/glidejs) | [Website](http://glide.jedrzejchalubek.com/)
+
+
+## _Lazyload_
+
+- **vanilla-lazyload** | [Github](https://github.com/verlok/lazyload) | [Demo](http://www.andreaverlicchi.eu/lazyload/#user-content-demos)
+
 
 
 ## _Polyfills_
