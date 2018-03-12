@@ -229,7 +229,7 @@
 ## _Lazyload_
 
 - **vanilla-lazyload** | [Github](https://github.com/verlok/lazyload) | [Demo](http://www.andreaverlicchi.eu/lazyload/#user-content-demos)
-
+- **jquery_lazyload** | [Github](https://github.com/tuupola/jquery_lazyload) | [Demo](https://appelsiini.net/projects/lazyload/)
 
 
 ## _Polyfills_
