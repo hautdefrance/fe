@@ -4,6 +4,10 @@
 
 > gulp is a toolkit for automating painful or time-consuming tasks in your development workflow, so you can stop messing around and build something.
 
+## _Awesome List_
+
+ - **awesome-gulp****** | [Github](https://github.com/alferov/awesome-gulp)
+
 
 ## _Ecosystem_
 
@@ -32,10 +36,18 @@
 - **use-gulp** | [Github](https://github.com/Platform-CUF/use-gulp)
 
 
+### _fs_
+
+ - **gulp-clean**** | [Github](https://github.com/peter-vilja/gulp-clean)
+ - **gulp-autoprefixer**** | [Github](https://github.com/sindresorhus/gulp-autoprefixer)
+ - **gulp-compass**** | [Github](https://github.com/appleboy/gulp-compass)
+ - **gulp-conventional-changelog**** | [Github](https://github.com/conventional-changelog-archived-repos/gulp-conventional-changelog)
+
+
+
 ## Plugin Boilerplate
 
-- **gulp-plugin-boilerplate** | [Github](https://github.com/ulivz/gulp-plugin-boilerplate)
-
+ - **gulp-plugin-boilerplate**** | [Github](https://github.com/ulivz/gulp-plugin-boilerplate)
 
 
 

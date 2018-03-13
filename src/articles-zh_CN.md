@@ -10,6 +10,7 @@
 - [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
 - [前端如何实现图片懒加载(lazyload) 提高用户体验](https://zhuanlan.zhihu.com/p/24057749?refer=dreawer)
 - [前端必须要懂的浏览器缓存机制](https://juejin.im/entry/59c8d4675188256bb018ff89)
+- [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
 
 
 ## _CSS_
@@ -18,7 +19,7 @@
 - [你应该知道的一些事情——CSS权重](https://www.w3cplus.com/css/css-specificity-things-you-should-know.html)
 - [高性能 CSS3 动画](https://www.qianduan.net/high-performance-css3-animations/)
 - [去除inline-block元素间间距的N种方法](http://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
-- [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
+- [CSS BEM 书写规范](https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83)
 
 
 ## _Frameworks_
@@ -44,12 +45,20 @@
 - [浅析Node.js的Event Loop](https://github.com/yzfdjzwl/blog/blob/master/node/event-loop.md)
 - [使用PM2 Deploy部署基于Git版本管理的网站应用](https://www.toobug.net/article/using_pm2_deploy.html)
 - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
+- [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+
 
 ### _Event Loop_
 
 - [Event Loop的规范和实现](https://zhuanlan.zhihu.com/p/33087629)
 - [理解事件循环二 (`macrotask`和`microtask`) ](https://github.com/ccforward/cc/issues/48)
 
+
+### _Gulp_
+
+- [解刨gulp中steam pipe的异步并行坑](http://www.tangshuang.net/2935.html)
+- [gulp教程之gulp-imagemin](http://blog.csdn.net/zhongguohaoshaonian/article/details/53213657)
+- [如何使用Gulp裁剪和压缩图片](http://geek100.com/2684.html)
 
 ## _Code Guide_
 

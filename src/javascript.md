@@ -144,6 +144,8 @@
 ## _Canvas_
 
 - **dom-to-image** | [Github](https://github.com/tsayen/dom-to-image)
+ - **html2canvas**** | [Github](https://github.com/niklasvh/html2canvas)
+ - **pageres**** | [Github](https://github.com/sindresorhus/pageres)
 
 
 ## _UI Frameworks_
