@@ -6,7 +6,30 @@
 
 [compiler](https://webpack.js.org/api/plugins/compiler) ~ [compiler中文](https://doc.webpack-china.org/api/plugins/compiler/)
 
+
 ## _Loader_
+
+[webpack-contrib](https://github.com/webpack-contrib)
+
+```js
+module.exports = {
+    entry: '',
+    output: '',
+    module: {
+        rules: [
+            {
+                test: /RegExp/,
+                loader: '',
+                exclude: '',
+                query: {}
+            }
+        ]
+    },
+	resolve: {
+        extensions: ['.js', '.jsx'],
+    }
+}
+```
 
 - **raw-loader** | [Github](https://github.com/webpack-contrib/raw-loader)
 - **file-loader** | [Github](https://github.com/webpack-contrib/file-loader)
