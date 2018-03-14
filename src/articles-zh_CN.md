@@ -12,7 +12,7 @@
 - [前端必须要懂的浏览器缓存机制](https://juejin.im/entry/59c8d4675188256bb018ff89)
 - [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
 - [前端性能优化 - 资源预加载](http://www.open-open.com/lib/view/open1449664526801.html)
-
+`
 
 ## _CSS_
 
@@ -21,7 +21,8 @@
 - [高性能 CSS3 动画](https://www.qianduan.net/high-performance-css3-animations/)
 - [去除inline-block元素间间距的N种方法](http://www.zhangxinxu.com/wordpress/2012/04/inline-block-space-remove-%E5%8E%BB%E9%99%A4%E9%97%B4%E8%B7%9D/)
 - [CSS BEM 书写规范](https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83)
-
+- [sass揭秘之@mixin，%，@function](https://www.w3cplus.com/preprocessor/sass-mixins-function-placeholder.html)
+- [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
 ## _Frameworks_
 
