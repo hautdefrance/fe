@@ -12,7 +12,8 @@
 - [前端必须要懂的浏览器缓存机制](https://juejin.im/entry/59c8d4675188256bb018ff89)
 - [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
 - [前端性能优化 - 资源预加载](http://www.open-open.com/lib/view/open1449664526801.html)
-`
+- [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+
 
 ## _CSS_
 
