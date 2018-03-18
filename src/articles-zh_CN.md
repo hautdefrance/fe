@@ -12,7 +12,7 @@
 - [前端必须要懂的浏览器缓存机制](https://juejin.im/entry/59c8d4675188256bb018ff89)
 - [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
 - [前端性能优化 - 资源预加载](http://www.open-open.com/lib/view/open1449664526801.html)
-- [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+- [界面之下：还原真实的MV*模式](https://github.com/livoras/blog/issues/11)
 
 
 ## _CSS_
@@ -25,13 +25,27 @@
 - [sass揭秘之@mixin，%，@function](https://www.w3cplus.com/preprocessor/sass-mixins-function-placeholder.html)
 - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
-## _Frameworks_
+
+## _Virtual DOM_
+
+- [深度剖析：如何实现一个 Virtual DOM 算法](https://github.com/livoras/blog/issues/13)
+- [解析 snabbdom 源码，教你实现精简的 Virtual DOM 库](https://github.com/creeperyang/blog/issues/33)
+
+
+## _Vue_
 
 - [探索Vue高阶组件](http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%BB%B6/)
-- [React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
 - [实现一个类 Vue 的 MVVM 框架](https://gmiam.com/post/evo.html)
 - [Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24)
 - [深入响应式原理](https://cn.vuejs.org/v2/guide/reactivity.html) | [英文原文](https://vuejs.org/v2/guide/reactivity.html)
+
+
+## _React_
+
+- [React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
+- [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
+- [reactjs源码分析-下篇（更新机制实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_two/)
+
 
 ## _PWA_
 
@@ -80,7 +94,6 @@
 - [Server-Sent Events 教程](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
 
 
-
 ## _知乎专栏_
 
 - [石墨文档技术酒馆](https://zhuanlan.zhihu.com/shimo)
@@ -91,5 +104,3 @@
 - [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 - [Rust 程序设计语言（第一版）简体中文版](https://kaisery.gitbooks.io/rust-book-chinese/content/)
-
-
