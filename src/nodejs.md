@@ -144,6 +144,11 @@ These projects are generally used in the development environment.
 - **chromium** | [Github](https://github.com/chromium/chromium)
 
 
+## _Clipboard_
+
+- **clipboardy** | [Github](https://github.com/sindresorhus/clipboardy)
+
+
 [1]: https://github.com/koajs/koa
 [2]: http://koajs.com/
 [3]: http://www.koacn.com/
