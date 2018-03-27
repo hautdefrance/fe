@@ -42,3 +42,14 @@ module.exports = {
 
 
 ## _Plugins_
+
+
+## _dev-server_
+
+- **webpack-dev-server** | [Github](https://github.com/webpack/webpack-dev-server)
+- **webpack-hot-middleware** | [Github](https://github.com/glenjamin/webpack-hot-middleware)
+
+
+## _Worth Reading_
+
+- [Hot Module Replacement(https://webpack.js.org/guides/hot-module-replacement/)
