@@ -18,6 +18,12 @@
 - **SVG Online Editor** | [Website](http://editor.method.ac/#move_front)
 
 
+## _Morph SVG Paths_
+
+- **flubber** | [Github](https://github.com/veltman/flubber)
+- **polymorph** | [Github](https://github.com/notoriousb1t/polymorph)
+
+
 ## _Image Compression_
 
 - **tinypng** | [Website](https://tinypng.com)
