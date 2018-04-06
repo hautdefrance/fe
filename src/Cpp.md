@@ -7,6 +7,6 @@
 
 ### _Xcode_
 
-- [设置Xcode 复制一行，删除一行快捷键](https://www.jianshu.com/p/4622b6280c9a)
+- [Xcode duplicate/delete line](https://stackoverflow.com/questions/551383/xcode-duplicate-delete-line)
 
 
