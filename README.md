@@ -61,6 +61,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 
 - [**Java**](src/java.md)
 - [**Haskell**](src/haskell.md)
+- [**C++**](src/Cpp.md)
 
 
 # _Contributing_
