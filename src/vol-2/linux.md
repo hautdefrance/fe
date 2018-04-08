@@ -8,6 +8,8 @@
 
 - **_curl_**
 
+- **_cp_**
+
 - **_ds_**
   - **du -lh**：Check the device's usage
 
@@ -78,6 +80,12 @@ sudo cat /etc/hosts | grep localhost
 
 ```shell
 ssh -i ~/.ssh/xxx stack@xxx
+```
+
+- find
+
+```shell
+find /home -name "*.txt"
 ```
 
   
