@@ -4,6 +4,9 @@
 
 > Sort alphabetically.
 
+- **_ds_**
+  - **du -lh**：Check the device's usage
+
 - **_du_**
   - **du -h \[filename\]**：Readable file size
   - **du -a**：Show file
