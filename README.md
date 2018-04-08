@@ -32,6 +32,7 @@ _**A continuous updating list that a awesome FED is most likely to "fetch". 🍻
 - [**SQL**](src/vol-2/sql.md)
 - [**Security**](src/vol-2/security.md)
 - [**Http**](src/vol-2/http.md)
+- [**Http**](src/vol-2/http.md)
 
 
 ## _Vol.3_

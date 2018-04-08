@@ -1,6 +1,6 @@
-# Http
+# _Http_
 
-## Worth Reading
+## _Worth Reading_
 
 - [MDN Http](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [Understanding 403 Forbidden](http://www.dirv.me/blog/2011/07/18/understanding-403-forbidden/index.html)
