@@ -14,6 +14,7 @@
 ## _Node.js_
 
 - [**Node.js debugging with Chrome DevTools**](https://hospodarets.com/nodejs-debugging-in-chrome-devtools?utm_source=javascriptweekly&utm_medium=email)
+- [**Testing a Node.js HTTP server with Mochas**](http://taylor.fausak.me/2013/02/17/testing-a-node-js-http-server-with-mocha/)
 
 
 ## _Protocol_

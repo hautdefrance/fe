@@ -151,6 +151,12 @@ These projects are generally used in the development environment.
 - **clipboardy** | [Github](https://github.com/sindresorhus/clipboardy)
 
 
+## _Debug_
+
+- **Debug** | [Github](https://github.com/visionmedia/debug)
+
+
+https://github.com/visionmedia/debug
 [1]: https://github.com/koajs/koa
 [2]: http://koajs.com/
 [3]: http://www.koacn.com/
