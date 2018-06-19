@@ -38,16 +38,16 @@ module.exports = {
         ]
       },
       {
-        title: 'Node.js',
+        title: 'Back-end',
         collapsable: false,
         children: [
-          'node/build',
-          'node/gulp',
-          'node/http',
-          'node/nodejs',
-          'node/security',
-          'node/sql',
-          'node/webpack'
+          'back-end/nodejs',
+          'back-end/build',
+          'back-end/gulp',
+          'back-end/http',
+          'back-end/security',
+          'back-end/sql',
+          'back-end/webpack'
         ]
       },
       {
