@@ -2,8 +2,8 @@
 
 Here we talk about languages that compile to regular JavaScript code.
 
-- **TypeScript** | [Github](https://github.com/Microsoft/TypeScript) · [Documentation](http://www.typescriptlang.org/) · [文档](https://www.tslang.cn/) · [Playground](http://www.typescriptlang.org/play/index.html) · [_**More**_](../typescript.md)
-- **babel** | [Github](https://github.com/babel/babel) · [Documentation](https://babeljs.io/) · [文档](https://babeljs.cn/) · [Playground](https://babeljs.io/repl/) · [_**More**_](../babel.md)
+- **TypeScript** | [Github](https://github.com/Microsoft/TypeScript) · [Documentation](http://www.typescriptlang.org/) · [文档](https://www.tslang.cn/) · [Playground](http://www.typescriptlang.org/play/index.html) · [typescript](typescript.md)
+- **babel** | [Github](https://github.com/babel/babel) · [Documentation](https://babeljs.io/) · [文档](https://babeljs.cn/) · [Playground](https://babeljs.io/repl/) · [_**More**_](babel.md)
 - **flow** | [Github](https://github.com/facebook/flow) · [Documentation](https://flow.org/)
 - **reason** | [Github](https://github.com/facebook/reason) · [Documentation](https://reasonml.github.io/)
 - **purescript** | [Github](https://github.com/purescript/purescript) · [Documentation](http://www.purescript.org/)

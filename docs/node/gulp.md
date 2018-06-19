@@ -6,7 +6,7 @@
 
 ## _Awesome List_
 
- - **awesome-gulp****** | [Github](https://github.com/alferov/awesome-gulp)
+ - **awesome-gulp** | [Github](https://github.com/alferov/awesome-gulp)
 
 
 ## _Ecosystem_
