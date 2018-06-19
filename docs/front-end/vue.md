@@ -5,9 +5,10 @@
 
 ## _Ecosphere_
 
-- **vuex** | [Github](https://github.com/vuejs/vuex) · [Documentation](https://vuex.vuejs.org/en/) · [文档](https://vuex.vuejs.org/zh-cn/)
-- **vue-cli** | [Github](https://github.com/vuejs/vue-cli) · [Documentation](https://github.com/vuejs/vue-cli/blob/dev/docs/README.mds)
-- **vue-router** | [Github](https://github.com/vuejs/vue-router) · [Documentation](https://router.vuejs.org/en/) · [文档](https://router.vuejs.org/zh-cn/)
+- **vuex** | [Github](https://github.com/vuejs/vuex) · [Documentation](https://vuex.vuejs.org/) · [文档](https://vuex.vuejs.org/zh/)
+- **vuepress** | [Github](https://github.com/vuejs/vuepress) · [Documentation](https://vuepress.vuejs.org/) · [文档](https://vuepress.vuejs.org/zh/)
+- **vue-cli** | [Github](https://github.com/vuejs/vue-cli) · [Documentation](https://cli.vuejs.org/)
+- **vue-router** | [Github](https://github.com/vuejs/vue-router) · [Documentation](https://router.vuejs.org/) · [文档](https://router.vuejs.org/zh/)
 - **vue-class-component** | [Github](https://github.com/vuejs/vue-class-component)
 - **vue-resource** | [Github](https://github.com/pagekit/vue-resource)
 - **awesome-vue** | [Github](https://github.com/vuejs/awesome-vue)
