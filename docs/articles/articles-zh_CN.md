@@ -5,10 +5,8 @@
 - [深入理解WebWorker](http://www.alloyteam.com/2015/11/deep-in-web-worker/)
 - [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/)
 - [为什么认为Backbone是现代化前端框架的基石](https://uinika.github.io/web/backbone.html?utm_source=tuicool&utm_medium=referral)
-- [[译]Medium 是如何优化图片加载的](http://www.jackpu.com/medium-shi-ru-he-zuo-tu-pian-jia-zai-de/)
 - [[译]什么是Shadow Dom？](https://www.toobug.net/article/what_is_shadow_dom.html)
 - [网页性能管理详解](http://www.ruanyifeng.com/blog/2015/09/web-page-performance-in-depth.html)
-- [前端如何实现图片懒加载(lazyload) 提高用户体验](https://zhuanlan.zhihu.com/p/24057749?refer=dreawer)
 - [前端必须要懂的浏览器缓存机制](https://juejin.im/entry/59c8d4675188256bb018ff89)
 - [深入浅出throttle和debounce](https://github.com/stephenLYao/stephenLYao.github.io/issues/17)
 - [前端性能优化 - 资源预加载](http://www.open-open.com/lib/view/open1449664526801.html)
@@ -25,6 +23,12 @@
 - [sass揭秘之@mixin，%，@function](https://www.w3cplus.com/preprocessor/sass-mixins-function-placeholder.html)
 - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
 
+## _图片加载_
+
+- [HTML5响应式图片技术中文图解](http://www.zhangxinxu.com/wordpress/2015/11/anatomy-of-responsive-images/)
+- [前端如何实现图片懒加载(lazyload) 提高用户体验](https://zhuanlan.zhihu.com/p/24057749?refer=dreawer)
+- [[译]Medium 是如何优化图片加载的](http://www.jackpu.com/medium-shi-ru-he-zuo-tu-pian-jia-zai-de/)
+- [Color Background Placeholders for Loading Images](https://docs.embed.ly/docs/color-background-placeholders-for-loading-images)
 
 ## _Virtual DOM_
 

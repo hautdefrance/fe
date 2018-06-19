@@ -9,6 +9,7 @@
 ## _CSS_
 
 - [**CSS Arrows and Shapes Without Markup**](https://yuiblog.com/blog/2010/11/22/css-quick-tip-css-arrows-and-shapes-without-markup/)
+- [**Animating List Items**](https://cssanimation.rocks/list-items/)
 
 
 ## _Node.js_
