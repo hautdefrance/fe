@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "release": "/bin/bash deploy.sh"
   },
   "repository": "https://github.com/ulivz/awesome-front-end.git",
   "author": "ulivz <472590061@qq.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^0.10.1"
+    "vuepress": "^0.10.2"
   }
 }
