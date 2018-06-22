@@ -2,6 +2,11 @@
 
 - **Registry** | [Github](https://github.com/nodejs/node) · [Documentation](https://nodejs.org/en/docs/) · [文档](http://nodejs.cn/api/) · [ES2015 Support](http://node.green/)
 
+## NPM
+
+- [npm version](https://docs.npmjs.com/cli/version)
+- [How to use Semantic Versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
+
 ## File System
 
 - **fs-extra** | [Github](https://github.com/jprichardson/node-fs-extra)
