@@ -58,3 +58,7 @@ There is still no consensus about the best way to style React components.
 - **oocss** | [Github](http://oocss.org/)
 - **smacss** | [Github](https://smacss.com/)
 
+## _Animation_
+
+- [Animating List Items](https://cssanimation.rocks/list-items/)
+

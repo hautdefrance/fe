@@ -6,6 +6,7 @@
 
 - [npm version](https://docs.npmjs.com/cli/version)
 - [How to use Semantic Versioning](https://docs.npmjs.com/getting-started/semantic-versioning)
+- [semver](https://docs.npmjs.com/misc/semver)
 
 ## File System
 

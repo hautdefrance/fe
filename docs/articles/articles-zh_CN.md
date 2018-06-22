@@ -67,6 +67,7 @@
 - [使用PM2 Deploy部署基于Git版本管理的网站应用](https://www.toobug.net/article/using_pm2_deploy.html)
 - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
 - [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+- [Nodejs创建HTTPS服务器](http://blog.fens.me/nodejs-https-server/)
 
 
 ### _Event Loop_

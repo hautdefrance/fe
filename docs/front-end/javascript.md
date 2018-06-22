@@ -4,36 +4,7 @@
 
   > All node.js related projects have been migrated to [nodejs](../back-end/nodejs.md), This section deals only JavaScript language itself and client-related projects.
 
-  * [Code Style](#code-style)
-  * [EcmaScript 6](#ecmascript-6)
-  * [RegExp](#regexp)
-  * [Date](#date)
-  * [String](#string)
-  * [Number](#number)
-  * [Storage](#storage)
-  * [I18n And L10n](#i18n-and-l10n)
-  * [Routing](#routing)
-  * [Files](#files)
-  * [Functional Programming](#functional-programming)
-  * [Data Structure](#data-structure)
-  * [Templating Engines](#templating-engines)
-  * [V-DOM](#v-dom)
-  * [Canvas](#canvas)
-  * [UI Frameworks](#ui-frameworks)
-  * [Online JavaScript Debugging](#online-javascript-debugging)
-  * [Documentation](#documentation)
-  * [Machine Learning](#machine-learning)
-  * [Benchmark](#benchmark)
-  * [Code highlighting](#code-highlighting)
-  * [Loading Status](#loading-status)
-  * [Scroll](#scroll)
-  * [Clipboard](#clipboard)
-  * [Sliders](#sliders)
-  * [Lazyload](#lazyload)
-  * [Gestures](#gestures)
-  * [Polyfills](#polyfills)
-  * [Worth Reading](#worth-reading)
-  * [Miscellaneous](#miscellaneous)
+[[TOC]]
 
 
 ## _Code Style_
@@ -235,6 +206,7 @@
 - **vanilla-lazyload** | [Github](https://github.com/verlok/lazyload) | [Demo](http://www.andreaverlicchi.eu/lazyload/#user-content-demos)
 - **jquery_lazyload** | [Github](https://github.com/tuupola/jquery_lazyload) | [Demo](https://appelsiini.net/projects/lazyload/)
 - **loadjs** | [Github](https://github.com/filamentgroup/loadJS)
+- [Lazy Load Enabled With Fadein Effect](https://appelsiini.net/projects/lazyload/v1/fadein/)
 
 ## _Gestures_
 
@@ -258,3 +230,8 @@
 
 - **annyang** | [Github](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
 - **voix.js** | [Github](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+
+
+## _JavaScript Tricks_
+
+- [Create a JavaScript array containing 1…N](https://stackoverflow.com/questions/3746725/create-a-javascript-array-containing-1-n)
