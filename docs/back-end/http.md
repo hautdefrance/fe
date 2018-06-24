@@ -12,3 +12,5 @@
 - [302 Redirect vs. 301 Redirect: Which is Better?](https://www.hochmanconsultants.com/301-vs-302-redirect/)
 
     A **_301_** redirect means that the page has permanently moved to a new location. A **_302_** redirect means that the move is only temporary.
+    
+- [HTTP range requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests)    
