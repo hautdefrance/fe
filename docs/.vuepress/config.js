@@ -21,6 +21,9 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
+  stylus: {
+    import: [path.resolve(__dirname, './style/config.styl')]
+  },
   serviceWorker: true,
   themeConfig: {
     repo: 'ulivz/awesome-front-end',

@@ -18,8 +18,8 @@
     line-height: 50px;
     margin-right: 20px;
     text-align: center;
-    color: white;
-    background-color: #3eaf7c;
+    color: $gray;
+    background-color: white;
     box-shadow: 0 1px 3px rgba(0, 0, 0, .5), 0 1px 0 rgba(255, 255, 255, .1);
     &.inset {
       box-shadow: inset 0 1px 3px rgba(0, 0, 0, .5), 0 1px 0 rgba(255, 255, 255, .1);
