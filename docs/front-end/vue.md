@@ -3,7 +3,7 @@
 [Github](https://github.com/vuejs/vue) | [Documentation](https://vuejs.org/) | [中文文档](https://cn.vuejs.org/)
 
 
-## _Ecosphere_
+## _Ecosystem_
 
 - **vuex** | [Github](https://github.com/vuejs/vuex) · [Documentation](https://vuex.vuejs.org/) · [文档](https://vuex.vuejs.org/zh/)
 - **vuepress** | [Github](https://github.com/vuejs/vuepress) · [Documentation](https://vuepress.vuejs.org/) · [文档](https://vuepress.vuejs.org/zh/)

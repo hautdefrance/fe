@@ -3,7 +3,7 @@
 - **Registry** | [Github](https://github.com/Microsoft/TypeScript) | [Documentation](http://www.typescriptlang.org/) | [文档](https://www.tslang.cn/) | [Playground](http://www.typescriptlang.org/play/index.html)
 
 
-## _Ecosphere_
+## _Ecosystem_
 
 - **TypeSearch** | [Github](https://github.com/Microsoft/TypeSearch) | [Homepage](https://microsoft.github.io/TypeSearch/)
 - **ts-node** | [Github](https://github.com/TypeStrong/ts-node)

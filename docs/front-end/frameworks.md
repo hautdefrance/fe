@@ -6,7 +6,6 @@
 - **jQuery** | [Github](https://github.com/jquery/jquery) | [Documentation](http://api.jquery.com/)
 - **You-Dont-Need-jQuery** | [Github](https://github.com/nefe/You-Dont-Need-jQuery)
 
-
 ## Modern
 
 - **vue** | [Github](https://github.com/vuejs/vue) | [Documentation](https://vuejs.org/) | [文档](https://cn.vuejs.org/index.html) | [_**More**_](./vue.md)

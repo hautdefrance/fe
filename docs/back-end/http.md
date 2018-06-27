@@ -14,3 +14,4 @@
     A **_301_** redirect means that the page has permanently moved to a new location. A **_302_** redirect means that the move is only temporary.
     
 - [HTTP range requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Range_requests)    
+- [浅谈 HTTP/2 Server Push](https://zhuanlan.zhihu.com/p/26757514)

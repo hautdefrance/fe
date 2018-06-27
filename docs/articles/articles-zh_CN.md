@@ -50,13 +50,6 @@
 - [reactjs源码分析-上篇（首次渲染实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_one/)
 - [reactjs源码分析-下篇（更新机制实现原理）](http://purplebamboo.github.io/2015/09/15/reactjs_source_analyze_part_two/)
 
-
-## _PWA_
-
-- [PWA 在饿了么的实践经验](https://zhuanlan.zhihu.com/p/25800461)
-- [改造你的网站，变身 PWA](https://segmentfault.com/a/1190000008880637)
-
-
 ## _Node.js_
 
 - [Node.js 性能调优之内存篇(一)——gcore+llnode](https://zhuanlan.zhihu.com/p/27270056)

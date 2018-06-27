@@ -2,7 +2,7 @@
 
 [Github](https://github.com/facebook/react) | [Documentation](https://reactjs.org/) | [中文文档](https://doc.react-china.org/)
 
-## _Ecosphere_
+## _Ecosystem_
 
 - **react-router** | [Github](https://github.com/ReactTraining/react-router) | [Documentation](https://reacttraining.com/react-router/)
 - **awesome-react** | [Github](https://github.com/enaqx/awesome-react)
