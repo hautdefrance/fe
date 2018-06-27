@@ -1,5 +1,13 @@
 # CSS Overview
 
+## box-shadow
+
+<css-box-shadow/>
+
+- Source Code:
+
+<<< @/docs/.vuepress/components/css/box-shadow.vue
+
 - 多栏布局（column-count、column-gap、column-rule、column-width）
 - @Font-face
 - Word-wrap、Text-overflow
