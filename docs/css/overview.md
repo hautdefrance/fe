@@ -4,9 +4,31 @@
 
 <css-box-shadow/>
 
-- Source Code:
+<details>
+<summary><b>Source Code</b></summary>
 
 <<< @/docs/.vuepress/components/css/box-shadow.vue
+
+</details>
+
+
+## flexbox
+
+<css-flexbox/>
+
+<details>
+<summary><b>Source Code</b></summary>
+
+<<< @/docs/.vuepress/components/css/flexbox.vue
+
+</details>
+
+**See also:**
+
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+
+## TODO list
 
 - 多栏布局（column-count、column-gap、column-rule、column-width）
 - @Font-face

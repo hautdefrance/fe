@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">
+  <div class="css-box-shadow wrapper">
     <div class="box">normal</div>
     <div class="box inset">inset</div>
   </div>
