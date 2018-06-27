@@ -7,6 +7,7 @@
 
 <style lang="stylus" scoped>
   .wrapper {
+    @extend $shadow;
     display: flex;
     .col {
       height: 100px;

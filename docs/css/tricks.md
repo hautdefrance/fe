@@ -131,7 +131,7 @@ ps: `max-/min-`也包括在内。
 ::: tip 
 - 什么是`positioned`元素?
 
-将position设置为static以外的值的元素称为'positioned'元素   
+将position设置为static以外的值的元素称为'positioned'元素
 :::
    
 ## 
