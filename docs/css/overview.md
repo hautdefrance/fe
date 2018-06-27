@@ -5,7 +5,7 @@
 <css-box-shadow/>
 
 <details>
-<summary><b>Source Code</b></summary>
+<summary><b>Source</b></summary>
 
 <<< @/docs/.vuepress/components/css/box-shadow.vue
 
@@ -14,12 +14,25 @@
 
 ## flexbox
 
-<css-flexbox/>
+### 两栏布局
+
+<css-flexbox-two-columns/>
 
 <details>
-<summary><b>Source Code</b></summary>
+<summary><b>Source</b></summary>
 
-<<< @/docs/.vuepress/components/css/flexbox.vue
+<<< @/docs/.vuepress/components/css/flexbox-two-columns.vue
+
+</details>
+
+### N栏布局(Grid布局)
+
+<css-flexbox-grid/>
+
+<details>
+<summary><b>Source</b></summary>
+
+<<< @/docs/.vuepress/components/css/flexbox-grid.vue
 
 </details>
 
