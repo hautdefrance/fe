@@ -1,3 +1,15 @@
+const path = require('path')
+const fs = require('fs')
+
+const sidebars = [
+  { title: 'Front-end', dirname: 'front-end' },
+  { title: 'Node.js', dirname: 'node' },
+  { title: 'Back-end', dirname: 'front-end' },
+  { title: 'Design', dirname: 'design' },
+  { title: 'Languages', dirname: 'languages' },
+  { title: 'Articles', dirname: 'articles' },
+]
+
 module.exports = {
   base: '/awesome-front-end/',
   dest: 'dist',
@@ -15,66 +27,16 @@ module.exports = {
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdated: '上次更新',
-    sidebar: [
-      {
-        title: 'Front-end',
+    sidebar: sidebars.map(({ title, dirname }) => {
+      const dirpath = path.resolve(__dirname, '../' + dirname)
+      return {
+        title,
         collapsable: false,
-        children: [
-          'front-end/javascript',
-          'front-end/css',
-          'front-end/vue',
-          'front-end/react',
-          'front-end/babel',
-          'front-end/compilers',
-          'front-end/data-visualization',
-          'front-end/desktop',
-          'front-end/frameworks',
-          'front-end/mobile',
-          'front-end/reactive-programming',
-          'front-end/state-management',
-          'front-end/markdown',
-          'front-end/static-sites',
-          'front-end/typescript'
-        ]
-      },
-      {
-        title: 'Back-end',
-        collapsable: false,
-        children: [
-          'back-end/nodejs',
-          'back-end/build',
-          'back-end/gulp',
-          'back-end/http',
-          'back-end/security',
-          'back-end/sql',
-          'back-end/webpack'
-        ]
-      },
-      {
-        title: 'Design',
-        collapsable: false,
-        children: [
-          'design/vision',
-        ]
-      },
-      {
-        title: 'Languages',
-        collapsable: false,
-        children: [
-          'languages/cpp',
-          'languages/haskell',
-          'languages/java',
-        ]
-      },
-      {
-        title: 'Articles',
-        collapsable: false,
-        children: [
-          ['articles/articles-en_US', 'English'],
-          ['articles/articles-zh_CN', '中文'],
-          'articles/book'
-        ]
+        children: fs
+          .readdirSync(dirpath)
+          .filter(item => item.endsWith('.md') && fs.statSync(path.join(dirpath, item)).isFile())
+          .map(item => dirname + '/' + item.replace(/.md$/, ''))
       }
-    ]
+    })
   }
 }
