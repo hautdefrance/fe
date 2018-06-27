@@ -2,9 +2,6 @@
 
 ## _JavaScript_
 
-- [**Best Practices for Using Promises in JS**](https://60devs.com/best-practices-for-using-promises-in-js.html)
-- [**Promise Anti-patterns**](http://taoofcode.net/promise-anti-patterns/)
-- [**async vs defer attributes**](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 ## _CSS_
 

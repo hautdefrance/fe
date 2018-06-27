@@ -1,39 +1,39 @@
-# CSS 文字
+# Styling text
 
-## 概览
+## Overview
 
-- 基础
-  - font-size, 单位：px、em、rem
+- Fundamental text and font styling
+  - font-size, unit：`px`、`em`、`rem`
   - font-style：`normal`/`italic`/ `oblique`
   - font-weight: `normal`/ `lighter` / `bolder` / `100-900`
   - text-transform: `none` / `uppercase` / `lowercase` / `capitalize` / `full-width`
   - text-decoration: `none` / `underline` / `overline` / `line-through`
   - text-shadow
   - text-align：`left` / `right` / `center` / `justify`
-  - line-height (内容太多，待补充！)
+  - line-height ⚠️
   - letter-spacing
   - word-spacing
   - text-indent
   - text-overflow
-  - white-space：如何处理元素内部的空格和换行符
-  - word-break：指定是否在单词中换行
-  - 全部请参见[这里](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
-- 列表
+  - white-space：Define how whitespace and associated line breaks inside the element are handled.
+  - word-break：Specify whether to break lines within words.
+  - All see [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- Styling lists
   - list-style
-- 链接
+- Styling links
   - :link
   - :visited
   - :hover
   - :focus
   - :focus
   - :active
-- 字体
+- Web fonts
   - font-family
   - @font-face
 
-## 案例
+## Example
 
-### 如何自定义字体？
+### How to customize font face？
 
 ```css
 @font-face {

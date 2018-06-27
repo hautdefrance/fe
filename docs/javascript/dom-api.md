@@ -1,4 +1,4 @@
-# _DOM_
+# DOM API
 
 ## Element
 

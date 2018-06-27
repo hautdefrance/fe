@@ -2,9 +2,10 @@ const path = require('path')
 const fs = require('fs')
 
 const sidebars = [
-  { title: 'Front-end', dirname: 'front-end' },
+  { title: 'JavaScript', dirname: 'javascript' },
+  { title: 'CSS', dirname: 'css' },
   { title: 'Node.js', dirname: 'node' },
-  { title: 'Back-end', dirname: 'front-end' },
+  { title: 'Back-end', dirname: 'back-end' },
   { title: 'Design', dirname: 'design' },
   { title: 'Languages', dirname: 'languages' },
   { title: 'Articles', dirname: 'articles' },

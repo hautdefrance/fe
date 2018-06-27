@@ -1,12 +1,6 @@
-# _CSS_
+# CSS Trending
 
-## _Knowledge Hierarchy_
-
-- [**Selectors（选择器）**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors) | [手记](./css/selectors.md)
-- [**Styling Text（文本）**](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text) | [手记](./css/styling-text.md)
-- [**Styling Boxes**](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
-- [**Layout**](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-
+> Where collects the awesome CSS libraries.
 
 ## _Preprocessor_
 

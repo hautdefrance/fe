@@ -52,4 +52,4 @@ module.exports = {
 
 ## _Worth Reading_
 
-- [Hot Module Replacement(https://webpack.js.org/guides/hot-module-replacement/)
+See: [JavaScript Articles > Webpack](./articles.md#webpack)
