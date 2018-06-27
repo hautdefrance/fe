@@ -1,18 +1,6 @@
 # CSS Showcase
 
-## box-shadow
-
-<css-box-shadow/>
-
-<details>
-<summary><b>Source</b></summary>
-
-<<< @/docs/.vuepress/components/css/box-shadow.vue
-
-</details>
-
-
-## flexbox
+## Flexbox
 
 ### 两栏布局
 
@@ -52,6 +40,18 @@
 
 - [Holy Grail Layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+
+## box-shadow
+
+<css-box-shadow/>
+
+<details>
+<summary><b>Source</b></summary>
+
+<<< @/docs/.vuepress/components/css/box-shadow.vue
+
+</details>
+
 
 ## TODO list
 

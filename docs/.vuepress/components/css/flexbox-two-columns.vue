@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">
+  <div class="wrapper card">
     <div class="two-columns-sidebar col">Sidebar</div>
     <div class="two-columns-content col">Content</div>
   </div>
