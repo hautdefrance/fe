@@ -14,7 +14,7 @@ const sidebars = [
 module.exports = {
   base: '/awesome-front-end/',
   dest: 'dist',
-  title: 'Awesome Front-end',
+  title: 'Just Front-end',
   description: 'A continuous updating list that a awesome FED is most likely to "fetch".',
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
