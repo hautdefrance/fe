@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center-vertical-2">
+  <div class="text-center-vertical-2 wrapper">
     <div class="item item1 card">
       <span>Lorem ipsum (方案1)</span>
     </div>
@@ -11,7 +11,7 @@
 
 <style lang="stylus" scoped>
   .text-center-vertical-2 {
-    height: 100px;
+    height: 100px; // 动态高度
     display: flex;
     .item {
       @extend $shadow;
