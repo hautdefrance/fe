@@ -2,7 +2,10 @@
 
 ## vertical-align
 
-- [vertical-align属性测试实验面板](https://www.zhangxinxu.com/study/201005/verticle-align-test-demo.html)
+**See also:**
+
+- [张鑫旭 > CSS深入理解vertical-align和line-height的基友关系](https://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
+- [张鑫旭 > vertical-align属性测试实验面板](https://www.zhangxinxu.com/study/201005/verticle-align-test-demo.html)
 
 ## 清除浮动
 
