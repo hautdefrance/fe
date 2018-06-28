@@ -7,7 +7,7 @@
 <style lang="stylus" scoped>
   .text-center-horizontal {
     @extend $shadow;
-    height 50px
+    height: 50px;
     text-align: center;
   }
 </style>
