@@ -10,7 +10,7 @@
 
 <<< @/docs/.vuepress/components/css-center/text-horizontal.vue
 
-### 文字的垂直居中（父元素定高）
+### 文字的水平垂直居中（父元素定高）
 
 - **方案1**：确保父元素的 `line-height` 等于其 `height`。
 - **方案1评估**：
@@ -29,17 +29,26 @@
 
 <<< @/docs/.vuepress/components/css-center/text-vertical-1.vue
 
-### 文字的垂直居中（父元素不定高）
+### 文字的水平垂直居中（父元素不定高）
+
+- **方案1**：使用 `display: table` (对父元素) 和 `display: table-cell` (对子元素)。
+- **方案1评估**：
+  - 优点：兼容性好
+  - 缺点：
+
+- **方案2**：使用 `flexbox`，结合 `justify-content: center` 和 `align-items: center`。
+- **方案2评估**：
+  - 优点：代码量少，在移动端设备和非IE浏览器上表现良好。
+  - 缺点：兼容性一般，IE10/IE11 仅部分支持，且存在部分bug！。
 
 <css-center-text-vertical-2/>
 
 <<< @/docs/.vuepress/components/css-center/text-vertical-2.vue
 
-### 文字的水平垂直居中（单行文字）
+## 图片的居中
 
-### 文字的水平垂直居中（多行文字）
+图片实际上，属于 inline-block。
 
-### 文字的水平居中
 
 ## 块的居中
 

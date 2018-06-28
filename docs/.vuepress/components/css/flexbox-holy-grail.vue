@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper card">
+  <div class="wrapper shadow-card">
     <header class="hg-header"> Header </header>
     <div class="hg-container">
       <main class="hg-content">Content</main>

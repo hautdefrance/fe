@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center-horizontal card">
+  <div class="text-center-horizontal shadow-card">
     Lorem ipsum dolor sit amet.
   </div>
 </template>
