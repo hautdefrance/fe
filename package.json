@@ -12,6 +12,7 @@
   "author": "ulivz <472590061@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "vue-foldable": "^0.2.1",
     "vuepress": "^0.10.2"
   }
 }
