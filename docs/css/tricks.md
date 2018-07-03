@@ -145,3 +145,57 @@ ps: `max-/min-`也包括在内。
 将position设置为static以外的值的元素称为'positioned'元素
 :::
 
+## 多边框
+
+### 方案1
+
+- 嵌套 box，最直观。
+
+<css-tricks-multiple-border-1/>
+
+<foldable>
+
+  <<< @/docs/.vuepress/components/css-tricks/multiple-border-1.vue
+  
+</foldable>
+
+### 方案2
+
+- 唯一 box，使用 伪元素。
+
+<css-tricks-multiple-border-2/>
+
+<foldable>
+
+  <<< @/docs/.vuepress/components/css-tricks/multiple-border-2.vue
+  
+</foldable>
+
+### 方案3
+
+- 唯一 box，使用 outline。
+
+<css-tricks-multiple-border-3/>
+
+<foldable>
+
+  <<< @/docs/.vuepress/components/css-tricks/multiple-border-3.vue
+  
+</foldable>
+
+### 方案4
+
+- 唯一 box，使用 box-shadow。
+
+``` css
+/* offset-x | offset-y | blur-radius | spread-radius | color */
+box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+```
+
+<css-tricks-multiple-border-4/>
+
+<foldable>
+
+  <<< @/docs/.vuepress/components/css-tricks/multiple-border-4.vue
+  
+</foldable>
