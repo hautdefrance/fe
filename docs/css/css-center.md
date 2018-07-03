@@ -10,13 +10,21 @@
 
 <css-center-text-horizontal/>
 
+<foldable>
+
 <<< @/docs/.vuepress/components/css-center/text-horizontal.vue
+
+</foldable>
 
 ### 文字的水平垂直居中（父元素定高）
 
 <css-center-text-vertical-1/>
 
+<foldable>
+
 <<< @/docs/.vuepress/components/css-center/text-vertical-1.vue
+
+</foldable>
 
 - **方案1**：确保父元素的 `line-height` 等于其 `height`。
 - **评估**：
