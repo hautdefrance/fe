@@ -1,11 +1,18 @@
-# CSS 兼容性
+# CSS 积累
 
-1. min-height for table not working in firefox.
+## 兼容性
+
+1. `table` 上的 `min-height` 在 firefox 上不生效。
 
 [参考](https://stackoverflow.com/questions/19521442/min-height-for-a-table-in-firefox-not-working)
 
-2. 不建议使用text-indent!
+2. 慎用：`position: fixed`，因为它会导致在移动端浏览器中一定会显示地址栏。
 
-因为在移动端效果显示很差，建议使用padding。
+## 实践
 
-3. 在input中不要使用line-height，设置高度和字体大小即可，input会自动帮你垂直居中！
+1. 不建议使用 `text-indent`!
+
+因为在移动端效果显示很差，建议使用 `padding-left`。
+
+2. 在 input 中不要使用 line-height，设置高度和字体大小即可，input 会自动帮你垂直居中！
+

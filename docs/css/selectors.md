@@ -1,6 +1,6 @@
 # CSS 选择器
 
-## Overview
+## 概览
 
 - ID选择器：`#id`
 - 类选择器：`.class`
@@ -32,9 +32,9 @@
   - `::selection`
   - 全部请参见[这里](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-## Example
+## 示例
 
-### Effective conditions of `nth-child(n)`
+### `nth-child(n)` 的生效条件
 
 ```css
 p:nth-child(2){ ... }
