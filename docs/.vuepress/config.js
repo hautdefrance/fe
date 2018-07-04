@@ -31,16 +31,30 @@ module.exports = {
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdated: '上次更新',
-    sidebar: sidebars.map(({ title, dirname }) => {
-      const dirpath = path.resolve(__dirname, '../' + dirname)
-      return {
-        title,
-        collapsable: false,
-        children: fs
-          .readdirSync(dirpath)
-          .filter(item => item.endsWith('.md') && fs.statSync(path.join(dirpath, item)).isFile())
-          .map(item => dirname + '/' + item.replace(/.md$/, ''))
-      }
-    })
+    sidebar: inferSiderbars()
   }
+}
+
+/**
+ * If you want to create a docs that automatically lists all files in all subdirectories,
+ * This method will help you complete this task.
+ *
+ * If you do not prefer this preset, just remove it and configure it according to the
+ * docs: https://vuepress.vuejs.org/default-theme-config/#sidebar
+ *
+ * @returns {Array}
+ */
+function inferSiderbars () {
+  return sidebars.map(({ title, dirname }) => {
+    const dirpath = path.resolve(__dirname, '../' + dirname)
+    return {
+      title,
+      collapsable: false,
+      children: fs
+        .readdirSync(dirpath)
+        .filter(item => item.endsWith('.md') && fs.statSync(path.join(dirpath, item)).isFile())
+        .sort((prev, next) => prev.indexOf('README.md') <= next.indexOf('README.md'))
+        .map(item => dirname + '/' + item.replace(/(README)?(.md)$/, ''))
+    }
+  })
 }
