@@ -6,11 +6,14 @@
     <div class="solution-1 shadow-card">
       <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
     </div>
+    <div class="solution-1 shadow-card">
+      <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
+    </div>
     <div class="divide">方案1 - 使用 table-cell 实现</div>
     <div class="solution-2">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=40&v=4" alt="">
+      <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
       <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=200&v=4" alt="">
+      <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
     </div>
   </div>
 </template>
@@ -29,7 +32,7 @@
 
   .solution-1 {
     width: 200px;
-    height: 150px;
+    height: 200px;
     display: table-cell;
     vertical-align: middle;
     margin-right: 20px; // 请注意这个 margin 对 table-cell 是不生效的！

@@ -42,7 +42,12 @@
 
 <css-center-text-vertical-2/>
 
+<foldable>
+
 <<< @/docs/.vuepress/components/css-center/text-vertical-2.vue
+
+</foldable>
+
 
 - **方案1**：使用 `display: table` (对父元素) 和 `display: table-cell` (对子元素)。
 - **评估**：
@@ -95,8 +100,6 @@ TODO
 > HTML 中 img 元素的内容经常被它的 src 属性指定的图像取代。替换的元素通常具有固有的尺寸、固有宽度、固有高度和固有比率。
 
 在这种背景下，img 的行为实际上是和 `display: inline-block` 一致的。
-
-
 
 <css-center-img/>
 
