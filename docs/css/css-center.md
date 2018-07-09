@@ -99,7 +99,9 @@ TODO
 
 > HTML 中 img 元素的内容经常被它的 src 属性指定的图像取代。替换的元素通常具有固有的尺寸、固有宽度、固有高度和固有比率。
 
-在这种背景下，img 的行为实际上是和 `display: inline-block` 一致的。
+在这种背景下，我们可以认为，img 的行为和 `display: inline-block` 的行为基本一致。
+
+### 图片的垂直居中
 
 <css-center-img/>
 

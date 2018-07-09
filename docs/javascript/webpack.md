@@ -9,7 +9,10 @@
 
 ## _Loader_
 
-[webpack-contrib](https://github.com/webpack-contrib)
+### 资源列表
+
+- 官方 loader：[webpack-contrib](https://github.com/webpack-contrib)
+- [Writing a Loader](https://webpack.js.org/contribute/writing-a-loader/)
 
 ```js
 module.exports = {

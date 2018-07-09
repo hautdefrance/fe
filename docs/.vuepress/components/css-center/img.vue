@@ -1,47 +1,79 @@
 <template>
   <div class="css-center-img">
-    <div class="solution-1 shadow-card">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
+
+    <h4><p class="solution-title">方案1 - 使用 table-cell 实现</p></h4>
+
+    <div class="table-cell-solution">
+      <div class="img-wrap">
+        <div class="table-cell-wrap shadow-card">
+          <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
+        </div>
+      </div>
+
+      <div class="img-wrap">
+        <div class="table-cell-wrap shadow-card">
+          <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
+        </div>
+      </div>
+
+      <div class="img-wrap">
+        <div class="table-cell-wrap shadow-card">
+          <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
+        </div>
+      </div>
     </div>
-    <div class="solution-1 shadow-card">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
-    </div>
-    <div class="solution-1 shadow-card">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
-    </div>
-    <div class="divide">方案1 - 使用 table-cell 实现</div>
-    <div class="solution-2">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
-      <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
+
+    <h4><p class="solution-title">方案2 - 使用 flexbox 实现</p></h4>
+
+    <div class="flexbox-solution">
+      <div class="img-wrap">
+        <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
+      </div>
+      <div class="img-wrap">
+        <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
+      </div>
+      <div class="img-wrap">
+        <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
+      </div>
     </div>
   </div>
 </template>
 
 <style lang="stylus" scoped>
-  .css-center-img {
-    text-align: center;
-  }
 
-  .divide {
-    text-align: center;
-    height: 50px;
-    line-height: 50px;
-    color: $gray;
-  }
-
-  .solution-1 {
-    width: 200px;
-    height: 200px;
-    display: table-cell;
-    vertical-align: middle;
-    margin-right: 20px; // 请注意这个 margin 对 table-cell 是不生效的！
-    img {
-      vertical-align: middle;
+  .table-cell-solution {
+    display: flex;
+    @media (max-width: 719px) {
+      flex-direction: column;
+      align-items: center;
+    }
+    .img-wrap {
+      flex: 1;
+      width: 200px;
+      margin-bottom: 20px;
+      .table-cell-wrap {
+        height: 200px; // 百分比宽高对 table-cell 不生效!
+        width: 200px;
+        display: table-cell; // 关键
+        vertical-align: middle; // 关键
+        text-align: center; // 关键
+        img {
+          vertical-align: middle; // 关键
+        }
+      }
     }
   }
 
-  .solution-2 {
+  .solution-title {
+    text-align: center;
+  }
 
+  .flexbox-solution {
+    display: flex;
+    .img-wrap {
+      flex: 1;
+      width: 200px;
+      height: 200px;
+    }
   }
 </style>
