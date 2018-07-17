@@ -1,5 +1,5 @@
 <template>
-  <div class="css-flexbox wrapper">
+  <div class="css-flexbox-grid">
     <div v-for="(item, i) in list" :key="i" class="row">
       <div v-for="(subitem, j) in item" :key="j" class="item"></div>
     </div>
@@ -22,7 +22,7 @@
 <style lang="stylus" scoped>
   $gutter = 5px
 
-  .css-flexbox {
+  .css-flexbox-grid {
     padding: $gutter;
     background-color: #eee;
   }

@@ -1,12 +1,12 @@
 <template>
-  <div class="css-box-shadow wrapper">
+  <div class="css-box-shadow">
     <div class="box">normal</div>
     <div class="box inset">inset</div>
   </div>
 </template>
 
 <style lang="stylus" scoped>
-  .wrapper {
+  .css-box-shadow {
     padding 8px
     display: flex;
     justify-content: center;

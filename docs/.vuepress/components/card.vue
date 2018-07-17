@@ -3,7 +3,7 @@
        :class="{
           'shadow': shadow,
           'no-padding': noPadding,
-          'flex': flex,
+          'flex': flex
        }">
     <slot></slot>
   </div>

@@ -1,14 +1,14 @@
 <template>
-  <div class="wrapper shadow-card">
+  <div class="flexbox-two-columns">
     <div class="two-columns-sidebar col">Sidebar</div>
     <div class="two-columns-content col">Content</div>
   </div>
 </template>
 
 <style lang="stylus" scoped>
-  .wrapper {
-    @extend $shadow;
+  .flexbox-two-columns {
     display: flex;
+    width: 100%;
     .col {
       height: 100px;
       line-height: 100px;

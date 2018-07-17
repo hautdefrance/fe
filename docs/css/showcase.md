@@ -4,7 +4,7 @@
 
 ### 两栏布局
 
-<css-flexbox-two-columns/>
+<css-flexbox-two-columns class="shadow-card wrapper"/>
 
 <details>
 <summary><b>Source</b></summary>
@@ -15,7 +15,7 @@
 
 ### N栏布局(Grid布局)
 
-<css-flexbox-grid/>
+<css-flexbox-grid class="wrapper"/>
 
 <details>
 <summary><b>Source</b></summary>
@@ -27,7 +27,7 @@
 
 ### 圣杯布局(Holy Grail Layout)
 
-<css-flexbox-holy-grail/>
+<css-flexbox-holy-grail class="wrapper shadow-card"/>
 
 <details>
 <summary><b>Source</b></summary>
@@ -43,7 +43,7 @@
 
 ## box-shadow
 
-<css-box-shadow/>
+<css-box-shadow class="wrapper"/>
 
 <details>
 <summary><b>Source</b></summary>
