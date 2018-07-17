@@ -2,7 +2,7 @@
 
 ## Checkbox
 
-<card flex>
+<card flex-center>
   <css-animation-checkbox/>
 </card>
 

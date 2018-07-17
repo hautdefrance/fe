@@ -3,7 +3,7 @@
        :class="{
           'shadow': shadow,
           'no-padding': noPadding,
-          'flex': flex
+          'flex-center': flexCenter
        }">
     <slot></slot>
   </div>
@@ -20,7 +20,7 @@
         type: Boolean,
         default: false
       },
-      flex: {
+      flexCenter: {
         type: Boolean,
         default: false
       }
@@ -31,19 +31,21 @@
 <style lang="stylus" scoped>
   .card {
     margin: 15px 0;
-    padding: 10px;
-    &.flex {
+    &.flex-center {
       display: flex;
       align-items: center;
       justify-content: center;
+      & > *:first-child {
+        margin-right: 20px;
+      }
     }
     &.shadow {
       border: 1px solid #f9f9f9;
       border-radius: 6px;
       box-shadow: -1px 1px 1px 0 rgba(0, 0, 0, .05), 0 10px 20px 0 rgba(0, 0, 0, .15);
     }
-    &.no-padding {
-      padding: 0px;
+    &.padding {
+      padding: 10px;
     }
   }
 </style>

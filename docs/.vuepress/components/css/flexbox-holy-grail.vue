@@ -11,7 +11,7 @@
 </template>
 
 <style lang="stylus" scoped>
-  .wrapper {
+  .flexbox-holy-grail {
     display: flex;
     flex-direction: column;
     @extend $shadow;
@@ -39,7 +39,6 @@
         background-color $green;
         height: 100px;
       }
-
       .hg-nav {
         order: -1;
       }
