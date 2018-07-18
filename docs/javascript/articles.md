@@ -5,6 +5,7 @@
 - [Best Practices for Using Promises in JS](https://60devs.com/best-practices-for-using-promises-in-js.html)
 - [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/)
 - [async vs defer attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
+- [浅谈 Underscore.js 中 _.throttle 和 _.debounce 的差异](https://blog.coding.net/blog/the-difference-between-throttle-and-debounce-in-underscorejs)
 
 ## Cache & Performance Optimization
 

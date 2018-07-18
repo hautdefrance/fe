@@ -30,7 +30,7 @@
 
 <style lang="stylus" scoped>
   .card {
-    margin: 15px 0;
+    margin: 20px 0;
     &.flex-center {
       display: flex;
       align-items: center;

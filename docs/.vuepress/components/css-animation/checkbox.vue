@@ -20,8 +20,6 @@
 </script>
 
 <style lang="stylus" scoped>
-  @import '~vuepress/lib/default-theme/styles/config.styl'
-
   //~ Common style for postad feature START ~//
   @keyframes checkbox-scaleout {
     0% {
@@ -42,7 +40,7 @@
     height: 40px;
     line-height: 40px;
     border-radius: 2px;
-    border: solid 2px $accentColor;
+    border: solid 2px $green;
     font-size: 18px;
     text-align: center;
     cursor: pointer;
