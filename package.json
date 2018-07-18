@@ -1,18 +1,17 @@
 {
-  "name": "awesome-front-end",
+  "name": "fe",
   "description": "A continuous updating list that a awesome FED is most likely to \"fetch\"",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "release": "/bin/bash deploy.sh"
+    "build": "vuepress build docs"
   },
   "repository": "https://github.com/ulivz/awesome-front-end.git",
   "author": "ulivz <472590061@qq.com>",
   "license": "MIT",
   "devDependencies": {
     "vue-foldable": "^0.2.1",
-    "vuepress": "^0.10.2"
+    "vuepress": "^0.12.0"
   }
 }

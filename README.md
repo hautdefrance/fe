@@ -1,8 +1,8 @@
-# _Just Front-end_
+# _fe_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ulivz/awesome-front-end)
+"I AM A FRONT-END DEVELOPER."
 
-_**A continuous updating list that a awesome FED is most likely to "fetch". 🍻**_
+WIP.
 
 # _License_
 
