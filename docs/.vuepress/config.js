@@ -12,7 +12,7 @@ const sidebars = [
 ]
 
 module.exports = {
-  base: '/awesome-front-end/',
+  base: '/',
   dest: 'dist',
   title: 'Just Front-end',
   description: 'A continuous updating list that a awesome FED is most likely to "fetch".',
