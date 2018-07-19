@@ -12,5 +12,7 @@
   <css-animation-tabs/>
   <br>
   <css-animation-tabs radius/>
+  <br>
+  <css-animation-tabs :active-index="1"/>
 </card>
 
