@@ -1,5 +1,8 @@
 <template>
   <ul class='animation-tabs'
+      :class="{
+        'radius': radius
+      }"
       :active-index="activeIndex >= 0 ? activeIndex : null">
     <li class='active-bg'></li>
     <li v-for="(item, index) in items"
@@ -18,11 +21,14 @@
       items: {
         type: Array,
         default: () => (['Vue.js', 'Vue-Router', 'VueX', 'Vue-CLI']),
-      }
-    },
-    data() {
-      return {
-        activeIndex: -1
+      },
+      activeIndex: {
+        type: Number,
+        default: -1
+      },
+      radius: {
+        type: Boolean,
+        default: false
       }
     },
     methods: {
@@ -43,12 +49,14 @@
     position: relative;
     margin: 0 auto;
     box-sizing: border-box;
-    border-radius: 25px;
     border: solid 2px $green;
     max-width: $width;
     list-style: none;
     padding: 0px;
     overflow: hidden;
+    &.radius {
+      border-radius: 25px;
+    }
 
     .tab-item, .active-bg {
       width: 25%;
@@ -64,12 +72,15 @@
       float: left;
       color: $text-light;
       transition: color ease .3s, background-color ease-out .2s;
-      &.active {
-        color: white;
+      border-right: solid 2px $green;
+      &:last-child {
         border-right: none;
       }
+      &.active {
+        color: white;
+      }
       &:not(.active):hover {
-        background-color: #f2f2f2;
+        background-color: $hover-light;
       }
     }
 
@@ -77,16 +88,6 @@
       position: absolute;
       transition: transform ease-out .3s, background-color ease-out .2s;
       background-color: #fff;
-      &::before {
-        bottom: -28px;
-        left: calc(50% - 10px);
-      }
-      &::after {
-        right: -2px;
-        height: 100%;
-        width: 2px;
-        background-color: $green;
-      }
     }
 
     &[active-index] > .active-bg {

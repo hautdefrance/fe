@@ -10,5 +10,7 @@
 
 <card>
   <css-animation-tabs/>
+  <br>
+  <css-animation-tabs radius/>
 </card>
 
