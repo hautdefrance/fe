@@ -6,5 +6,9 @@
   <css-animation-checkbox/>
 </card>
 
+## Tabs
 
+<card>
+  <css-animation-tabs/>
+</card>
 

@@ -5,7 +5,7 @@
       <path fill="white"
             d="M869.66 102.485l-503.318 501.329-200.543-210.069-85.339 85.338 285.882 295.409 588.657-586.667-85.34-85.339z"></path>
     </svg>
-    <span class='checkbox-text'>Add</span>
+    <span class='checkbox-text'>OK</span>
   </div>
 </template>
 
