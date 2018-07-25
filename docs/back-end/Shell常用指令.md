@@ -15,7 +15,8 @@
 
 - **_du_**: 读取目录下的目录大小
   - **du -h \[filename\]**：读取文件大小
-  - **du -a**：读取目录下的文件和目录的大小，
+  - **du -a**：读取目录下的文件和目录的大小
+  - **du -h -d 1**：以容易阅读的形式显示当前目录下一级目录的size大小
 
 - **_grep_**：你懂的~
 
@@ -55,7 +56,7 @@ docker ps
 docker exec -it docker_name /bin/bash
 ```
 
-## _Performance Test_
+## 性能测试
   
 ### Vegeta
   
@@ -68,7 +69,7 @@ curl -k -v https://www.gumtree.co.za.localhost:7443/ > unzip2.html
 wget https://www.gumtree.co.za.localhost:7443/ -o unzip.html
 ```
 
-## ab 
+### ab 
 
 ```shell
 ab -n 100 -c 10
@@ -112,6 +113,27 @@ ls -l | grep "^-" | wc -l
 
 ``` sh 
 ls -l | grep "^d" | wc -l
+```
+
+### tree
+
+- 方案一
+
+```bash
+find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
+```
+
+或者定义别名
+
+```bash
+alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+```
+
+- 方案二
+
+使用 `homebrew` 安装 tree：
+```
+brew install tree
 ```
 
 
