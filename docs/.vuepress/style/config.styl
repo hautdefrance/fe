@@ -1,4 +1,5 @@
 @import '~@default-theme/styles/config.styl'
+@import './mixin.styl'
 
 $green = #3eaf7c
 $gray = #2c3e50
@@ -7,27 +8,13 @@ $yellow = darken(#ffe564, 35%)
 $orange = #e96900
 $light = #f1f1f1
 
+$text-light = #757575
+
+$hover-light = #f2f2f2
+
 $shadow
   box-shadow: -1px 1px 1px 0 rgba(0, 0, 0, .05), 0 10px 20px 0 rgba(0, 0, 0, .15);
 
-details:foucs {
-  outline: none
-}
-
-.wrapper {
-  margin: 25px auto;
-}
-
-.card {
-  @extend $shadow;
-  border: 1px solid #f9f9f9;
-  border-radius: 6px;
-}
-
-.shadow-card {
-  @extend .wrapper;
-  @extend .card;
-}
 
 
 
