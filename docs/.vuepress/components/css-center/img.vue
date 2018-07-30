@@ -52,6 +52,7 @@
       width: 200px;
       margin-bottom: 20px;
       .table-cell-wrap {
+        background-color: $green;
         height: 200px; // 百分比宽高对 table-cell 不生效!
         width: 200px;
         display: table-cell; // 关键
@@ -71,9 +72,14 @@
   .flexbox-solution {
     display: flex;
     .img-wrap {
+      background-color: $green;
       flex: 1;
+      margin-right: 45px;
       width: 200px;
       height: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   }
 </style>

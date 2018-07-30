@@ -15,5 +15,3 @@
   <br>
   <css-animation-tabs :active-index="1"/>
 </card>
-
-
