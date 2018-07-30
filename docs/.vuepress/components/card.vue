@@ -1,10 +1,13 @@
 <template>
-  <div class="card"
-       :class="{
+  <div
+    class="card"
+    :class="{
           'shadow': shadow,
           'no-padding': noPadding,
-          'flex-center': flexCenter
-       }">
+          'flex-center': flexCenter,
+          'bg': bg
+       }"
+  >
     <slot></slot>
   </div>
 </template>
@@ -21,6 +24,10 @@
         default: false
       },
       flexCenter: {
+        type: Boolean,
+        default: false
+      },
+      bg: {
         type: Boolean,
         default: false
       }
@@ -46,6 +53,9 @@
     }
     &.padding {
       padding: 10px;
+    }
+    &.bg {
+      background-color: #f1f1f1;
     }
   }
 </style>

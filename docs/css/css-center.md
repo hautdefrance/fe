@@ -109,7 +109,25 @@ TODO
 
 ### 块的水平居中
 
+#### 方案1: 采用 `margin: auto`
+
+<card bg>
+  <css-center-block-horizontal-1/>
+</card>
+
+#### 方案2: 采用 `inline-block`
+
+<card bg>
+  <css-center-block-horizontal-2/>
+</card>
+
 ### 块的垂直居中（父元素定高）
+
+#### 方案1: 采用 `line-height` + `vertical-align`
+
+<card bg>
+  <css-center-block-vertical-1/>
+</card>
 
 ### 块的垂直居中（父元素不定高）
 
