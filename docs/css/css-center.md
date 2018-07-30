@@ -10,7 +10,7 @@
 
 <css-center-text-horizontal/>
 
-<foldable>
+<foldable no-mask>
 
 <<< @/docs/.vuepress/components/css-center/text-horizontal.vue
 
@@ -20,7 +20,7 @@
 
 <css-center-text-vertical-1/>
 
-<foldable>
+<foldable no-mask>
 
 <<< @/docs/.vuepress/components/css-center/text-vertical-1.vue
 
@@ -42,7 +42,7 @@
 
 <css-center-text-vertical-2/>
 
-<foldable>
+<foldable no-mask>
 
 <<< @/docs/.vuepress/components/css-center/text-vertical-2.vue
 
@@ -81,9 +81,11 @@
   - 优点：代码量少，在移动端设备和非IE浏览器上表现良好。
   - 缺点：兼容性一般，IE10/IE11 仅部分支持，且存在部分[bug](https://caniuse.com/#search=flexbox)！
 
-### 多行文字的水平垂直居中
+### 多行文字的水平垂直居中 (父元素定高)
 
-TODO
+### 多行文字的水平垂直居中 (父元素不定高)
+
+
 
 ## 图片的居中
 
@@ -131,6 +133,12 @@ TODO
 
 ### 块的垂直居中（父元素不定高）
 
+TODO
+
 ### 块的水平垂直居中（父元素定高）
 
+TODO
+
 ### 块的水平垂直居中（父元素不定高）
+
+TODO
