@@ -31,7 +31,13 @@ module.exports = {
     docsDir: 'docs',
     editLinkText: '在 GitHub 上编辑此页',
     lastUpdated: '上次更新',
-    sidebar: inferSiderbars()
+    sidebar: inferSiderbars(),
+    serviceWorker: {
+      updatePopup: {
+         message: "发现新内容可用",
+         buttonText: "刷新"
+      }
+    }
   }
 }
 
