@@ -8,7 +8,7 @@ const sidebars = [
   { title: 'Back-end', dirname: 'back-end' },
   { title: 'Design', dirname: 'design' },
   { title: 'Languages', dirname: 'languages' },
-  { title: 'Articles', dirname: 'articles' },
+  { title: 'Articles', dirname: 'articles' }
 ]
 
 module.exports = {
