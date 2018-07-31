@@ -5727,9 +5727,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-foldable@^0.4.2:
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/vue-foldable/-/vue-foldable-0.4.2.tgz#09400faef332539f6654819cc35b7d2098fc991b"
+vue-foldable@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/vue-foldable/-/vue-foldable-0.5.0.tgz#c56aa937da7fee259ee721dce842dfa4f67d8582"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.0"
