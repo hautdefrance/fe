@@ -135,9 +135,9 @@
 
 </foldable>
 
-### 块的垂直居中（父元素定高）
+### 块的垂直居中（父元素定高和子元素均定高）
 
-#### 方案1: 采用 `line-height` + `vertical-align`
+> 方案：通过设置父元素的 padding 来实现。
 
 <card bg>
   <css-center-block-vertical-1/>
@@ -149,6 +149,32 @@
 
 </foldable>
 
+### 块的垂直居中（父元素不定高，子元素定高）
+
+> 方案：最暴力的居中解决方式, `postion: absolute`, 结合 `margin: auto`。
+
+``` css
+.absolute-center-box {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+}
+```
+
+<card bg>
+  <css-center-block-vertical-2/>
+</card>
+
+<foldable no-mask>
+
+<<< @/docs/.vuepress/components/css-center/block-vertical-2.vue
+
+</foldable>
+
+
 ### 块的垂直居中（父元素不定高）
 
 #### 方案1: 采用 `line-height` + `vertical-align`
@@ -156,10 +182,10 @@
 
 TODO
 
-### 块的水平垂直居中（父元素定高）
+### 块的水平垂直居中 - 父元素定高
 
 TODO
 
-### 块的水平垂直居中（父元素不定高）
+### 块的水平垂直居中 - 父元素不定高
 
 TODO
