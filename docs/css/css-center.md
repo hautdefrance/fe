@@ -1,14 +1,16 @@
 # CSS 居中
 
-[[TOC]]
+<!-- [[TOC]] -->
 
 ## 文字的居中
 
 ### 文字的水平居中
 
-- **方案**: text-align: center;
+> **方案**: `text-align: center`。
 
-<css-center-text-horizontal/>
+<card shadow>
+  <css-center-text-horizontal/>
+</card>
 
 <foldable no-mask>
 
@@ -18,7 +20,17 @@
 
 ### 文字的水平垂直居中（父元素定高）
 
-<css-center-text-vertical-1/>
+> **方案1**: 确保父元素的 `line-height` 等于其 `height`，并结合 `text-align: center`。
+
+  - 优点：简单。
+  - 缺点：
+     1. 父元素必须定高。由于百分比的 `line-height` 是相对于元素自身的字体大小，因为当 `height` 设置为百分比时，无法实现 `line-height` 等于 `height`；
+     2. 只能是单行文字，一旦换行，将会非常难看；
+
+<card shadow>
+  <css-center-text-vertical-1/>
+</card>
+
 
 <foldable no-mask>
 
@@ -26,17 +38,20 @@
 
 </foldable>
 
-- **方案1**：确保父元素的 `line-height` 等于其 `height`。
-- **评估**：
-  - 优点：简单。
-  - 缺点：
-     1. 父元素必须定高。由于百分比的 `line-height` 是相对于元素自身的字体大小，因为当 `height` 设置为百分比时，无法实现 `line-height` 等于 `height`；
-     2. 只能是单行文字，一旦换行，将会非常难看；
+> **方案2**: 确保父元素的 `line-height` 等于其 `height`, 并将子元素设置成 `display: inline-block + vertical-align: center` 并借助 `font-size: 0` 消除"幽灵空白节点"。
 
-- **方案2**：确保父元素的 `line-height` 等于其 `height`, 并将子元素设置成 `display: inline-block + vertical-align: center` 并借助 `font-size: 0` 消除"幽灵空白节点"。
-- **评估**：
   - 优点：适用性广，块状元素也可以使用此方法，兼容性好（`IE7+`）
   - 缺点：除了拥有方案1的缺点之外，缺点还有：需要书写的代码更多，因为"幽灵空白节点"的存在，代码写的不够直观。
+
+<card shadow>
+  <css-center-text-vertical-2/>
+</card>
+
+<foldable no-mask>
+
+<<< @/docs/.vuepress/components/css-center/text-vertical-2.vue
+
+</foldable>
 
 ### 文字的水平垂直居中（父元素不定高）
 
@@ -151,7 +166,7 @@
 
 ### 块的垂直居中（父元素不定高，子元素定高）
 
-> 方案：最暴力的居中解决方式, `postion: absolute`, 结合 `margin: auto`。
+> 方案1：最暴力的居中解决方式, `postion: absolute`, 结合 `margin: auto`。
 
 ``` css
 .absolute-center-box {
@@ -174,13 +189,25 @@
 
 </foldable>
 
+> 方案2：flexbox。
 
-### 块的垂直居中（父元素不定高）
+```css
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
 
-#### 方案1: 采用 `line-height` + `vertical-align`
-#### 方案2: 采用 `table-cell`
+### 块的垂直居中（父元素定高，子元素不定高）
 
-TODO
+> 方案1：flexbox。
+
+> 方案2：table-cell, 类似于图片的处理方式。
+
+### 块的垂直居中（父元素不定高，子元素不定高）
+
+> 方案：flexbox。
 
 ### 块的水平垂直居中 - 父元素定高
 

@@ -1,36 +1,19 @@
 <template>
-  <div class="text-center-vertical-2 wrapper">
-    <div class="item item1 card">
-      <span>Lorem ipsum (方案1)</span>
-    </div>
-    <div class="item item2 card">
-      <span>Lorem ipsum (方案2)</span>
-    </div>
+  <div class="css-center-text-vertical-2">
+    <span class="text">Lorem ipsum.</span>
   </div>
 </template>
 
 <style lang="stylus" scoped>
-  .text-center-vertical-2 {
-    height: 100px; // 动态高度
-    display: flex;
-    .item {
-      @extend $shadow;
-      flex: 1;
-      margin-right: 10px;
-      height: 100%;
-    }
-    .item1 {
-      display: table;
-      text-align: center;
-      span {
-        display: table-cell;
-        vertical-align: middle;
-      }
-    }
-    .item2 {
-      display: flex;
-      justify-content: center;
-      align-items: center;
+  .css-center-text-vertical-2 {
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    font-size: 0;
+    .text {
+      display: inline-block;
+      vertical-align: middle;
+      font-size: 16px;
     }
   }
 </style>
