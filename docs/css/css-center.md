@@ -117,11 +117,23 @@
   <css-center-block-horizontal-1/>
 </card>
 
+<foldable no-mask>
+
+<<< @/docs/.vuepress/components/css-center/block-horizontal-1.vue
+
+</foldable>
+
 #### 方案2: 采用 `inline-block`
 
 <card bg>
   <css-center-block-horizontal-2/>
 </card>
+
+<foldable no-mask>
+
+<<< @/docs/.vuepress/components/css-center/block-horizontal-2.vue
+
+</foldable>
 
 ### 块的垂直居中（父元素定高）
 
@@ -130,6 +142,12 @@
 <card bg>
   <css-center-block-vertical-1/>
 </card>
+
+<foldable no-mask>
+
+<<< @/docs/.vuepress/components/css-center/block-vertical-1.vue
+
+</foldable>
 
 ### 块的垂直居中（父元素不定高）
 
