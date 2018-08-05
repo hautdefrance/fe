@@ -21,6 +21,17 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
+  // markdown: {
+  //   define: {
+  //     sourceCode() {
+  //       return `<foldable no-mask>
+  //
+  // <<< @/docs/.vuepress/components/css-center/text-vertical-2.vue
+  //
+  // </foldable>`
+  //     }
+  //   }
+  // },
   stylus: {
     import: [path.resolve(__dirname, './style/config.styl')]
   },

@@ -30,13 +30,10 @@
   .css-center-text-vertical-3 {
     position: relative;
     width: 100%;
-    display: table;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     transition: all .3s;
-    .text {
-      display: table-cell;
-      vertical-align: middle;
-    }
     .height-switch {
       position: absolute;
       top: 20px;
