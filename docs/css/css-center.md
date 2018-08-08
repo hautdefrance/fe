@@ -176,7 +176,17 @@
   - **示例**：
   - **源码**：
 
-<css-center-img/>
+  <card shadow>
+    <css-center-img-2/>
+  </card>
+   
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/img-2.vue
+  
+  </foldable>
 
 ## 块的居中
 
