@@ -174,7 +174,6 @@
 
   - **策略**：使用 `flexbox`。
   - **示例**：
-  - **源码**：
 
   <card shadow>
     <css-center-img-2/>
@@ -188,82 +187,105 @@
   
   </foldable>
 
-## 块的居中
+## 3 块的居中
 
-### 块的水平居中
+### 3.1 块的水平居中
 
-#### 方案1: 采用 `margin: auto`
+#### 3.1.1 方案1
 
-<card bg>
-  <css-center-block-horizontal-1/>
-</card>
+  - **策略**：采用 `margin: auto`。
+  - **示例**：
 
-<foldable no-mask>
+  <card bg>
+    <css-center-block-horizontal-1/>
+  </card>
 
-<<< @/docs/.vuepress/components/css-center/block-horizontal-1.vue
+  - **源码**：
 
-</foldable>
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/block-horizontal-1.vue
+  
+  </foldable>
 
-#### 方案2: 采用 `inline-block`
+#### 3.1.2 方案2
 
-<card bg>
-  <css-center-block-horizontal-2/>
-</card>
+  - **策略**：采用 `inline-block`。
+  - **示例**：
 
-<foldable no-mask>
+  <card bg>
+    <css-center-block-horizontal-2/>
+  </card>
 
-<<< @/docs/.vuepress/components/css-center/block-horizontal-2.vue
+  - **源码**：
 
-</foldable>
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/block-horizontal-2.vue
+  
+  </foldable>
 
-### 块的垂直居中（父元素定高和子元素均定高）
+### 3.2 块的垂直居中（父元素定高和子元素均定高）
 
-> 方案：通过设置父元素的 padding 来实现。
+#### 3.2.1 方案1
 
-<card bg>
-  <css-center-block-vertical-1/>
-</card>
+  - **策略**：通过设置父元素的 padding 来实现。
+  - **示例**：
 
-<foldable no-mask>
+  <card bg>
+    <css-center-block-vertical-1/>
+  </card>
 
-<<< @/docs/.vuepress/components/css-center/block-vertical-1.vue
+  - **源码**：
 
-</foldable>
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/block-vertical-1.vue
+  
+  </foldable>
 
-### 块的垂直居中（父元素不定高，子元素定高）
+### 3.3 块的垂直居中（父元素不定高，子元素定高）
 
-> 方案1：最暴力的居中解决方式, `postion: absolute`, 结合 `margin: auto`。
+#### 3.3.1 方案1
 
-``` css
-.absolute-center-box {
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  margin: auto;
-}
-```
+  - **策略**：最暴力的居中解决方式, `postion: absolute`, 结合 `margin: auto`。
 
-<card bg>
-  <css-center-block-vertical-2/>
-</card>
+  ``` css
+  .absolute-center-box {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  ```
+  
+  - **示例**：
 
-<foldable no-mask>
+  <card bg>
+    <css-center-block-vertical-2/>
+  </card>
 
-<<< @/docs/.vuepress/components/css-center/block-vertical-2.vue
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/block-vertical-2.vue
+  
+  </foldable>
 
-</foldable>
+#### 3.3.2 方案2
 
-> 方案2：flexbox。
+  - **策略**：flexbox。
 
-```css
-.parent {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-```
+  ```css
+  .parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ```
 
 ### 块的垂直居中（父元素定高，子元素不定高）
 
