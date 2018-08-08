@@ -130,18 +130,14 @@
   </foldable>
 
 
+### 1.4 多行文字的水平垂直居中 
 
-### 多行文字的水平垂直居中
-
-多行文字的水平垂直居中，是无法采用 `line-height` 来实现的，
-
-### 多行文字的水平垂直居中 (父元素不定高)
+经过前文的讲解，对于多行文字的垂直居中，不可在父容器上使用 `line-height` 等于 `height`, 合适的居中方法应该是将多行文字当成一个整体来布局，对于多行文字，其高度极有可能是未知的，因此，其行为和对**图片**的居中是基本类似的，请参考[图片的垂直居中](#图片的垂直居中)。
 
 
+## 2 图片的居中
 
-## 图片的居中
-
-### img 的有趣之处
+### 2.1 img 标签的的有趣之处
 
 在 HTML 中，`img` 一直是一个比较有趣的元素。它并不是传统意义上的 inline 或者 block 元素，虽然根据 [MDN > Inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements), `img` 是一个 inline 元素，但实际上，img 元素还支持宽高的设置。
 
@@ -153,9 +149,32 @@
 
 > HTML 中 img 元素的内容经常被它的 src 属性指定的图像取代。替换的元素通常具有固有的尺寸、固有宽度、固有高度和固有比率。
 
-在这种背景下，我们可以认为，img 的行为和 `display: inline-block` 的行为基本一致。
+在这种背景下，我们可以认为，`<img>`` 的行为和 `display: inline-block` 的行为基本一致。
 
-### 图片的垂直居中
+### 2.2 图片的垂直居中
+
+#### 2.2.1 方案1
+
+  - **策略**：使用 `table-cell`。
+  - **示例**：
+
+  <card shadow>
+    <css-center-img-1/>
+  </card>
+   
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css-center/img-1.vue
+  
+  </foldable>
+  
+#### 2.2.2 方案2
+
+  - **策略**：使用 `flexbox`。
+  - **示例**：
+  - **源码**：
 
 <css-center-img/>
 

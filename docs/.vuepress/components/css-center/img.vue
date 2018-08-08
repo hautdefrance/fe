@@ -4,23 +4,7 @@
     <h4><p class="solution-title">方案1 - 使用 table-cell 实现</p></h4>
 
     <div class="table-cell-solution">
-      <div class="img-wrap">
-        <div class="table-cell-wrap shadow-card">
-          <img src="https://avatars2.githubusercontent.com/u/23133919?s=50&v=4" alt="">
-        </div>
-      </div>
 
-      <div class="img-wrap">
-        <div class="table-cell-wrap shadow-card">
-          <img src="https://avatars2.githubusercontent.com/u/23133919?s=100&v=4" alt="">
-        </div>
-      </div>
-
-      <div class="img-wrap">
-        <div class="table-cell-wrap shadow-card">
-          <img src="https://avatars2.githubusercontent.com/u/23133919?s=150&v=4" alt="">
-        </div>
-      </div>
     </div>
 
     <h4><p class="solution-title">方案2 - 使用 flexbox 实现</p></h4>
