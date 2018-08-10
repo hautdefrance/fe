@@ -177,7 +177,7 @@ ps: `max-/min-`也包括在内。
 
 <css-tricks-multiple-border-3/>
 
-<foldable>
+<foldable no-mask>
 
   <<< @/docs/.vuepress/components/css-tricks/multiple-border-3.vue
   
@@ -194,7 +194,7 @@ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 
 <css-tricks-multiple-border-4/>
 
-<foldable>
+<foldable no-mask>
 
   <<< @/docs/.vuepress/components/css-tricks/multiple-border-4.vue
   

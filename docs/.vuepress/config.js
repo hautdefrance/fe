@@ -4,6 +4,7 @@ const fs = require('fs')
 const sidebars = [
   { title: 'JavaScript', dirname: 'javascript' },
   { title: 'CSS', dirname: 'css' },
+  { title: 'CSS画廊', dirname: 'css-showcase' },
   { title: 'Node.js', dirname: 'node' },
   { title: 'Back-end', dirname: 'back-end' },
   { title: 'Design', dirname: 'design' },

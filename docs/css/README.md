@@ -24,7 +24,7 @@ CSS 是一种可以让你的页面变美的颜料。
 - [2 样式化文字](./styling-text.md)
 - [3 盒子模型](./box.md)
 - [4 布局](./layout.md)
-- [5 动画](./animation.md)
+- [5 过渡与动画](../css-showcase/animation.md)
 
 ## 推荐阅读
 
