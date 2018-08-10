@@ -43,6 +43,10 @@
 </script>
 
 <style lang="stylus" scoped>
+  .css-center-img-1 {
+    padding: 10px;
+  }
+
   .css-center-img-1-content {
     display: flex;
     @media (max-width: 719px) {
@@ -52,7 +56,6 @@
     .img-wrap {
       flex: 1;
       width: 200px;
-      margin-bottom: 20px;
       .table-cell-wrap {
         transition: all .3s;
         background-color: $green;
@@ -69,7 +72,6 @@
   }
 
   .height-switch {
-    padding: 10px;
-    flex: 0;
+    margin-bottom: 10px;
   }
 </style>

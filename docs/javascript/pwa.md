@@ -10,6 +10,7 @@
 - [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
 - [使用 Service Workers](https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 - [ServiceWorker](https://w3c.github.io/ServiceWorker/#serviceworker-interface)
+- [How to Fix the Refresh Button When Using Service Workers](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)
 
 ## API
 
