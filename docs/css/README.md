@@ -1,11 +1,38 @@
-# CSS 概览
+# 概览
 
-> **层叠样式表** (`Cascading Style Sheets`，缩写为 `CSS`），是一种 样式表 语言，用来描述 `HTML` 或 `XML`（包括如 `SVG`、`XHTML` 之类的 `XML` 分支语言）文档的呈现。`CSS` 描述了在屏幕、纸质、音频等其它媒体上的元素应该如何被渲染的问题。
+## 什么是 CSS
 
-## 基本知识
+以下，是来自 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS) 的官方介绍:
 
-- [选择器](./selectors.md) | [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- [样式化文字](./styling-text.md) | [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
-- [盒子模型](./box.md) | [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
-- [布局](./layout.md) | [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+::: tip #
+**层叠样式表** (`Cascading Style Sheets`，缩写为 `CSS`），是一种 样式表 语言，用来描述 `HTML` 或 `XML`（包括如 `SVG`、`XHTML` 之类的 `XML` 分支语言）文档的呈现。`CSS` 描述了在屏幕、纸质、音频等其它媒体上的元素应该如何被渲染的问题。
+:::
 
+而我对 `CSS` 的通俗理解是：
+
+::: tip #
+CSS 是一种可以让你的页面变美的颜料。
+:::
+
+## 怎么学好 CSS
+
+多练习、多感受、多总结（就像这个项目一样。）
+
+## 大纲
+
+- [1 选择器](./selectors.md)
+- [2 样式化文字](./styling-text.md)
+- [3 盒子模型](./box.md)
+- [4 布局](./layout.md)
+- [5 动画](./animation.md)
+
+## 推荐阅读
+
+### 书籍
+
+- [CSS世界](https://book.douban.com/subject/27615777/)
+
+### 博客
+
+- [张鑫旭-鑫空间-鑫生活 - zhangxinxu](https://www.zhangxinxu.com/)
+- [w3cplus](https://github.com/W3cplus)

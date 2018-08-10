@@ -53,3 +53,7 @@
 - src：要导入的字体文件的路径（url），以及格式（format），format 可选，但其有助于浏览器更快的使用字体。解析顺序从上到下，浏览器将使用第一个支持的字体，因此推荐将最现代化的字体（woff2）放在最前面
 - font-style / font-weight：当你需要导入同一字体的不同样式的时候可使用，可以避免使用不同的字体名称，参考一个更全面的[例子](http://www.456bereastreet.com/archive/201012/font-face_tip_define_font-weight_and_font-style_to_keep_your_css_simple/)
 
+
+## 参考 
+
+- [MDN > Styling_text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)

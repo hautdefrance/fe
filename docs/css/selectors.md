@@ -1,6 +1,6 @@
 # CSS 选择器
 
-## 概览
+## 1 概览
 
 - ID选择器：`#id`
 - 类选择器：`.class`
@@ -45,3 +45,6 @@ p:nth-child(2){ ... }
 - `P`是一个子元素
 - `p`是父元素的第`2`个子元素
 
+## 参考
+
+- [MDN > CSS_Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
