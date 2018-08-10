@@ -277,17 +277,7 @@
 
 #### 3.3.2 方案2
 
-  - **策略**：flexbox。
-
-  ```css
-  .parent {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  ```
-  
-  请参考图片的垂直居中。
+  - **策略**：采用 `flexbox`，略，请参考图片的垂直居中。
 
 ### 3.4 块的垂直居中（父元素定高，子元素不定高）
 
