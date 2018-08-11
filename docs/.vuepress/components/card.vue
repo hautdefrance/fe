@@ -3,7 +3,7 @@
     class="card"
     :class="{
           'shadow': shadow,
-          'no-padding': noPadding,
+          'padding': padding,
           'flex-center': flexCenter,
           'bg': bg
        }"
@@ -19,7 +19,7 @@
         type: Boolean,
         default: false
       },
-      noPadding: {
+      padding: {
         type: Boolean,
         default: false
       },
