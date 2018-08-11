@@ -1,5 +1,5 @@
 <template>
-  <div class="css-css-selector-1 container">
+  <div class="css-selector-1 container">
     Lorem ipsum dolor sit amet.
   </div>
 </template>

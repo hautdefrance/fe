@@ -54,7 +54,7 @@ CSS 属于一种描述性语言，对于同一个元素（如 `.container`），
 这是一个最简单的选择器优先级讨论问题，也就是说，相同的选择器，越晚被解析的优先级越高。请尝试在控制台中查看以下文字的样式：
 
   <card bg padding>
-    <css-css-selector-1/>
+    <css-selector-1/>
   </card>
   
 那么，对于不同类型的选择器，优先级是如何计算的呢？  
@@ -172,11 +172,35 @@ div p { }
 2. 当一个可复用组件拥有嵌套过深的选择器，那么它在复用时，override 它的默认样式也会相当困难。
 :::
 
-相比之下，BEM 的写法，由于嵌套较少，所以性能也很好，其语义化也相当好。BEM 中单一的选择器在结合 vue-loader 的 scoped CSS 特性也能彻底避免 CSS 的污染问题。同时，虽然 BEM 命名会使得 class 类名变长，但由于存在大量的重复，因此经过 gzip 压缩后这个体积的增加基本可以忽略不计。
+相比之下，BEM 的写法，由于嵌套较少，所以性能也很好，其语义化也相当好。BEM 中单一的选择器在结合 vue-loader 的 scoped CSS 特性也能彻底避免 CSS 的污染问题。同时，虽然 BEM 命名会使得 class 类名变长，但由于存在大量的重复，而 gzip 压缩算法对此有一定优化，因此经过 gzip 后这个体积的增加基本可以忽略不计。
 
 ### 2.4 attr
 
-TODO, ref: https://developer.mozilla.org/zh-CN/docs/Web/CSS/attr
+`attr` 是一个相当酷的 CSS 特性，它可以让你在 CSS 中访问 DOM。下面是一个简单的例子：
+
+``` vue
+<template>
+  <div class="css-selector-2" data-text="I am the text from attr."></div>
+</template>
+
+<style lang="stylus">
+  .css-selector-2::before {
+    content: attr(data-text)
+  }
+</style>
+```
+
+结果如下：
+
+<card bg padding>
+  <css-selector-2/>
+</card>
+
+是不是很酷？详细的文档可参考 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/attr#)。
+
+::: tip #
+一个不错的 CSS tooltip 库 [hint.css](https://github.com/chinchang/hint.css) 便大量使用了这一特性。
+:::
 
 ### 2.5 `nth-child(n)` 的生效条件
 
