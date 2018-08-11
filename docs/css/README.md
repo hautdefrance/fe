@@ -20,11 +20,18 @@ CSS 是一种可以让你的页面变美的颜料。
 
 ## 大纲
 
+### 第一部分 基础知识
+
 - [1 选择器](./selectors.md)
 - [2 样式化文字](./styling-text.md)
 - [3 盒子模型](./box.md)
 - [4 布局](./layout.md)
+
+### 第二部分 进阶知识
+
 - [5 过渡与动画](../css-showcase/animation.md)
+- 6 CSS 预处理器
+- 7 CSS 书写规范
 
 ## 推荐阅读
 

@@ -1,5 +1,7 @@
 # CSS 选择器
 
+[[TOC]]
+
 ## 1 概览
 
 - ID选择器：`#id`
@@ -34,7 +36,7 @@
 
 ## 2 技巧
 
-### 选择器的优先级
+### 2.1 选择器的优先级
 
 CSS 属于一种描述性语言，对于同一个元素（如 `.container`），我们可以这样写样式：
 
@@ -55,9 +57,85 @@ CSS 属于一种描述性语言，对于同一个元素（如 `.container`），
     <css-css-selector-1/>
   </card>
   
-那么，对于不同的选择器，优先级是如何计算的呢？  
+那么，对于不同类型的选择器，优先级是如何计算的呢？  
 
-TODO, ref: https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity
+#### 2.1.1 选择器类型
+
+下面列表中，选择器类型的优先级是递增的：
+
+| 选择器类型 | 例子 | 权重 |
+|---|---|---|
+| 元素（类型）选择器，伪元素 | `h1`, `::before` | 1 |
+| class 选择器 | `.app` | 10 |
+| id 选择器 | `#app` | 100 |
+| 内联样式 | `style="font-size: 12px"` | 1000 |
+
+::: tip #
+请留意这些权重，它将用于在级联的 CSS 选择器中计算权重。
+:::
+
+#### 2.1.2 `!important`
+
+当在一个样式声明中使用一个 `!important` 规则时，此声明将覆盖任何其他声明。但是，请[慎用 `!important`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity##%E4%BE%8B%E5%A4%96%E7%9A%84_!important_%E8%A7%84%E5%88%99)。
+
+### 2.2 选择器的级联
+
+什么是 CSS 级联呢？假设
+
+
+### 2.3 BEM 与 CSS级联
+
+用一个例子来说明 CSS 选择器级联的最佳实践。假设有一个 Vue 组件 `<A/>` 如下：
+
+``` vue
+<div class="block">
+  <span 
+    class="element" 
+    :class="{ 
+      'hide': hide,
+      'active': active
+    }"
+  >Lorem ipsum</div>
+</div>
+```
+
+为了避免污染全局 CSS，一般情况下，我们会有两种实践，第一种是业界比较流行的 [BEM](https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83)：
+
+``` css
+.block { line-height: 30px; } 
+.block__element { color: gray; }
+.block__element_hide { display: none; }
+.block__element_active { color: red; }
+```
+
+第二种就是 CSS 级联了：
+
+``` css
+.block { line-height: 30px; }
+.block .element { color: red; }
+.block .element.hide { display: none; }
+.block .element.active { color: red; }
+```
+
+用预处理类语言来表达就是：
+
+``` stylus
+.block {
+  line-height: 30px;
+  .element {
+    color: red;
+    &.hide {
+      display: none;
+    }
+    &.active {
+      color: red;
+    }
+  }
+}
+```
+
+相比较之下，我个人更喜欢 CSS 级联，由于能够清晰地反映 HTML 的结构，它的可维护性也相当高，也基本上不会因为 CSS 优先级的问题出岔子。
+
 
 ### attr
 
