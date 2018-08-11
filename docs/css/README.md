@@ -35,6 +35,10 @@ CSS 是一种可以让你的页面变美的颜料。
 
 ## 推荐阅读
 
+### 网站
+
+- [CSS specifications](https://www.w3.org/Style/CSS/specs.en.html)
+
 ### 书籍
 
 - [CSS世界](https://book.douban.com/subject/27615777/)
