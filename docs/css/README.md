@@ -29,9 +29,9 @@ CSS 是一种可以让你的页面变美的颜料。
 
 ### 第二部分 进阶知识
 
-- [5 过渡与动画](../css-showcase/animation.md)
-- 6 CSS 预处理器
-- 7 CSS 书写规范
+- [5 过渡与动画](./transition-animation.md)
+- [6 预处理器](./preprocessor.md)
+- [7 风格规范](./style-guide.md)
 
 ## 推荐阅读
 

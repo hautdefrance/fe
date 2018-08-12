@@ -5,7 +5,7 @@
 ## 1 概览
 
 - Fundamental text and font styling
-  - font-size, unit：`px`、`em`、`rem`
+  - font-size, 单位：`px`、`em`、`rem`
   - font-style：`normal`/`italic`/ `oblique`
   - font-weight: `normal`/ `lighter` / `bolder` / `100-900`
   - text-transform: `none` / `uppercase` / `lowercase` / `capitalize` / `full-width`
@@ -19,7 +19,7 @@
   - text-overflow
   - white-space：Define how whitespace and associated line breaks inside the element are handled.
   - word-break：Specify whether to break lines within words.
-  - All see [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+  - 全部的属性请移步[这里](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 - Styling lists
   - list-style
 - Styling links
