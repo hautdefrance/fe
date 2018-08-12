@@ -45,9 +45,11 @@
 
 我们可以通过 `line-height` 等于 `height` 来实现单行文字的垂直居中、`inline-block/图片` 的垂直居中。
 
-### 2.2 深入 white-space 
+### 2.2 white-space 
 
-TODO
+请看下面的 demo，相信已经很直观了：
+
+<css-white-space/>
 
 ### 2.3 rem 与 em
 
