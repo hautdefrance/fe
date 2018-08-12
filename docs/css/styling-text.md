@@ -33,9 +33,17 @@
 
 ## 2 技巧
 
-### 2.1 line-height 和 font-size
+### 2.1 line-height
 
-TODO
+`line-height` 可以设置为具体的单位，如 `20px`，也可以设置为纯数字，如 `1`，这个 `1` 表示 `line-height` 和 `font-size` 的倍数关系。
+
+::: warning 注意
+当值为百分比时，`line-height` 是相对于当前元素的 `font-size`，而 `height` 是相对于父元素的 `height`。
+:::
+
+对于一个包含文字的 div，当 `height` 为 0 时，如果 `line-height` 不为 0，那么这个 div 会被撑开。因此，并不是文字撑开了 div，而是 `line-height`。 
+
+我们可以通过 `line-height` 等于 `height` 来实现单行文字的垂直居中、`inline-block/图片` 的垂直居中。
 
 ### 2.2 深入 white-space 
 
