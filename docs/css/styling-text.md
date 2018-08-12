@@ -1,5 +1,7 @@
 # CSS 文本样式
 
+[[TOC]]
+
 ## 1 概览
 
 - Fundamental text and font styling
@@ -53,13 +55,19 @@
 
 ### 2.3 rem 与 em
 
-TODO
+rem 是相对于 DOM 根节点的字体大小，而 em 是相对于父节点。
 
 ### 2.4 vw 与 vh
 
-TODO
+`1vw` 等于浏览器 viewport 宽度的 `1%`，`1vh` 等于浏览器 viewport 高度的 1%。
 
-### 2.5 如果自定义 font face？
+::: warning 注意
+在移动端，由于浏览器存在地址栏和工具栏，因此 `1vh` 并不等于屏幕高度的 1%，更关键的是，iOS Safari 和 Chrome 都有自动隐藏地址栏/工具栏的黑魔法，1vh 的值还会动态变化，因此请慎用 `vh`。
+:::
+
+### 2.5 @font-face
+
+可以使用 `@font-face` 来使用自定义字体：
 
 ```css
 @font-face {
@@ -67,9 +75,9 @@ TODO
 	font-style: normal;
 	font-weight: 400;
 	src: local("Lato Regular"), local("Lato-Regular"),
-	url("../../../../../fonts/Lato-Regular.woff2") format("woff2"),
-	url("../../../../../fonts/Lato-Regular.woff") format("woff"),
-	url("../../../../../fonts/Lato-Regular.ttf") format("truetype");
+	url("static/fonts/Lato-Regular.woff2") format("woff2"),
+	url("static/fonts/Lato-Regular.woff") format("woff"),
+	url("static/fonts/Lato-Regular.ttf") format("truetype");
 }
 ```
 
