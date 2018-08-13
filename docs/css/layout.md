@@ -24,7 +24,14 @@
 
 ## 2 定位
 
-> TODO
+和定位有关的 CSS 属性：
+
+- `position: fixed` 
+- `position: relative` 
+- `position: absolute` 
+- `position: sticky ` (检查[兼容性](https://caniuse.com/#search=position%3A%20sticky))
+
+关于定位的知识，这里不多展开，后面会在 css 的一些 showcase 提及。
 
 ## 3 Flexbox
 
