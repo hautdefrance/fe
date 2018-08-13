@@ -16,9 +16,17 @@
 
 :::
 
-### 1.3 inline-block
-
 ### 1.3 inline
+
+内联元素不会新起一行，且内联元素总是只占据本身内容所需要的宽度。
+
+::: tip 常见的内联元素
+
+`<a>`、`<abbr>`、`<acronym>`、`<b>`、`<bdo>`、`<big>`、`<br>`、`<button>`、`<cite>`、`<code>`、`<dfn>`、`<em>`、`<i>`、`<img>`、`<input>`、`<kbd>`、`<label>`、`<map>`、`<object>`、`<q>`、`<samp>`、`<script>`、`<select>`、`<small>`、`<span>`、`<strong>`、`<sub>`、`<sup>`、`<textarea>`、`<time>`、`<tt>`、`<var>`。
+
+:::
+
+### 1.3 inline-block
 
 ### 1.4 replaced element 
 
