@@ -1,5 +1,7 @@
 # CSS Tricks
 
+[[TOC]]
+
 ## vertical-align
 
 **See also:**
@@ -199,3 +201,17 @@ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   <<< @/docs/.vuepress/components/css-tricks/multiple-border-4.vue
   
 </foldable>
+
+## `text-indent`
+
+不建议使用 `text-indent`!
+
+因为在移动端效果显示很差，建议使用 `padding-left`。
+
+## `input` 中的 `line-height`
+
+在 input 中不要使用 line-height，设置高度和字体大小即可，input 会自动帮你垂直居中！
+
+## `perspective`
+
+TODO
