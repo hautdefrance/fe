@@ -1,5 +1,7 @@
 # CSS 布局
 
+[[TOC]]
+
 ## 1 浮动
 
 `float` 属性的初衷是用于在成块的文本内浮动图像。但今天它的应用远不止此。
@@ -12,17 +14,63 @@
   <css-layout-float-1/>
 </card>
 
-### 1.2 等宽布局
+### 1.2 多栏布局
 
-<css-layout-float-2/>
+<card>
+  <css-layout-float-2/>
+</card>
 
-## 定位
+实际上，使用 `float` 来实现`多栏布局`实际上是较为繁琐的，很多情况下，你需要手动计算 `width` 和 `margin`。如上述的三栏布局，实际上是一个 `2x + 3y = 100` 的求解问题。实际上，[flexbox](#flexbox) 才是实现`多栏布局`的更好方案。
+
+## 2 定位
 
 > TODO
 
-## Flexbox
+## 3 Flexbox
 
-> TODO
+### 3.1 两栏布局
+
+<card>
+  <css-flexbox-two-columns/>
+</card>
+
+<details>
+<summary><b>Source</b></summary>
+
+<<< @/docs/.vuepress/components/css/flexbox-two-columns.vue
+
+</details>
+
+### 3.2 N栏布局(Grid布局)
+
+<card>
+  <css-flexbox-grid/>
+</card>
+
+<details>
+<summary><b>Source</b></summary>
+
+<<< @/docs/.vuepress/components/css/flexbox-grid.vue
+
+</details>
+
+### 3.3 圣杯布局(Holy Grail Layout)
+
+<card>
+  <css-flexbox-holy-grail/>
+</card>
+
+<details>
+<summary><b>Source</b></summary>
+
+<<< @/docs/.vuepress/components/css/flexbox-holy-grail.vue
+
+</details>
+
+**参考:**
+
+- [Holy Grail Layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
+- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 ## 参考
 
