@@ -72,6 +72,8 @@
 - [Holy Grail Layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
 - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
-## 参考
+---
+
+#### 参考
 
 - [MDN > CSS_layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)

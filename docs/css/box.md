@@ -1,10 +1,18 @@
 # CSS 盒型
 
+[[TOC]]
+
 ## 1 概览
 
 ### 1.1 盒型
 
+基本的盒子模型如下：
+
 ![](https://www.w3.org/TR/css-box-3/images/box.png)
+
+::: warning 注意
+有一个容易被遗忘的属性 `outline`。和 `padding`、`border` 不同的是，`outline` 不参与 `width` 的计算；和 `margin` 不同的是，`outline` 并不会占据额外的空间，而是覆盖在已有空间上（类似于 `position: absolute` 有木有？）。
+:::
 
 ### 1.2 block
 
@@ -28,7 +36,11 @@
 
 ### 1.3 inline-block
 
+`inline-block` 既具有内联元素的特征（不会新起一行、宽度不会为可用宽度的全部），也会拥有块状元素的特征（可设置宽高）。
+
 ### 1.4 replaced element 
+
+CSS 里，可替换元素（`replaced element`）的展现不是由 CSS 来控制的。典型的可替换元素有 `<img>`、`<object>`、`<video>` 和 表单元素，如 `<textarea>`、`<input>` 。
 
 ## 2. 技巧
 
@@ -39,3 +51,4 @@
 - [CSS Display Module Level 3](https://www.w3.org/TR/css-display-3/)
 - [CSS Box Model Module Level 3](https://www.w3.org/TR/css-box-3/)
 - [MDN > Styling_boxes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
+- [replaced element](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Replaced_element)
