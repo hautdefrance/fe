@@ -14,6 +14,10 @@
 CSS 是一种可以让你的页面变美的颜料。
 :::
 
+<p align="center">
+  <img width="500" src="/html-css.jpeg">
+</p>
+
 ## 怎么学好 CSS
 
 多练习、多感受、多总结（就像这个项目一样。）
