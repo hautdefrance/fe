@@ -13,43 +13,6 @@
 
 - [张鑫旭 > 我所知道的几种display:table-cell的应用](https://www.zhangxinxu.com/wordpress/2010/10/%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8Ddisplaytable-cell%E7%9A%84%E5%BA%94%E7%94%A8/)
 
-## 清除浮动
-
-- 为什么要清楚浮动？
-
-当一个内层元素是浮动的时候，如果没有关闭浮动，其父元素也就不会再包含这个浮动的内层元素，因为此时浮动元素已经脱离了文档流——这将导致外层元素不能被撑开，从而可能导致视图塌陷。
-
-### 不清除浮动演示
-
-- Output:
-
-- <css-clear-floats/>
-<br>
-<br>
-<br>
-<br>
-
-- Source Code:
-
-<<< @/docs/.vuepress/components/css/clear-floats.vue
-
-
-### 清除浮动演示
-
-- Output:
-
-<css-clear-floats-fixed/>
-<br>
-<br>
-
-- Source Code:
-
-<<< @/docs/.vuepress/components/css/clear-floats-fixed.vue
-
-**See also:**
-
-- [BootStrap > Clearfix](https://getbootstrap.com/docs/4.0/utilities/clearfix/)
-
 ## CSS Modules
 
 - [CSS Modules 用法教程](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)

@@ -3,7 +3,8 @@
     <h1>Simple float example</h1>
 
     <img
-      src="https://mdn.mozillademos.org/files/13340/butterfly.jpg"
+      width="300"
+      src="/shanghai.jpeg"
       alt="A pretty butterfly with red, white, and brown coloring, sitting on a large leaf"
     >
 

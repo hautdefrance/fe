@@ -22,6 +22,45 @@
 
 实际上，使用 `float` 来实现`多栏布局`实际上是较为繁琐的，很多情况下，你需要手动计算 `width` 和 `margin`。如上述的三栏布局，实际上是一个 `2x + 3y = 100` 的求解问题。实际上，[flexbox](#flexbox) 才是实现`多栏布局`的更好方案。
 
+### 1.3 清除浮动
+
+::: danger #
+为什么要清楚浮动 ？
+:::
+
+当一个内层元素是浮动的时候，如果没有关闭浮动，其父元素也就不会再包含这个浮动的内层元素，因为此时浮动元素已经脱离了文档流——这将导致外层元素不能被撑开，从而可能导致视图塌陷。
+
+#### 1.3.1 不清除浮动演示
+
+- Output:
+
+- <css-clear-floats/>
+<br>
+<br>
+<br>
+<br>
+
+- Source Code:
+
+<<< @/docs/.vuepress/components/css/clear-floats.vue
+
+
+#### 1.3.2 不清除浮动演示
+
+- Output:
+
+<css-clear-floats-fixed/>
+<br>
+<br>
+
+- Source Code:
+
+<<< @/docs/.vuepress/components/css/clear-floats-fixed.vue
+
+**参考:**
+
+- [BootStrap > Clearfix](https://getbootstrap.com/docs/4.0/utilities/clearfix/)
+
 ## 2 定位
 
 和定位有关的 CSS 属性：
@@ -31,7 +70,7 @@
 - `position: absolute` 
 - `position: sticky ` (检查[兼容性](https://caniuse.com/#search=position%3A%20sticky))
 
-关于定位的知识，这里不多展开，后面会在 css 的一些 showcase 提及。
+关于定位的知识，这里不多展开，后面会在 css 的一些 showcase 中提及。
 
 ## 3 Flexbox
 
