@@ -80,25 +80,25 @@ ab -n 100 -c 10
 
 ### cat & grep
 
-```shell
+``` bash
 sudo cat /etc/hosts | grep localhost 
 ```
 
 ### ssh
 
-```shell
+``` bash
 ssh -i ~/.ssh/xxx stack@xxx
 ```
 
 ### find
 
-```shell
+``` bash
 find /home -name "*.txt"
 ```
 
 ### grep 的前后匹配
 
-```sh
+``` bash
 grep -C 5 foo file  # 显示file文件中匹配foo字串那行以及上下5行
 grep -B 5 foo file  # 显示foo及前5行
 grep -A 5 foo file  # 显示foo及后5行
@@ -106,13 +106,13 @@ grep -A 5 foo file  # 显示foo及后5行
 
 ### 查看当前目录文件的数量
 
-``` sh 
+``` bash 
 ls -l | grep "^-" | wc -l
 ```
 
 ### 查看当前目录子目录的数量
 
-``` sh 
+``` bash
 ls -l | grep "^d" | wc -l
 ```
 
@@ -120,13 +120,13 @@ ls -l | grep "^d" | wc -l
 
 - 方案一
 
-```bash
+``` bash
 find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
 ```
 
 或者定义别名
 
-```bash
+``` bash
 alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 ```
 
