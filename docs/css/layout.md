@@ -32,34 +32,41 @@
 
 #### 1.3.1 不清除浮动演示
 
-- Output:
+  - **示例**：
 
-- <css-clear-floats/>
+<css-clear-floats/>
 <br>
 <br>
 <br>
 <br>
 
-- Source Code:
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css/clear-floats.vue
 
-<<< @/docs/.vuepress/components/css/clear-floats.vue
-
+  </foldable>
 
 #### 1.3.2 不清除浮动演示
 
-- Output:
+  - **示例**：
 
 <css-clear-floats-fixed/>
 <br>
 <br>
 
-- Source Code:
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css/clear-floats-fixed.vue
 
-<<< @/docs/.vuepress/components/css/clear-floats-fixed.vue
+  </foldable>
 
-**参考:**
-
-- [BootStrap > Clearfix](https://getbootstrap.com/docs/4.0/utilities/clearfix/)
+  - **参考:**
+  
+    - [BootStrap > Clearfix](https://getbootstrap.com/docs/4.0/utilities/clearfix/)
 
 ## 2 定位
 
