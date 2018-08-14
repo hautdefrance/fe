@@ -34,11 +34,11 @@
 
   - **示例**：
 
-<css-clear-floats/>
-<br>
-<br>
-<br>
-<br>
+  <css-clear-floats/>
+  <br>
+  <br>
+  <br>
+  <br>
 
   - **源码**：
   
@@ -51,10 +51,10 @@
 #### 1.3.2 不清除浮动演示
 
   - **示例**：
-
-<css-clear-floats-fixed/>
-<br>
-<br>
+  
+  <css-clear-floats-fixed/>
+  <br>
+  <br>
 
   - **源码**：
   
@@ -83,47 +83,55 @@
 
 ### 3.1 两栏布局
 
-<card>
-  <css-flexbox-two-columns/>
-</card>
+  - **示例**：
 
-<details>
-<summary><b>Source</b></summary>
+  <card>
+    <css-flexbox-two-columns/>
+  </card>
 
-<<< @/docs/.vuepress/components/css/flexbox-two-columns.vue
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css/flexbox-two-columns.vue
 
-</details>
+  </foldable>
 
 ### 3.2 N栏布局(Grid布局)
 
-<card>
-  <css-flexbox-grid/>
-</card>
+  - **示例**：
 
-<details>
-<summary><b>Source</b></summary>
+  <card>
+    <css-flexbox-grid/>
+  </card>
 
-<<< @/docs/.vuepress/components/css/flexbox-grid.vue
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css/flexbox-grid.vue
 
-</details>
+  </foldable>
 
 ### 3.3 圣杯布局(Holy Grail Layout)
 
-<card>
-  <css-flexbox-holy-grail/>
-</card>
+  - **示例**：
 
-<details>
-<summary><b>Source</b></summary>
+  <card>
+    <css-flexbox-holy-grail/>
+  </card>
 
-<<< @/docs/.vuepress/components/css/flexbox-holy-grail.vue
+  - **源码**：
+  
+  <foldable no-mask>
+  
+  <<< @/docs/.vuepress/components/css/flexbox-holy-grail.vue
 
-</details>
+  </foldable>
 
-**参考:**
-
-- [Holy Grail Layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
-- [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+  - **参考:**
+    - [Holy Grail Layout](https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/)
+    - [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 ---
 

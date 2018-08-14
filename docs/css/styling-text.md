@@ -53,11 +53,17 @@
 
 <css-white-space/>
 
-### 2.3 rem 与 em
+### 2.3 `rem` 和 `em`
 
-rem 是相对于 DOM 根节点的字体大小，而 em 是相对于父节点。
+在做响应式布局时，`rem` 和 `em` 是两个常见的选择，其中，`rem` 是相对于 `DOM` 根节点（即 `body`）的字体大小，而 `em` 是相对于父元素的字体大小。
 
-### 2.4 vw 与 vh
+在我看到的很多文章中，`em` 并不受待见，似乎所有人都认为 `rem` 才是王道。事实上，如果你细细体会，`em` 和 `rem` 的关系有如 `position: absolute` 和 `position: fixed`。因此，当你在实现一个子元素和父元素的字体成比例的页面时，`em` 也是很有用的。
+
+::: danger 使用 rem 时，body 的 字体大小设置多少合适？
+并没有统一的标准。通常来说，`10px`、`16px` 比较常见。以 [vuepress](https://github.com/vuejs/vuepress/blob/master/lib/default-theme/styles/theme.styl#L17) 为例，`vuepress` 中 `bod` 的 `font-size` 值为 `16px`。因此 `1rem` 等于 `16px`。
+:::
+
+### 2.4 `vw` 和 `vh`
 
 `1vw` 等于浏览器 viewport 宽度的 `1%`，`1vh` 等于浏览器 viewport 高度的 1%。
 
