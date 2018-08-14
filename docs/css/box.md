@@ -14,6 +14,18 @@
 有一个容易被遗忘的属性 `outline`。和 `padding`、`border` 不同的是，`outline` 不参与 `width` 的计算；和 `margin` 不同的是，`outline` 并不会占据额外的空间，而是覆盖在已有空间上（类似于 `position: absolute` 有木有？）。
 :::
 
+#### 1.4.1 content-box
+
+在所有的现代浏览器中，当你使用 `CSS` 对一个元素设置 `width`，其 `width` 将仅仅等于 `content` 的 `width`。这称为 `content-box`。
+
+<css-content-box/>
+
+#### 1.4.1 border-box
+
+除此之外，还存在另外一种盒型，当你使用 `CSS` 对一个元素设置 `width`，其 `width` 将仅仅等于 `content` 的 `width` 加上 `padding` 和 `border`。
+
+<css-border-box/>
+
 ### 1.2 block
 
 块状元素总是新起一行，并且宽度默认为最大可用宽度。
