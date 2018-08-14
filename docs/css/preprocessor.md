@@ -4,18 +4,17 @@
 
 ### 1.1 Playground
 
-<card>
-  <playground>
+<playground lang="stylus">
 
-  ```stylus
-  table
-    for row in 1 2 3 4 5
-      tr:nth-child({row})
-        height: 10px * row
-  ```
+```stylus
+table
+  for row in 1 2 3 4 5
+    tr:nth-child({row})
+      width: 5px * row
+      height: 10px * row
+```
 
-  </playground>
-</card>
+</playground>
 
 ### 1.2 概览
 
