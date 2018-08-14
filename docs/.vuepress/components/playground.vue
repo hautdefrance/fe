@@ -18,7 +18,7 @@
 </template>
 
 <script>
-  /* global STYLUS_CDN, stylus */
+  /* global STYLUS_CDN, stylus, window */
   import loadjs from 'loadjs'
   import { asyncLoad } from './util'
 
@@ -34,6 +34,7 @@
       if (loadjs.isDefined(this.lang)) return
       asyncLoad(LANGS[this.lang], this.lang)
         .then(() => {
+          this.transformer = window[this.lang]
           this.source = this.$refs.code.innerText
         })
     },
@@ -53,8 +54,8 @@
 
     computed: {
       transformed () {
-        if (!window.stylus) return this.source
-        return window.stylus.render(this.source)
+        if (!this.transformer) return this.source
+        return this.transformer.render(this.source)
       }
     }
   }
@@ -85,6 +86,8 @@
     color: #666;
     padding: 5px 8px;
     text-align: right;
+    letter-spacing: 10px;
+    font-size: 0.8em
   }
 
   .source {

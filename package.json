@@ -1,11 +1,10 @@
 {
   "private": true,
   "name": "fe",
-  "description": "A website for Front-end developer",
+  "description": "A website for Front-end developer.",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "release": "/bin/bash deploy.sh"
+    "build": "vuepress build docs"
   },
   "repository": "https://github.com/ulivz/awesome-front-end.git",
   "author": "ulivz <472590061@qq.com>",
