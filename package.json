@@ -1,8 +1,7 @@
 {
-  "name": "awesome-front-end",
-  "description": "A continuous updating list that a awesome FED is most likely to \"fetch\"",
-  "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "name": "fe",
+  "description": "A website for Front-end developer",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
