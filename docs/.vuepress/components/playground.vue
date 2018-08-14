@@ -23,7 +23,7 @@
   import { asyncLoad } from './util'
 
   const LANGS = {
-    stylus: 'http://stylus-lang.com/try/stylus.min.js'
+    stylus: 'https://stylus-lang.com/try/stylus.min.js'
   }
 
   export default {
@@ -118,6 +118,7 @@
       font-size: 16px;
       font-family: monospace;
       box-sizing: border-box;
+      color: #444;
       border: 1px solid #ddd;
       padding: 10px;
       border-radius: 6px;
