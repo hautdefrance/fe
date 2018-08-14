@@ -22,6 +22,13 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
+  chainWebpack (config) {
+    config.plugin('injections').tap(([options]) => [
+      Object.assign(options, {
+        STYLUS_CDN: JSON.stringify('http://stylus-lang.com/try/stylus.min.js')
+      })
+    ])
+  },
   // markdown: {
   //   define: {
   //     sourceCode() {
