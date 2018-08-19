@@ -20,11 +20,17 @@
     },
 
     mounted () {
-      const firstChild = this.$el.children[0]
-      if (firstChild.tagName === 'IFRAME') {
-        firstChild.addEventListener('load', () => {
-          this.showLoading = false;
-        }, false)
+      const iframe = this.$el.children[0]
+      if (iframe.tagName === 'IFRAME') {
+        if (iframe.contentWindow.document.readyState === 'loading') {
+          firstChild.contentWindow.addEventListener('load', () => {
+            this.showLoading = false
+          }, false)
+        } else {
+          setTimeout(() => {
+            this.showLoading = false
+          }, 100)
+        }
       }
     }
   }
