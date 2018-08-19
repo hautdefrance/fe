@@ -1,5 +1,7 @@
 # CSS 预处理器
 
+[[TOC]]
+
 ## 1. Stylus
 
 ### 1.1 Playground
@@ -11,9 +13,26 @@
   </iframe>
 </playground-wrapper>
 
-</playground>
-
 ### 1.2 概览
+
+传统的 CSS 写法
+
+```css
+body {
+  color: #fff;
+}
+```
+
+在 Stylus 中，可以使用风格类似于 [pug](https://pugjs.org/api/getting-started.html) 的纯缩进语法改写为：
+
+```stylus
+body
+  color white
+```
+
+::: tip
+Stylus 也是兼容纯粹的 CSS 语法的。
+:::
 
 ### 1.3 定义变量
 
@@ -34,4 +53,10 @@ TODO
 ## PostCSS
 
 TODO
+
+---
+
+#### 参考
+
+- [stylus](http://stylus-lang.com/)
 
