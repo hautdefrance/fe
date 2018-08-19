@@ -6,8 +6,10 @@
 
 <br>
 
-<iframe height='265' scrolling='no' title='Stylus Playground  | FE' src='//codepen.io/ulivz/embed/ZMzxpZ/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ulivz/pen/ZMzxpZ/'>Stylus Playground  | FE</a> by ULIVZ (<a href='https://codepen.io/ulivz'>@ulivz</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<playground-wrapper>
+  <iframe height='265' scrolling='no' title='Stylus Playground  | FE' src='//codepen.io/ulivz/embed/ZMzxpZ/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ulivz/pen/ZMzxpZ/'>Stylus Playground  | FE</a> by ULIVZ (<a href='https://codepen.io/ulivz'>@ulivz</a>) on <a href='https://codepen.io'>CodePen</a>.
+  </iframe>
+</playground-wrapper>
 
 </playground>
 
