@@ -32,7 +32,6 @@ body
   color white
 ```
 
-
 ::: tip
 Stylus 也是兼容纯粹的 CSS 语法的。
 :::
@@ -194,9 +193,77 @@ $clearfix
 
 ### 2.1 Playground
 
-## Less
+<br>
 
-TODO
+<playground-wrapper>
+  <iframe height='265' scrolling='no' title='SCSS / SASS Playground | FE' src='//codepen.io/ulivz/embed/OoRBPX/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/ulivz/pen/OoRBPX/'>SCSS / SASS Playground | FE</a> by ULIVZ (<a href='https://codepen.io/ulivz'>@ulivz</a>) on <a href='https://codepen.io'>CodePen</a>.
+  </iframe>
+</playground-wrapper>
+
+### 2.2 概览
+
+SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特性：
+
+1. 变量的定义，需要以 `$` 开头；
+2. 嵌套；
+3. Partials, 以 `_` 开头的 scss 将会被认为是局部的样式，该文件不会被生成为独立的样式文件，而是生成在 `import` 它的样式文件中；
+4. Import
+5. Mixins
+6. Extend
+7. Operators
+
+## 3. Less
+
+## 变量
+
+变量名需要以 `@` 开头，变量名和变量值需要用 `:` 隔开；
+
+```less
+@base: #f938ab;
+```
+
+## 混入
+
+你可以直接混入一个 `class`:
+
+```less
+.bordered {
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+
+#menu a {
+  color: #111;
+  .bordered;
+}
+
+.post a {
+  color: red;
+  .bordered;
+}
+```
+
+## 含参的混入
+
+```less
+.border-radius(@radius) {
+  -webkit-border-radius: @radius;
+     -moz-border-radius: @radius;
+          border-radius: @radius;
+}
+
+#header {
+  .border-radius(4px);
+}
+.button {
+  .border-radius(6px);
+}
+```
+
+## 多参的混入
+
+1. 参数可以以 `;` 或者 `,` 分开，但是推荐用 `;`;
+2. 支持用 `:` 指定默认值；
 
 ## PostCSS
 
@@ -207,4 +274,6 @@ TODO
 #### 参考
 
 - [stylus](http://stylus-lang.com/)
+- [scss 中文网](http://sass.bootcss.com/)
+- [less 中文网](http://lesscss.cn/)
 
