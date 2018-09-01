@@ -1,4 +1,4 @@
-# CSS 预处理器
+# CSS 预处理器2
 
 [[TOC]]
 
@@ -222,6 +222,13 @@ SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特�
 @base: #f938ab;
 ```
 
+变量值也支持使用使用表达式：
+
+```less
+@nice-blue: #5B83AD;
+@light-blue: @nice-blue + #111; // 5B83AD + 111111 = 6C94BE
+```
+
 ## 混入
 
 你可以直接混入一个 `class`:
@@ -240,6 +247,114 @@ SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特�
 .post a {
   color: red;
   .bordered;
+}
+```
+
+## 嵌套规则
+
+Less 给予你结合级联使用嵌套的能力。假设有有以下 CSS：
+
+```css
+#header {
+  color: black;
+}
+#header .navigation {
+  font-size: 12px;
+}
+#header .logo {
+  width: 300px;
+}
+```
+
+你可以这样写：
+
+```less
+#header {
+  color: black;
+  .navigation {
+    font-size: 12px;
+  }
+  .logo {
+    width: 300px;
+  }
+}
+```
+
+一种常见的实践，就是将伪元素也打包到你的选择器中：
+
+```css
+.clearfix {
+  display: block;
+  zoom: 1;
+}
+
+.clearfix ::after{
+  content: " ";
+  display: block;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+```
+
+写成 less 则是：
+
+```less
+.clearfix {
+  display: block;
+  zoom: 1;
+  // & 代表当前选择器(::after)的父元素(.clearfix)
+  &::after {
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+}
+```
+
+事实上，嵌套规则在所有的 css 预处理器中都是一样的。
+
+## 嵌套的指令和冒泡
+
+有一些 CSS 原生的指令，如：`@media`、`@keyframe` 可以按照上述类似的规则被嵌套。指令放置在顶部，相对于同一规则集内的其他元素的相对顺序保持不变。这叫 `冒泡`。
+
+如：
+
+```less
+.screen-color {
+  @media screen {
+    color: green;
+    @media (min-width: 768px) {
+      color: red;
+    }
+  }
+  @media tv {
+    color: black;
+  }
+}
+```
+
+输出则是：
+
+```css
+@media screen {
+  .screen-color {
+    color: green;
+  }
+}
+@media screen and (min-width: 768px) {
+  .screen-color {
+    color: red;
+  }
+}
+@media tv {
+  .screen-color {
+    color: black;
+  }
 }
 ```
 
