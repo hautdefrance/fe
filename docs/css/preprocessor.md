@@ -1,4 +1,4 @@
-# CSS 预处理器2
+# CSS 预处理器
 
 [[TOC]]
 
@@ -214,7 +214,7 @@ SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特�
 
 ## 3. Less
 
-## 变量
+### 变量
 
 变量名需要以 `@` 开头，变量名和变量值需要用 `:` 隔开；
 
@@ -229,7 +229,54 @@ SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特�
 @light-blue: @nice-blue + #111; // 5B83AD + 111111 = 6C94BE
 ```
 
-## 混入
+变量值也支持一个变量名：
+
+```less
+@fnord:  "I am fnord.";
+@var:    "fnord";
+
+.a::after {
+  content: @@var; // "I am fnord.";
+}
+```
+
+### 变量的插值
+
+- 对于 `import`：
+
+```less
+// Variables
+@themes: "../../src/themes";
+
+// Usage
+@import "@{themes}/tidal-wave.less";
+```
+
+- 对于 `URLs`：
+
+```less
+// Variables
+@images: "../img";
+
+// Usage
+body {
+  color: #444;
+  background: url("@{images}/white-sand.png");
+}
+```
+
+对于属性：
+
+```less
+@property: color;
+
+.widget {
+  @{property}: #0ee;
+  background-@{property}: #999;
+}
+```
+
+### 混入
 
 你可以直接混入一个 `class`:
 
@@ -250,7 +297,7 @@ SCSS 作为 CSS 预处理器级语言的元老，自然是支持以下几大特�
 }
 ```
 
-## 嵌套规则
+### 3.4 嵌套规则
 
 Less 给予你结合级联使用嵌套的能力。假设有有以下 CSS：
 
@@ -318,7 +365,7 @@ Less 给予你结合级联使用嵌套的能力。假设有有以下 CSS：
 
 事实上，嵌套规则在所有的 css 预处理器中都是一样的。
 
-## 嵌套的指令和冒泡
+### 嵌套的指令和冒泡
 
 有一些 CSS 原生的指令，如：`@media`、`@keyframe` 可以按照上述类似的规则被嵌套。指令放置在顶部，相对于同一规则集内的其他元素的相对顺序保持不变。这叫 `冒泡`。
 
@@ -358,7 +405,77 @@ Less 给予你结合级联使用嵌套的能力。假设有有以下 CSS：
 }
 ```
 
-## 含参的混入
+### 运算
+
+支持的操作符：`+`, `-`, `*`, `/`：
+
+```less
+// 数字被转换到同一单位
+@conversion-1: 5cm + 10mm; // result is 6cm
+@conversion-2: 2 - 3cm - 5mm; // result is 1.5cm
+
+// 当存在不能转换的单位时
+@incompatible-units: 2 + 5px - 3cm; // result is 4px
+
+// 在定义变量是进行变量运算
+@base: 5%;
+@filler: @base * 2; // result is 10%
+@other: @base + @filler; // result is 15%
+```
+
+### 函数
+
+Less 提供了大量的用于转换颜色、操作字符串以及做数学运算的函数。
+
+```less
+@base: #f04615;
+@width: 0.5;
+
+.class {
+  width: percentage(@width); // returns `50%`
+  color: saturate(@base, 5%);
+  background-color: spin(lighten(@base, 25%), 8);
+}
+```
+
+### 命名空间和访问器
+
+有时，你可能想要将你的 mixins 分组，或者只是想做一些封装。
+
+- 格式：
+
+```less
+#Namespace {
+  // styles
+}
+```
+
+- 例子：
+
+```less
+#bundle {
+  .button { ... }
+  .tab { ... }
+  .citation { ... }
+}
+```
+
+使用：
+
+```less
+#header a {
+  color: orange;
+  #bundle > .button;
+}
+```
+
+::: warning 注意
+声明在命名空间内的`变量`只能在该命名空间内使用。
+:::
+
+
+
+### 含参的混入
 
 ```less
 .border-radius(@radius) {
@@ -375,7 +492,7 @@ Less 给予你结合级联使用嵌套的能力。假设有有以下 CSS：
 }
 ```
 
-## 多参的混入
+### 多参的混入
 
 1. 参数可以以 `;` 或者 `,` 分开，但是推荐用 `;`;
 2. 支持用 `:` 指定默认值；
