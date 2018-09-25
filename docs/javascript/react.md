@@ -35,6 +35,10 @@
 
 - **react-native** | [Github](https://github.com/facebook/react-native) | [Documentation](https://reactnative.cn/docs/0.51/getting-started.html)
 
+### 测试工具
+
+- https://github.com/airbnb/enzyme
+
 ### Tutorial
 
 - **《React 入门实例教程》** | [Github](http://www.ruanyifeng.com/blog/2015/03/react.html)
